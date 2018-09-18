@@ -1,0 +1,2087 @@
+,Gender,Tumor_type,Tumor_grade,Gene_P53,Gene_Mgmt,Gene_Egfr,Gene_Mdm2,Gene_Cdk4,Gene_P16,Gene_Ihc_Atrx,Gene_Ch10Q,Gene_Ch9P,Tumor_Location,Tumor_Position,Surgery_type,Age_surgery,life_expectancy,IDH,TERT,IDH_TERT,1p19q_codel,IK
+0,M,GBM,4.0,NORMAL,METHYLE,NORMAL,NORMAL,,DELETE,,,PERTE,A,G,biopsie,60.0,228.0,wt,wt,,,100.0
+1,M,oligo,4.0,NC,METHYLE,,NORMAL,NORMAL,NORMAL,,PERTE,PERTE,A,D,biopsie,74.0,1856.0,NC,,3.0,0.0,
+2,M,GBM,2.0,NC,,,NORMAL,,DELETE,,,NON PERTE,A,bilatéral,partielle,25.0,464.0,wt,,3.0,,80.0
+3,M,GBM,4.0,NORMAL,NON METHYLE,NORMAL,,NORMAL,NORMAL,,,,A,D,exérèse,41.0,371.0,mutant,,4.0,0.0,80.0
+4,M,GBM,4.0,NC,,,AMPLIFIE,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,G,partielle,58.0,221.0,wt,wt,3.0,,80.0
+5,M,GBM,4.0,NC,NON METHYLE,NORMAL,,AMPLIFIE,NORMAL,,PERTE,,A,D,aucune,26.0,52.0,wt,mutant,4.0,0.0,
+6,M,astrocytome gémistocytique (=A2),4.0,NC,,,AMPLIFIE,NORMAL,DELETE,,NON PERTE,,N,bilatéral,biopsie,60.0,743.0,wt,wt,3.0,,
+7,M,GBM,4.0,NC,,,,NORMAL,,,PERTE,PERTE,A,bilatéral,biopsie,23.0,1071.0,NC,wt,,,
+8,M,gliome,3.0,NC,,,NORMAL,,NORMAL,,,,A,non précisé,biopsie,73.0,4221.0,wt,mutant,3.0,0.0,
+9,F,oligo,3.0,ALTERE,,NORMAL,,NORMAL,NORMAL,,,,A,G,biopsie,44.0,1295.0,wt,mutant,2.0,,90.0
+10,F,GBM,2.0,,,NORMAL,,NORMAL,,,PERTE,PERTE,A,G,exérèse,37.0,693.0,NC,wt,,0.0,
+11,F,oligo,4.0,,METHYLE,NORMAL,,AMPLIFIE,,,NON PERTE,PERTE,A,G,exérèse,59.0,1236.0,mutant,,3.0,,
+12,F,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,G,partielle,66.0,344.0,wt,mutant,,0.0,90.0
+13,M,GBM,2.0,NC,,,NORMAL,,,extinction,PERTE,,A,bilatéral,partielle,22.0,371.0,mutant,mutant,4.0,0.0,
+14,F,astrocytome gémistocytique (=A2),3.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,,,,,A,G,partielle,23.0,397.0,wt,mutant,4.0,,
+15,M,oligo,4.0,NORMAL,,,NORMAL,,,,PERTE,NON PERTE,A,bilatéral,partielle,32.0,260.0,NC,wt,,0.0,
+16,F,GBM,3.0,,NON METHYLE,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,D,partielle,53.0,568.0,wt,,4.0,0.0,90.0
+17,M,GBM,4.0,NC,METHYLE,,,NORMAL,,,,PERTE,A,G,biopsie,50.0,2087.0,NC,mutant,4.0,0.0,90.0
+18,M,GBM,3.0,NC,METHYLE,,,,NORMAL,,,NON PERTE,A,G,biopsie,61.0,1564.0,wt,,,,
+19,M,gliome,4.0,NC,,NORMAL,,,,,NON PERTE,,A,G,partielle,58.0,739.0,wt,,2.0,,70.0
+20,M,GBM,4.0,,,NORMAL,NORMAL,NORMAL,NORMAL,,PERTE,PERTE,A,G,partielle,63.0,398.0,wt,mutant,4.0,0.0,
+21,M,gliome,3.0,NC,,NORMAL,,,,,,,A,D,aucune,56.0,264.0,wt,,4.0,,
+22,M,gliome,4.0,NC,,NORMAL,NORMAL,NORMAL,,,NON PERTE,PERTE,A,D,biopsie,47.0,229.0,NC,mutant,4.0,,60.0
+23,M,GBM,2.0,NORMAL,NON METHYLE,NORMAL,,NORMAL,,,PERTE,NON PERTE,A,G,biopsie,76.0,297.0,NC,,,0.0,90.0
+24,M,GBM,4.0,NORMAL,METHYLE,AMPLIFIE,NORMAL,AMPLIFIE,NORMAL,,,,A,D,biopsie,31.0,90.0,wt,wt,3.0,,
+25,M,GBM,4.0,NC,NON METHYLE,NORMAL,NORMAL,,,,NON PERTE,,A,D,exérèse,66.0,922.0,wt,,4.0,,
+26,F,GBM,3.0,NORMAL,,NORMAL,,NORMAL,DELETE,,,NON PERTE,A,D,partielle,33.0,891.0,NC,mutant,,,80.0
+27,F,astrocytome,4.0,NC,,NORMAL,AMPLIFIE,NORMAL,NORMAL,,,,A,D,biopsie,80.0,2890.0,wt,,,,100.0
+28,M,gliome,3.0,,NON METHYLE,,NORMAL,,DELETE,,,,A,D,partielle,81.0,371.0,wt,,,,
+29,M,oligo,2.0,NC,,NORMAL,,,NORMAL,,NON PERTE,,A,D,exérèse,63.0,806.0,NC,mutant,,,80.0
+30,F,gliome,3.0,NC,,AMPLIFIE,,NORMAL,DELETE,Maintien,,,A,D,biopsie,61.0,1875.0,wt,,,0.0,
+31,M,GBM,2.0,NC,,NORMAL,,,,,,,A,D,exérèse,38.0,513.0,wt,wt,4.0,,80.0
+32,M,oligo,4.0,NC,,,NORMAL,,,,PERTE,,A,D,partielle,54.0,4.0,wt,mutant,3.0,0.0,90.0
+33,F,gliome,4.0,NC,METHYLE,NORMAL,NORMAL,,NORMAL,,,PERTE,A,G,biopsie,56.0,241.0,wt,wt,4.0,0.0,
+34,M,GBM,2.0,NC,,NORMAL,NORMAL,,NORMAL,,,,A,D,exérèse,34.0,1449.0,wt,mutant,4.0,0.0,
+35,M,oligo,3.0,NORMAL,,NORMAL,,NORMAL,,,,,A,D,exérèse,58.0,628.0,NC,,3.0,,
+36,M,astrocytome pilocytique,3.0,NC,NON METHYLE,,,NORMAL,NORMAL,,,,A,G,exérèse,72.0,615.0,wt,,4.0,,80.0
+37,M,GBM,1.0,NORMAL,NON METHYLE,NORMAL,,,NORMAL,,NON PERTE,,B,D,partielle,81.0,762.0,mutant,mutant,,,
+38,F,gangliogliome,4.0,NC,NON METHYLE,,NORMAL,,,,PERTE,,A,G,exérèse,72.0,944.0,mutant,wt,4.0,,90.0
+39,M,astrocytome,2.0,NC,,,NORMAL,,NORMAL,,NON PERTE,,A,G,biopsie,48.0,2246.0,wt,mutant,4.0,0.0,
+40,M,gliome,3.0,NC,METHYLE,,NORMAL,,DELETE,,NON PERTE,NON PERTE,A,G,partielle,37.0,520.0,NC,wt,4.0,0.0,
+41,M,oligo,3.0,NC,,,NORMAL,,,,NON PERTE,PERTE,A,G,exérèse,67.0,1119.0,wt,,,,80.0
+42,M,GBM,4.0,NC,NON METHYLE,NORMAL,,,,,NON PERTE,NON PERTE,A,G,exérèse,74.0,301.0,wt,,4.0,,
+43,F,GBM,3.0,NC,,,NORMAL,NORMAL,DELETE,,PERTE,,A,G,partielle,48.0,1343.0,wt,mutant,,0.0,
+44,M,GBM,4.0,NC,,,,NORMAL,,,PERTE,,A,D,partielle,50.0,387.0,wt,,4.0,,80.0
+45,M,GBM,3.0,NC,,AMPLIFIE,NORMAL,,,,,PERTE,A,D,biopsie,35.0,545.0,mutant,mutant,,,90.0
+46,M,gliome,4.0,NC,,,NORMAL,,DELETE,Maintien,PERTE,NON PERTE,A,D,biopsie,48.0,801.0,NC,mutant,,,80.0
+47,M,GBM,4.0,,,,NORMAL,,DELETE,,,,A,D,partielle,67.0,173.0,wt,mutant,3.0,0.0,
+48,M,GBM,4.0,NC,,,,,,,,,A,D,exérèse,68.0,567.0,wt,mutant,,0.0,100.0
+49,M,gliome,4.0,NC,,,,,,,,,A,D,partielle,81.0,4738.0,NC,mutant,4.0,,60.0
+50,F,GBM,4.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,B,G,biopsie,30.0,258.0,mutant,,4.0,,90.0
+51,M,gliome,2.0,NC,,,NORMAL,,NORMAL,,,,A,bilatéral,biopsie,55.0,687.0,wt,mutant,4.0,0.0,
+52,M,GBM,4.0,NC,NON METHYLE,,NORMAL,,NORMAL,,NON PERTE,,A,D,biopsie,59.0,160.0,mutant,,,,
+53,M,GBM,4.0,NC,NON METHYLE,,NORMAL,,,,PERTE,,A,D,exérèse,76.0,321.0,wt,mutant,4.0,0.0,90.0
+54,F,GBM,4.0,NC,,NORMAL,,,NORMAL,,,,A,G,biopsie,71.0,393.0,wt,,4.0,,90.0
+55,F,oligo,3.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,PERTE,PERTE,A,G,biopsie,52.0,2524.0,mutant,mutant,,0.0,80.0
+56,M,GBM,4.0,NC,,,,NORMAL,NORMAL,,PERTE,,A,bilatéral,biopsie,73.0,1664.0,wt,,,,
+57,F,GBM,3.0,NC,,NORMAL,NORMAL,,DELETE,,PERTE,NON PERTE,A,bilatéral,partielle,46.0,1145.0,wt,mutant,3.0,,
+58,F,GBM,3.0,NC,,NORMAL,,,NORMAL,,NON PERTE,,A,D,partielle,57.0,403.0,wt,,4.0,0.0,70.0
+59,M,GBM,3.0,NC,,,,,NORMAL,,NON PERTE,PERTE,A,bilatéral,exérèse,31.0,213.0,mutant,,4.0,,
+60,M,oligo,4.0,NC,,AMPLIFIE,NORMAL,,,,,,A,G,exérèse,45.0,408.0,wt,mutant,,,100.0
+61,F,astrocytome,4.0,NC,,NORMAL,,,NORMAL,,,,A,G,partielle,28.0,389.0,wt,,4.0,0.0,90.0
+62,F,GBM,4.0,,METHYLE,NORMAL,,NORMAL,,,NON PERTE,,A,,partielle,41.0,38.0,wt,wt,4.0,0.0,90.0
+63,F,astrocytome,3.0,ALTERE,,,NORMAL,NORMAL,NORMAL,,,,A,G,exérèse,83.0,426.0,wt,,,0.0,
+64,M,gliome,3.0,NC,,,NORMAL,NORMAL,,,PERTE,NON PERTE,A,non précisé,exérèse,49.0,1034.0,mutant,mutant,4.0,0.0,90.0
+65,M,oligo,4.0,NC,,NORMAL,,NORMAL,DELETE,,,,A,D,partielle,78.0,836.0,NC,mutant,4.0,0.0,80.0
+66,M,GBM,4.0,NC,,,AMPLIFIE,NORMAL,,,NON PERTE,,A,D,biopsie,54.0,119.0,mutant,,,0.0,70.0
+67,F,GBM,4.0,ALTERE,,NORMAL,NORMAL,,DELETE,,PERTE,PERTE,B,G,biopsie,71.0,229.0,mutant,,,1.0,
+68,M,GBM,2.0,NC,,,,,DELETE,,,NON PERTE,A,G,biopsie,87.0,444.0,wt,mutant,4.0,,
+69,M,GBM,4.0,NC,,AMPLIFIE,,,,,,,A,,exérèse,71.0,1358.0,wt,wt,4.0,,
+70,M,GBM,4.0,,NON METHYLE,AMPLIFIE,,NORMAL,,,,,A,D,exérèse,42.0,713.0,wt,mutant,3.0,0.0,70.0
+71,F,GBM,4.0,NC,,NORMAL,,NORMAL,,,,,A,G,biopsie,28.0,651.0,wt,wt,,0.0,90.0
+72,M,astrocytome,4.0,,,NORMAL,,NORMAL,NORMAL,,,NON PERTE,A,G,biopsie,35.0,85.0,NC,wt,4.0,,
+73,F,oligo,4.0,NC,,,,NORMAL,,,,,A,G,partielle,64.0,988.0,wt,,,,
+74,M,gliome,4.0,NC,,,,NORMAL,NORMAL,,NON PERTE,,A,D,biopsie,39.0,1153.0,wt,,4.0,,
+75,F,gliome,2.0,NORMAL,METHYLE,,,,NORMAL,,,,A,non précisé,exérèse,29.0,554.0,wt,mutant,,,
+76,M,GBM,4.0,NC,,,,AMPLIFIE,DELETE,,PERTE,,A,D,exérèse,28.0,6429.0,wt,mutant,4.0,0.0,90.0
+77,F,oligo,4.0,NC,METHYLE,,NORMAL,AMPLIFIE,NORMAL,,,,A,G,partielle,38.0,416.0,wt,,3.0,,90.0
+78,M,GBM,3.0,NC,,NORMAL,,NORMAL,,,,PERTE,A,G,biopsie,62.0,1770.0,wt,,4.0,0.0,70.0
+79,M,GBM,3.0,NC,,NORMAL,,,NORMAL,,,PERTE,A,D,biopsie,76.0,462.0,mutant,mutant,3.0,0.0,
+80,M,gliome,4.0,NC,,NORMAL,NORMAL,NORMAL,,,NON PERTE,,A,G,partielle,43.0,379.0,NC,mutant,3.0,,
+81,F,GBM,3.0,NC,NON METHYLE,,,NORMAL,NORMAL,,,PERTE,A,G,biopsie,19.0,408.0,wt,mutant,3.0,,80.0
+82,M,GBM,4.0,NC,,AMPLIFIE,,,NORMAL,,,PERTE,A,G,exérèse,36.0,470.0,wt,wt,4.0,,80.0
+83,F,GBM,4.0,NC,,,NORMAL,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,D,partielle,42.0,372.0,wt,wt,4.0,1.0,
+84,F,GBM,4.0,NC,,NORMAL,,NORMAL,,,NON PERTE,,A,non précisé,biopsie,37.0,3393.0,wt,mutant,,,
+85,M,GBM,4.0,NC,,,NORMAL,,,,,NON PERTE,A,bilatéral,partielle,55.0,1482.0,mutant,mutant,,0.0,
+86,M,astrocytome,4.0,NC,NON METHYLE,,NORMAL,AMPLIFIE,,,,,A,G,aucune,59.0,371.0,wt,,3.0,0.0,90.0
+87,F,astrocytome,4.0,,NON METHYLE,,NORMAL,,NORMAL,,PERTE,NON PERTE,A,D,partielle,64.0,666.0,mutant,mutant,3.0,0.0,80.0
+88,F,GBM,3.0,,NON METHYLE,AMPLIFIE,,NORMAL,,,NON PERTE,NON PERTE,A,D,exérèse,63.0,579.0,wt,,,0.0,80.0
+89,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,,NORMAL,,PERTE,,A,bilatéral,biopsie,33.0,598.0,wt,,4.0,,70.0
+90,F,astrocytome,4.0,NC,NON METHYLE,,,,,,,PERTE,B,G,partielle,71.0,181.0,NC,mutant,4.0,,
+91,M,oligo,4.0,,,AMPLIFIE,,,,,NON PERTE,,A,D,exérèse,41.0,290.0,wt,wt,4.0,,80.0
+92,M,GBM,3.0,NORMAL,METHYLE,,,NORMAL,,,,,A,G,exérèse,18.0,1092.0,wt,,,,100.0
+93,F,GBM,2.0,NC,,,AMPLIFIE,NORMAL,DELETE,,NON PERTE,PERTE,A,G,exérèse,32.0,513.0,wt,mutant,4.0,,70.0
+94,F,GBM,2.0,NC,,,,,NORMAL,,NON PERTE,,A,G,partielle,48.0,370.0,wt,,4.0,0.0,
+95,M,GBM,4.0,NC,,,,NORMAL,NORMAL,,,,A,G,partielle,59.0,3282.0,wt,mutant,,,
+96,F,GBM,4.0,NC,,AMPLIFIE,,NORMAL,,,NON PERTE,,A,G,partielle,61.0,734.0,wt,,,,70.0
+97,M,GBM,4.0,NC,,,,NORMAL,DELETE,,,NON PERTE,A,G,exérèse,60.0,373.0,mutant,mutant,4.0,,
+98,M,astrocytome,4.0,NC,,NORMAL,,,,,NON PERTE,,A,D,biopsie,66.0,275.0,NC,mutant,4.0,,
+99,F,GBM,2.0,NC,,NORMAL,NORMAL,,,,PERTE,,A,D,exérèse,61.0,932.0,wt,mutant,4.0,0.0,
+100,F,GBM,4.0,NORMAL,,NORMAL,,,DELETE,,,,A,D,biopsie,59.0,210.0,NC,,,,
+101,M,astrocytome pilocytique,3.0,NC,,NORMAL,,NORMAL,,,,PERTE,A,D,partielle,46.0,806.0,wt,mutant,4.0,1.0,
+102,F,gliome,4.0,,,AMPLIFIE,NORMAL,,,,PERTE,PERTE,A,G,exérèse,67.0,329.0,NC,mutant,4.0,,
+103,F,GBM,4.0,NC,,AMPLIFIE,,NORMAL,DELETE,,,NON PERTE,A,G,exérèse,49.0,2146.0,wt,mutant,4.0,0.0,70.0
+104,M,astrocytome,4.0,NC,METHYLE,,NORMAL,,NORMAL,,NON PERTE,PERTE,A,D,biopsie,50.0,3893.0,wt,mutant,4.0,0.0,90.0
+105,M,GBM,3.0,,,,,,NORMAL,,PERTE,PERTE,A,G,biopsie,79.0,414.0,wt,,3.0,0.0,80.0
+106,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,DELETE,,,PERTE,A,D,exérèse,53.0,532.0,mutant,,4.0,0.0,60.0
+107,F,GBM,3.0,NORMAL,,,NORMAL,NORMAL,NORMAL,,,PERTE,A,D,partielle,70.0,113.0,wt,mutant,,0.0,90.0
+108,F,GBM,4.0,NC,,,NORMAL,NORMAL,NORMAL,,PERTE,,A,non précisé,biopsie,32.0,1481.0,wt,wt,,,
+109,F,oligo,2.0,NC,,,NORMAL,AMPLIFIE,DELETE,extinction,NON PERTE,,A,D,biopsie,69.0,3951.0,mutant,,,0.0,
+110,F,GBM,3.0,,,NORMAL,NORMAL,,NORMAL,,,,A,G,partielle,59.0,384.0,wt,wt,,,70.0
+111,M,gliome,4.0,,METHYLE,,,,,,,,A,bilatéral,biopsie,71.0,852.0,wt,,,,
+112,F,oligo,4.0,NC,,AMPLIFIE,,NORMAL,,,NON PERTE,,A,D,exérèse,20.0,2383.0,wt,wt,,0.0,100.0
+113,F,oligo,2.0,NC,,AMPLIFIE,,,,,NON PERTE,,A,D,biopsie,56.0,685.0,NC,,3.0,,80.0
+114,M,gliome,4.0,NC,,AMPLIFIE,,,NORMAL,,,PERTE,A,G,biopsie,72.0,3715.0,wt,mutant,4.0,0.0,70.0
+115,M,oligo,4.0,NC,,NORMAL,NORMAL,,NORMAL,,,,A,G,biopsie,55.0,441.0,NC,mutant,4.0,0.0,
+116,F,gliome,4.0,NC,,,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,exérèse,65.0,66.0,wt,mutant,,0.0,
+117,M,GBM,4.0,,METHYLE,NORMAL,,NORMAL,,,PERTE,,A,G,exérèse,63.0,818.0,mutant,wt,,0.0,
+118,F,GBM,4.0,NC,,,NORMAL,,,,PERTE,NON PERTE,A,,partielle,43.0,403.0,wt,,4.0,0.0,90.0
+119,F,gliome,3.0,NC,,,NORMAL,,NORMAL,,,PERTE,N,G,biopsie,63.0,1742.0,NC,,,0.0,
+120,M,GBM,4.0,NC,,,,NORMAL,,,PERTE,PERTE,N,G,biopsie,80.0,1154.0,mutant,,4.0,,
+121,M,GBM,4.0,,,,,,,,,,A,D,partielle,56.0,193.0,wt,mutant,4.0,,90.0
+122,M,oligo,3.0,NC,,,,NORMAL,DELETE,,,NON PERTE,A,D,exérèse,33.0,2988.0,wt,wt,,,80.0
+123,M,GBM,4.0,,NON METHYLE,,,,,,,,A,D,exérèse,45.0,1140.0,wt,wt,3.0,,
+124,M,GBM,4.0,,NON METHYLE,NORMAL,,NORMAL,,,NON PERTE,NON PERTE,A,G,exérèse,18.0,1481.0,wt,,4.0,0.0,
+125,F,astrocytome,4.0,NORMAL,,NORMAL,,,,,PERTE,NON PERTE,A,G,partielle,48.0,577.0,wt,,3.0,0.0,80.0
+126,M,GBM,3.0,NC,NON METHYLE,NORMAL,NORMAL,,NORMAL,,NON PERTE,NON PERTE,A,D,exérèse,74.0,414.0,wt,wt,4.0,,
+127,M,GBM,4.0,NC,,,NORMAL,,NORMAL,,,PERTE,A,bilatéral,exérèse,47.0,857.0,wt,,4.0,0.0,
+128,F,GBM,4.0,NC,,NORMAL,,NORMAL,,,PERTE,NON PERTE,A,G,partielle,22.0,2639.0,wt,,,0.0,80.0
+129,F,GBM,4.0,NORMAL,METHYLE,,,,NORMAL,,,,A,G,exérèse,60.0,308.0,mutant,,3.0,1.0,
+130,M,GBM,4.0,NORMAL,,,NORMAL,,NORMAL,,NON PERTE,NON PERTE,A,G,biopsie,74.0,211.0,wt,wt,3.0,,90.0
+131,F,GBM,3.0,,,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,PERTE,A,D,partielle,47.0,3102.0,mutant,mutant,,,90.0
+132,M,oligo,3.0,NC,,,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,exérèse,58.0,638.0,wt,mutant,4.0,,90.0
+133,F,GBM,2.0,,,,NORMAL,,,,NON PERTE,NON PERTE,A,D,partielle,29.0,1805.0,wt,wt,4.0,0.0,
+134,M,gliome,4.0,NC,,NORMAL,NORMAL,NORMAL,,,,,A,G,partielle,66.0,121.0,wt,,,0.0,80.0
+135,F,GBM,4.0,NC,NON METHYLE,NORMAL,NORMAL,,DELETE,,,PERTE,A,G,biopsie,74.0,515.0,mutant,mutant,,,100.0
+136,F,GBM,4.0,NC,METHYLE,,,,,,,NON PERTE,N,G,biopsie,37.0,280.0,wt,,4.0,,100.0
+137,M,GBM,4.0,NC,,,,,,,NON PERTE,,A,non précisé,partielle,19.0,1007.0,wt,,,0.0,100.0
+138,M,GBM,4.0,NC,NON METHYLE,NORMAL,NORMAL,,DELETE,,,PERTE,A,G,partielle,86.0,540.0,wt,mutant,,0.0,
+139,M,oligo,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,,,,NON PERTE,A,G,partielle,28.0,89.0,NC,wt,4.0,0.0,100.0
+140,M,GBM,3.0,NC,,,NORMAL,NORMAL,,,,,A,bilatéral,biopsie,34.0,2967.0,NC,,3.0,0.0,90.0
+141,M,gliome,4.0,NC,,,,,NORMAL,,,NON PERTE,A,D,biopsie,27.0,85.0,mutant,,,0.0,70.0
+142,M,GBM,2.0,NC,METHYLE,NORMAL,NORMAL,AMPLIFIE,,,PERTE,,A,G,exérèse,59.0,665.0,wt,mutant,3.0,,90.0
+143,F,GBM,4.0,NC,METHYLE,,AMPLIFIE,,,,,PERTE,A,D,exérèse,49.0,2831.0,wt,mutant,,0.0,80.0
+144,M,oligo,3.0,NC,,AMPLIFIE,,NORMAL,,,,PERTE,A,non précisé,partielle,57.0,445.0,wt,,,0.0,90.0
+145,F,gliome,4.0,NC,,,NORMAL,,,,,,A,G,biopsie,68.0,744.0,wt,,4.0,0.0,
+146,F,astrocytome,3.0,NORMAL,NON METHYLE,,,,NORMAL,,NON PERTE,,N,non précisé,biopsie,45.0,4787.0,wt,wt,3.0,,80.0
+147,M,GBM,2.0,NORMAL,METHYLE,,,NORMAL,NORMAL,,,,A,G,,43.0,1858.0,NC,,3.0,1.0,90.0
+148,F,GBM,4.0,NORMAL,,NORMAL,NORMAL,,NORMAL,,,,A,G,biopsie,43.0,1262.0,wt,mutant,4.0,0.0,70.0
+149,M,astrocytome,2.0,,,,NORMAL,,,,PERTE,PERTE,A,D,partielle,52.0,375.0,wt,mutant,4.0,,
+150,F,GBM,4.0,,,NORMAL,NORMAL,,NORMAL,,PERTE,PERTE,A,D,,69.0,5095.0,mutant,,,,90.0
+151,M,gliome,4.0,NORMAL,,,NORMAL,AMPLIFIE,,Maintien,PERTE,PERTE,N,D,biopsie,58.0,370.0,NC,mutant,4.0,,80.0
+152,M,GBM,4.0,NORMAL,NON METHYLE,NORMAL,NORMAL,,DELETE,,PERTE,PERTE,A,D,biopsie,52.0,299.0,wt,wt,4.0,0.0,
+153,M,oligo,4.0,NC,NON METHYLE,,AMPLIFIE,NORMAL,DELETE,,,,A,G,exérèse,61.0,188.0,wt,,,,
+154,M,oligo,2.0,NC,,NORMAL,,,NORMAL,,,PERTE,A,D,exérèse,66.0,369.0,wt,mutant,3.0,0.0,90.0
+155,M,gliome,1.0,NC,,AMPLIFIE,NORMAL,NORMAL,,,NON PERTE,,A,bilatéral,partielle,54.0,386.0,NC,,,,
+156,F,GBM,3.0,NC,,NORMAL,,,NORMAL,,PERTE,PERTE,A,D,exérèse,50.0,1042.0,wt,mutant,3.0,,
+157,F,GBM,4.0,NORMAL,,,,NORMAL,,,NON PERTE,,A,G,exérèse,56.0,374.0,wt,,4.0,0.0,80.0
+158,M,oligo,4.0,NORMAL,,,,,NORMAL,,,PERTE,A,G,exérèse,57.0,813.0,wt,wt,4.0,0.0,60.0
+159,M,astrocytome,4.0,,,,NORMAL,NORMAL,DELETE,,PERTE,,A,G,partielle,28.0,1438.0,wt,mutant,,,100.0
+160,M,gliome,4.0,NC,,,,NORMAL,NORMAL,,,NON PERTE,A,D,partielle,52.0,438.0,wt,mutant,,0.0,70.0
+161,M,astrocytome,4.0,NC,NON METHYLE,,NORMAL,NORMAL,,,,,A,D,biopsie,78.0,2127.0,wt,,4.0,0.0,70.0
+162,F,oligo,2.0,NC,,,,NORMAL,NORMAL,,PERTE,,A,G,biopsie,64.0,3163.0,NC,mutant,4.0,,
+163,F,astrocytome,3.0,NORMAL,,NORMAL,NORMAL,NORMAL,DELETE,,,,A,G,partielle,56.0,303.0,wt,wt,3.0,,
+164,M,GBM,4.0,NC,NON METHYLE,NORMAL,,,,,PERTE,,A,G,exérèse,38.0,23.0,wt,mutant,4.0,0.0,90.0
+165,M,GBM,4.0,NC,,,NORMAL,,,,,,A,G,exérèse,51.0,18.0,wt,wt,,0.0,80.0
+166,M,oligo,3.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,D,biopsie,39.0,160.0,wt,wt,,1.0,
+167,F,gliome,2.0,NC,,,,,,,NON PERTE,NON PERTE,A,D,biopsie,13.0,699.0,wt,wt,,,
+168,F,GBM,4.0,NC,,AMPLIFIE,,,,,NON PERTE,,A,D,biopsie,65.0,647.0,wt,mutant,,,70.0
+169,F,GBM,3.0,NC,,,,,,,,,A,G,partielle,64.0,4569.0,wt,,4.0,,80.0
+170,F,GBM,4.0,NC,,,,NORMAL,NORMAL,,PERTE,,A,G,partielle,73.0,300.0,wt,mutant,,,
+171,M,GBM,3.0,NC,METHYLE,NORMAL,,,,,,PERTE,A,D,exérèse,80.0,169.0,wt,mutant,4.0,0.0,80.0
+172,M,GBM,3.0,NC,,,NORMAL,NORMAL,,,PERTE,,A,D,partielle,40.0,931.0,NC,,3.0,,95.0
+173,F,gliome,4.0,NC,METHYLE,,,NORMAL,,,NON PERTE,PERTE,A,G,exérèse,62.0,670.0,mutant,mutant,3.0,,
+174,M,astrocytome,4.0,,NON METHYLE,NORMAL,,,DELETE,,,,A,G,partielle,27.0,177.0,wt,,,0.0,
+175,F,GBM,4.0,NC,,,,,NORMAL,,NON PERTE,PERTE,A,D,exérèse,64.0,47.0,wt,mutant,4.0,,
+176,M,GBM,2.0,NC,METHYLE,,NORMAL,NORMAL,NORMAL,,,PERTE,N,G,exérèse,51.0,680.0,mutant,mutant,3.0,0.0,
+177,M,gliome,4.0,NC,,,,NORMAL,,,PERTE,,A,D,exérèse,36.0,511.0,wt,mutant,,,
+178,M,GBM,3.0,NC,NON METHYLE,,NORMAL,,,,PERTE,,A,D,biopsie,52.0,1686.0,wt,,4.0,,
+179,F,GBM,4.0,NC,,,NORMAL,,,,,,A,D,exérèse,44.0,3851.0,wt,wt,3.0,0.0,80.0
+180,M,gliome,3.0,NC,,,NORMAL,,DELETE,,,,A,G,exérèse,78.0,942.0,mutant,wt,4.0,,
+181,M,GBM,2.0,NC,METHYLE,,,,NORMAL,,,PERTE,A,G,exérèse,76.0,3711.0,NC,,3.0,0.0,
+182,F,GBM,3.0,NC,,NORMAL,NORMAL,,,,,,A,D,exérèse,74.0,657.0,wt,,4.0,,90.0
+183,F,oligo,2.0,NC,,NORMAL,NORMAL,,,,NON PERTE,PERTE,A,D,partielle,76.0,194.0,wt,wt,4.0,0.0,
+184,F,GBM,2.0,,METHYLE,,,NORMAL,NORMAL,,NON PERTE,,A,G,biopsie,49.0,774.0,wt,mutant,4.0,,
+185,M,GBM,1.0,NC,,NORMAL,NORMAL,NORMAL,,,NON PERTE,,A,G,partielle,62.0,186.0,wt,,,0.0,
+186,F,astrocytome gémistocytique (=A2),3.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,,A,D,partielle,49.0,907.0,NC,,,,
+187,M,oligo,4.0,NC,,,NORMAL,NORMAL,,,NON PERTE,,A,G,exérèse,52.0,5069.0,mutant,,,0.0,60.0
+188,M,gliome,3.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,PERTE,NON PERTE,A,D,exérèse,65.0,573.0,wt,mutant,4.0,1.0,90.0
+189,M,oligo,4.0,,,,NORMAL,,,,,PERTE,A,G,exérèse,46.0,868.0,wt,mutant,4.0,,
+190,M,oligo,3.0,NC,METHYLE,,,NORMAL,NORMAL,,PERTE,PERTE,N,D,exérèse,81.0,997.0,wt,mutant,4.0,,100.0
+191,F,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,,,A,D,partielle,52.0,916.0,wt,,,0.0,70.0
+192,F,GBM,2.0,NC,,,NORMAL,,,,PERTE,NON PERTE,A,G,partielle,54.0,970.0,wt,,3.0,,90.0
+193,F,oligo,1.0,NC,,AMPLIFIE,,NORMAL,,,PERTE,PERTE,A,G,partielle,58.0,96.0,wt,mutant,4.0,,90.0
+194,F,gliome,2.0,NC,NON METHYLE,AMPLIFIE,AMPLIFIE,,DELETE,,,NON PERTE,autre,D,aucune,68.0,1042.0,wt,,4.0,,
+195,M,GBM,4.0,NC,,NORMAL,,NORMAL,,,,PERTE,A,D,biopsie,30.0,644.0,wt,,4.0,,80.0
+196,F,GBM,4.0,NC,METHYLE,,,NORMAL,,,NON PERTE,PERTE,A,non précisé,biopsie,35.0,642.0,wt,,,1.0,80.0
+197,M,oligo,4.0,NC,METHYLE,,,NORMAL,NORMAL,,NON PERTE,,A,G,exérèse,32.0,529.0,wt,,,0.0,60.0
+198,F,oligo,3.0,ALTERE,METHYLE,NORMAL,,NORMAL,NORMAL,,,,A,G,biopsie,76.0,916.0,mutant,mutant,3.0,0.0,
+199,M,GBM,4.0,NC,,NORMAL,,NORMAL,,Maintien,,,A,D,partielle,50.0,310.0,wt,mutant,4.0,,
+200,M,oligo,4.0,NC,,,AMPLIFIE,,NORMAL,,,NON PERTE,A,G,biopsie,59.0,9365.0,wt,mutant,4.0,,70.0
+201,M,GBM,3.0,NC,,NORMAL,,,DELETE,,,,A,D,biopsie,78.0,4261.0,wt,wt,,0.0,80.0
+202,M,GBM,4.0,,,NORMAL,,,,,,NON PERTE,A,D,biopsie,52.0,722.0,NC,,4.0,,
+203,F,GBM,4.0,NC,,NORMAL,NORMAL,,,,NON PERTE,,A,D,partielle,30.0,1453.0,mutant,mutant,,,
+204,F,GBM,4.0,NC,,,,,,,PERTE,,A,G,exérèse,69.0,502.0,wt,mutant,3.0,0.0,
+205,F,GBM,4.0,NC,,NORMAL,NORMAL,,,,NON PERTE,PERTE,A,D,partielle,37.0,660.0,NC,,,0.0,
+206,F,GBM,4.0,,,NORMAL,,,,,,PERTE,A,D,exérèse,32.0,197.0,mutant,wt,,,80.0
+207,M,GBM,2.0,NORMAL,METHYLE,,NORMAL,NORMAL,NORMAL,,PERTE,,A,G,exérèse,48.0,2042.0,wt,mutant,,0.0,
+208,F,GBM,4.0,,NON METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,G,biopsie,66.0,425.0,wt,mutant,,0.0,100.0
+209,M,oligo,4.0,,,,NORMAL,,NORMAL,,NON PERTE,PERTE,A,D,biopsie,58.0,1292.0,wt,mutant,3.0,,90.0
+210,M,oligo,2.0,NC,METHYLE,,,NORMAL,NORMAL,,PERTE,,A,D,biopsie,40.0,350.0,NC,,3.0,1.0,
+211,M,GBM,3.0,NC,,,,,,,NON PERTE,,A,G,biopsie,30.0,807.0,wt,,3.0,,
+212,F,GBM,2.0,NC,,,,,NORMAL,,PERTE,,A,D,partielle,72.0,678.0,wt,,,0.0,70.0
+213,M,astrocytome,4.0,NC,,,NORMAL,,,,NON PERTE,,A,D,partielle,61.0,416.0,wt,,,0.0,70.0
+214,F,GBM,4.0,NC,,,NORMAL,,DELETE,,PERTE,PERTE,A,G,exérèse,52.0,1379.0,wt,mutant,4.0,,80.0
+215,M,oligo,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,G,partielle,58.0,3042.0,mutant,mutant,,0.0,
+216,M,oligo,2.0,NC,NON METHYLE,NORMAL,,,NORMAL,,,NON PERTE,A,G,exérèse,35.0,1816.0,wt,wt,4.0,0.0,90.0
+217,M,oligo,4.0,NC,METHYLE,,,,DELETE,,,PERTE,A,D,biopsie,68.0,577.0,wt,mutant,4.0,,
+218,F,GBM,4.0,NC,,,NORMAL,,NORMAL,,PERTE,,A,G,biopsie,60.0,441.0,wt,,,0.0,80.0
+219,M,oligo,4.0,NC,,AMPLIFIE,,,,,PERTE,,A,D,partielle,86.0,393.0,NC,mutant,,1.0,80.0
+220,F,astrocytome,4.0,,,,,NORMAL,DELETE,Maintien,,,A,D,exérèse,30.0,44.0,wt,wt,4.0,0.0,80.0
+221,M,gliome,2.0,NC,,NORMAL,,,,,,,A,non précisé,biopsie,72.0,142.0,wt,mutant,,,
+222,F,GBM,4.0,NC,,NORMAL,,NORMAL,NORMAL,,,NON PERTE,A,D,partielle,75.0,1804.0,wt,,,0.0,
+223,F,oligo,2.0,NC,,NORMAL,,NORMAL,NORMAL,,,,A,D,biopsie,49.0,184.0,wt,,3.0,0.0,
+224,M,GBM,4.0,,NON METHYLE,NORMAL,NORMAL,,NORMAL,,,NON PERTE,A,D,biopsie,79.0,638.0,NC,mutant,4.0,,100.0
+225,F,gliome,4.0,,NON METHYLE,,NORMAL,NORMAL,NORMAL,,,,A,D,partielle,60.0,232.0,wt,wt,4.0,,
+226,F,GBM,4.0,,,,,NORMAL,NORMAL,,,PERTE,A,G,exérèse,73.0,1348.0,mutant,,,0.0,80.0
+227,M,GBM,3.0,NC,,,,NORMAL,,,,,A,G,partielle,69.0,481.0,wt,mutant,,0.0,
+228,F,GBM,4.0,,,,,NORMAL,,,PERTE,,C,D,exérèse,55.0,6240.0,wt,mutant,4.0,,
+229,M,astrocytome,3.0,NORMAL,,AMPLIFIE,NORMAL,,,,PERTE,NON PERTE,A,non précisé,exérèse,42.0,905.0,wt,mutant,4.0,,80.0
+230,F,astrocytome,4.0,NC,,NORMAL,NORMAL,,,,,NON PERTE,A,D,biopsie,57.0,313.0,NC,wt,,1.0,90.0
+231,F,GBM,3.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,PERTE,A,,exérèse,38.0,2605.0,wt,,,0.0,
+232,F,gangliogliome,4.0,NC,,,,,NORMAL,,PERTE,PERTE,A,non précisé,exérèse,55.0,1282.0,NC,,3.0,,
+233,F,GBM,3.0,NC,,,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,exérèse,32.0,66.0,wt,,,,80.0
+234,M,GBM,3.0,NORMAL,METHYLE,NORMAL,NORMAL,NORMAL,DELETE,,PERTE,NON PERTE,A,G,exérèse,31.0,1161.0,mutant,,4.0,0.0,
+235,M,GBM,4.0,ALTERE,,AMPLIFIE,,NORMAL,NORMAL,,NON PERTE,,A,D,exérèse,75.0,1661.0,wt,,,0.0,
+236,F,oligo,2.0,NORMAL,,,,NORMAL,,,NON PERTE,PERTE,A,D,partielle,55.0,427.0,mutant,mutant,,0.0,90.0
+237,F,GBM,3.0,,,NORMAL,,,,,,PERTE,A,D,partielle,68.0,353.0,NC,,,0.0,
+238,M,GBM,4.0,,NON METHYLE,NORMAL,,NORMAL,DELETE,,NON PERTE,,A,G,exérèse,59.0,586.0,NC,,4.0,,
+239,M,astrocytome,3.0,NC,,NORMAL,,NORMAL,,,,NON PERTE,A,G,biopsie,83.0,567.0,wt,,4.0,,
+240,F,GBM,4.0,,,,NORMAL,,NORMAL,,PERTE,NON PERTE,A,D,partielle,83.0,302.0,wt,,4.0,,
+241,M,astrocytome,4.0,,,NORMAL,,,,,PERTE,NON PERTE,A,G,biopsie,60.0,2759.0,NC,,4.0,,
+242,M,GBM,4.0,NC,,NORMAL,NORMAL,,NORMAL,,NON PERTE,,A,G,partielle,27.0,2513.0,wt,mutant,,1.0,90.0
+243,M,GBM,4.0,NORMAL,NON METHYLE,,,NORMAL,,,,NON PERTE,A,G,partielle,57.0,605.0,wt,,4.0,0.0,90.0
+244,M,GBM,4.0,NC,,NORMAL,,,,,PERTE,,A,D,exérèse,51.0,117.0,NC,mutant,,0.0,
+245,M,GBM,3.0,ALTERE,,NORMAL,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,exérèse,23.0,52.0,wt,mutant,,,
+246,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,DELETE,,,PERTE,A,D,exérèse,74.0,219.0,NC,mutant,4.0,0.0,70.0
+247,M,GBM,3.0,NORMAL,,,NORMAL,,DELETE,,,NON PERTE,A,D,partielle,50.0,957.0,mutant,wt,,0.0,
+248,F,GBM,4.0,NORMAL,,NORMAL,NORMAL,,,,PERTE,PERTE,A,G,partielle,67.0,2992.0,mutant,mutant,4.0,0.0,80.0
+249,F,GBM,2.0,NC,,,,NORMAL,NORMAL,,PERTE,NON PERTE,A,G,biopsie,71.0,913.0,NC,mutant,,0.0,80.0
+250,F,GBM,4.0,NC,,,,NORMAL,NORMAL,,PERTE,NON PERTE,A,D,exérèse,77.0,1270.0,wt,mutant,4.0,0.0,90.0
+251,F,GBM,2.0,NC,,,,,,,,PERTE,A,G,exérèse,55.0,431.0,NC,mutant,4.0,,
+252,M,GBM,3.0,NC,,NORMAL,NORMAL,,,,,,A,D,biopsie,55.0,369.0,wt,mutant,4.0,0.0,80.0
+253,M,GBM,4.0,ALTERE,METHYLE,AMPLIFIE,,NORMAL,NORMAL,,NON PERTE,,A,G,biopsie,60.0,572.0,wt,mutant,4.0,,
+254,F,oligo,2.0,NC,,,,NORMAL,,,,,A,bilatéral,partielle,75.0,365.0,NC,wt,,1.0,80.0
+255,F,astrocytome,4.0,,METHYLE,,,NORMAL,,,PERTE,,N,G,biopsie,28.0,115.0,wt,wt,,0.0,90.0
+256,F,oligo,4.0,,,,,,NORMAL,,PERTE,PERTE,A,D,exérèse,51.0,190.0,wt,mutant,,0.0,80.0
+257,F,gliome,4.0,,,NORMAL,NORMAL,NORMAL,DELETE,,NON PERTE,PERTE,A,G,biopsie,60.0,194.0,wt,mutant,4.0,,
+258,F,GBM,2.0,,,,,NORMAL,,,NON PERTE,,A,G,partielle,51.0,237.0,NC,mutant,3.0,0.0,90.0
+259,M,GBM,4.0,NC,NON METHYLE,,NORMAL,,,,PERTE,,N,G,exérèse,40.0,796.0,mutant,wt,,,
+260,M,GBM,4.0,NC,,NORMAL,,,NORMAL,,PERTE,PERTE,A,D,exérèse,58.0,1013.0,wt,wt,4.0,0.0,
+261,M,GBM,4.0,,,,,,DELETE,,,,A,G,partielle,64.0,4165.0,wt,mutant,,0.0,100.0
+262,M,GBM,3.0,NC,,NORMAL,,,,,,PERTE,A,G,partielle,28.0,179.0,NC,,3.0,0.0,90.0
+263,M,GBM,2.0,NC,,NORMAL,,,NORMAL,,PERTE,,A,G,biopsie,60.0,107.0,mutant,mutant,4.0,0.0,100.0
+264,M,astrocytome,4.0,NC,,,NORMAL,NORMAL,,,,,A,D,exérèse,54.0,5136.0,wt,mutant,4.0,,80.0
+265,F,GBM,3.0,ALTERE,,NORMAL,NORMAL,,,,,PERTE,A,D,biopsie,48.0,716.0,wt,mutant,4.0,,50.0
+266,M,gangliogliome,2.0,NC,METHYLE,AMPLIFIE,NORMAL,,,,NON PERTE,,A,D,partielle,47.0,484.0,mutant,mutant,3.0,,80.0
+267,F,oligo,4.0,NC,METHYLE,AMPLIFIE,,NORMAL,,,,NON PERTE,A,D,biopsie,61.0,60.0,wt,mutant,,1.0,
+268,M,GBM,4.0,NC,METHYLE,NORMAL,AMPLIFIE,,,Maintien,,,A,G,partielle,64.0,520.0,mutant,mutant,4.0,0.0,90.0
+269,M,oligo,4.0,NC,,NORMAL,,,,,,,A,G,exérèse,69.0,2193.0,wt,mutant,4.0,,
+270,M,oligo,3.0,NC,METHYLE,NORMAL,NORMAL,,,,,GAIN,A,G,biopsie,51.0,231.0,wt,wt,,,90.0
+271,F,GBM,4.0,,,,,,NORMAL,,,NON PERTE,A,D,biopsie,35.0,2104.0,mutant,mutant,4.0,0.0,
+272,M,gliome,4.0,NORMAL,,,,NORMAL,NORMAL,,NON PERTE,,A,D,partielle,45.0,640.0,wt,,4.0,,
+273,M,GBM,2.0,NORMAL,,,NORMAL,,,,PERTE,,A,D,partielle,70.0,173.0,wt,,,0.0,70.0
+274,M,gliome,4.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,A,G,exérèse,52.0,3294.0,mutant,mutant,,1.0,
+275,M,GBM,4.0,NORMAL,,NORMAL,,NORMAL,,,,,A,G,aucune,65.0,812.0,wt,,3.0,0.0,60.0
+276,M,GBM,3.0,NC,NON METHYLE,,NORMAL,,,,PERTE,,A,G,biopsie,78.0,452.0,mutant,wt,4.0,0.0,90.0
+277,F,astrocytome,3.0,,,,,,,,,NON PERTE,A,D,exérèse,45.0,5529.0,wt,wt,,0.0,70.0
+278,M,oligo,3.0,ALTERE,METHYLE,NORMAL,,,,,,NON PERTE,A,D,biopsie,67.0,993.0,NC,wt,,0.0,
+279,F,GBM,4.0,NC,,,,NORMAL,,,,NON PERTE,A,G,exérèse,64.0,842.0,mutant,wt,,0.0,
+280,M,GBM,2.0,NC,METHYLE,AMPLIFIE,NORMAL,,DELETE,,,PERTE,A,D,partielle,28.0,571.0,wt,mutant,4.0,,90.0
+281,M,GBM,4.0,NORMAL,,NORMAL,,NORMAL,NORMAL,,PERTE,PERTE,A,D,biopsie,41.0,5963.0,wt,,,0.0,90.0
+282,M,GBM,2.0,,,,NORMAL,,,,NON PERTE,PERTE,A,D,partielle,79.0,651.0,wt,mutant,4.0,0.0,
+283,M,GBM,4.0,NC,,,,,,,PERTE,NON PERTE,A,G,biopsie,65.0,435.0,wt,,,,
+284,F,oligo,3.0,NC,,AMPLIFIE,AMPLIFIE,NORMAL,DELETE,,,,A,G,partielle,56.0,175.0,wt,,4.0,0.0,
+285,F,oligo,4.0,NC,,NORMAL,,,NORMAL,,,NON PERTE,A,G,biopsie,54.0,1302.0,wt,wt,4.0,0.0,100.0
+286,F,gliome,2.0,NC,,NORMAL,,NORMAL,,,,,A,D,aucune,42.0,287.0,wt,,,0.0,
+287,M,GBM,3.0,ALTERE,,NORMAL,NORMAL,,,,,PERTE,A,G,biopsie,34.0,1399.0,wt,,4.0,,
+288,M,GBM,3.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,G,partielle,71.0,696.0,NC,mutant,,0.0,80.0
+289,F,GBM,4.0,NC,,,,,NORMAL,,,NON PERTE,A,D,exérèse,42.0,126.0,wt,,,,70.0
+290,M,GBM,3.0,NC,,,NORMAL,,,,,,A,D,biopsie,65.0,101.0,wt,,,,30.0
+291,M,GBM,4.0,NC,,NORMAL,,NORMAL,NORMAL,,,PERTE,A,D,biopsie,26.0,205.0,wt,mutant,,,
+292,M,gliome,4.0,NC,,,,NORMAL,NORMAL,,PERTE,NON PERTE,A,D,exérèse,60.0,1622.0,NC,mutant,3.0,,
+293,M,GBM,3.0,NC,,AMPLIFIE,NORMAL,NORMAL,,,NON PERTE,,A,G,partielle,59.0,3506.0,wt,mutant,4.0,0.0,90.0
+294,M,GBM,4.0,NC,METHYLE,,NORMAL,AMPLIFIE,,,PERTE,,A,D,biopsie,66.0,235.0,wt,wt,,0.0,
+295,M,GBM,3.0,NC,,,,,NORMAL,,PERTE,,A,G,partielle,79.0,1203.0,wt,mutant,,,70.0
+296,M,GBM,2.0,,,NORMAL,NORMAL,,,,,,A,G,exérèse,57.0,480.0,wt,wt,4.0,,
+297,M,gliome,4.0,NC,METHYLE,NORMAL,,,,,,NON PERTE,A,D,exérèse,83.0,658.0,wt,wt,,,
+298,F,gliome,4.0,ALTERE,,,NORMAL,NORMAL,NORMAL,,PERTE,,A,G,exérèse,59.0,8977.0,wt,mutant,,0.0,90.0
+299,F,GBM,2.0,NC,METHYLE,,,NORMAL,,,,PERTE,A,D,exérèse,36.0,302.0,wt,wt,3.0,,
+300,M,oligo,4.0,NC,,,,AMPLIFIE,DELETE,,NON PERTE,PERTE,A,D,biopsie,29.0,430.0,wt,wt,,,90.0
+301,M,oligo,2.0,NC,,,NORMAL,AMPLIFIE,,,PERTE,NON PERTE,A,G,biopsie,76.0,111.0,wt,wt,4.0,,
+302,M,GBM,4.0,NC,NON METHYLE,,,,NORMAL,,,,A,G,exérèse,25.0,3967.0,wt,,4.0,0.0,80.0
+303,M,GBM,4.0,NC,METHYLE,,,NORMAL,,,,,A,G,biopsie,65.0,371.0,mutant,mutant,4.0,,
+304,M,GBM,3.0,NC,,NORMAL,,NORMAL,,,PERTE,,B,G,exérèse,28.0,294.0,wt,wt,4.0,0.0,70.0
+305,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,,,,NON PERTE,,A,G,biopsie,57.0,367.0,wt,mutant,,,90.0
+306,F,oligo,4.0,ALTERE,NON METHYLE,AMPLIFIE,NORMAL,,,,,,A,G,partielle,26.0,316.0,NC,,4.0,0.0,
+307,M,oligo,3.0,NC,,AMPLIFIE,NORMAL,NORMAL,,,PERTE,PERTE,A,G,exérèse,42.0,199.0,wt,wt,,0.0,
+308,M,GBM,4.0,NORMAL,,,NORMAL,,DELETE,,,NON PERTE,A,G,partielle,54.0,163.0,wt,wt,4.0,,
+309,F,astrocytome,4.0,NC,METHYLE,,NORMAL,NORMAL,NORMAL,,PERTE,,A,D,partielle,40.0,2171.0,NC,mutant,4.0,,20.0
+310,F,GBM,3.0,,NON METHYLE,,,AMPLIFIE,,,NON PERTE,,A,D,,59.0,2753.0,wt,mutant,3.0,0.0,70.0
+311,F,GBM,2.0,NC,,,NORMAL,NORMAL,,,PERTE,,A,G,biopsie,39.0,299.0,wt,,4.0,1.0,80.0
+312,F,gliome,3.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,,,PERTE,NON PERTE,A,D,biopsie,66.0,485.0,NC,mutant,,0.0,70.0
+313,M,GBM,4.0,,,NORMAL,,,NORMAL,,PERTE,,A,D,partielle,18.0,4585.0,wt,wt,4.0,,
+314,M,oligo,4.0,NC,,,,NORMAL,,,,,A,D,exérèse,78.0,787.0,wt,wt,3.0,,
+315,M,GBM,4.0,NORMAL,NON METHYLE,AMPLIFIE,,NORMAL,NORMAL,,NON PERTE,,A,D,biopsie,75.0,342.0,wt,,,,80.0
+316,F,oligo,4.0,NC,,,NORMAL,,DELETE,,NON PERTE,,A,D,biopsie,80.0,4973.0,wt,mutant,4.0,0.0,
+317,M,GBM,4.0,,,,,,,,,NON PERTE,A,non précisé,biopsie,49.0,2711.0,NC,mutant,4.0,0.0,
+318,M,GBM,4.0,NC,,,NORMAL,,,,,NON PERTE,A,G,exérèse,36.0,93.0,mutant,mutant,,,
+319,M,GBM,3.0,NC,,NORMAL,,,,,NON PERTE,,A,G,biopsie,65.0,419.0,mutant,,,0.0,70.0
+320,F,oligo,2.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,DELETE,,,NON PERTE,A,G,biopsie,47.0,544.0,wt,mutant,4.0,0.0,
+321,M,oligo,4.0,NORMAL,,NORMAL,NORMAL,,NORMAL,,NON PERTE,,A,D,exérèse,45.0,525.0,wt,mutant,,0.0,
+322,F,astrocytome,2.0,NC,,,NORMAL,NORMAL,,,NON PERTE,,A,D,biopsie,38.0,413.0,mutant,wt,4.0,0.0,80.0
+323,M,GBM,2.0,NC,,AMPLIFIE,NORMAL,,DELETE,,,NON PERTE,A,D,partielle,52.0,1518.0,NC,mutant,4.0,,80.0
+324,M,gliome,3.0,NC,,,NORMAL,NORMAL,,,NON PERTE,,autre,D,biopsie,64.0,566.0,wt,wt,,0.0,
+325,M,GBM,2.0,NORMAL,,,NORMAL,NORMAL,,,NON PERTE,GAIN,A,D,biopsie,68.0,323.0,NC,,4.0,,
+326,F,GBM,2.0,,,,,,NORMAL,,NON PERTE,PERTE,A,G,exérèse,69.0,780.0,wt,,3.0,0.0,80.0
+327,M,GBM,2.0,,,,NORMAL,NORMAL,,,,NON PERTE,A,D,partielle,57.0,1493.0,NC,mutant,4.0,,90.0
+328,F,gliome,4.0,NC,METHYLE,AMPLIFIE,NORMAL,,,,,,A,G,exérèse,68.0,470.0,NC,mutant,4.0,,
+329,F,GBM,3.0,ALTERE,METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,NON PERTE,PERTE,A,D,biopsie,42.0,798.0,wt,,4.0,,80.0
+330,M,GBM,4.0,,,,NORMAL,NORMAL,,,,NON PERTE,A,D,biopsie,39.0,379.0,wt,,4.0,,
+331,M,oligo,4.0,NC,NON METHYLE,,NORMAL,NORMAL,DELETE,,NON PERTE,,A,D,biopsie,49.0,2079.0,NC,,4.0,0.0,100.0
+332,F,GBM,4.0,NC,,,,NORMAL,NORMAL,,,PERTE,A,D,exérèse,70.0,9393.0,wt,,,,
+333,M,GBM,4.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,,,,NON PERTE,A,G,partielle,66.0,325.0,wt,,,,
+334,F,GBM,4.0,ALTERE,,,,NORMAL,,,NON PERTE,NON PERTE,A,D,partielle,56.0,280.0,NC,wt,,0.0,
+335,F,GBM,4.0,NC,,NORMAL,,,DELETE,,PERTE,NON PERTE,A,D,partielle,51.0,1228.0,mutant,mutant,,,
+336,M,GBM,2.0,,,NORMAL,,,,,,PERTE,A,G,partielle,46.0,224.0,NC,,,,
+337,M,GBM,4.0,NORMAL,NON METHYLE,NORMAL,,,,Maintien,NON PERTE,PERTE,A,non précisé,partielle,24.0,111.0,NC,wt,4.0,0.0,90.0
+338,F,GBM,3.0,NC,,NORMAL,,,DELETE,,,NON PERTE,A,G,biopsie,49.0,2812.0,wt,mutant,3.0,,50.0
+339,M,astrocytome,4.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,PERTE,PERTE,A,G,exérèse,53.0,596.0,wt,,,,
+340,F,GBM,4.0,NC,METHYLE,AMPLIFIE,,,,,,,A,D,exérèse,81.0,1073.0,NC,wt,3.0,,90.0
+341,M,GBM,4.0,NC,,,,,,,NON PERTE,,A,G,partielle,52.0,441.0,wt,mutant,3.0,,80.0
+342,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,,,,,,A,G,partielle,66.0,104.0,wt,,4.0,,90.0
+343,M,GBM,3.0,,,NORMAL,,,DELETE,,NON PERTE,NON PERTE,A,G,biopsie,50.0,45.0,NC,,4.0,0.0,
+344,M,oligo,2.0,NC,,,NORMAL,,,,,,A,G,biopsie,33.0,159.0,wt,,3.0,0.0,60.0
+345,F,oligo,3.0,NC,NON METHYLE,,,,NORMAL,,NON PERTE,,A,D,partielle,59.0,70.0,wt,,4.0,0.0,80.0
+346,F,oligo,3.0,NORMAL,METHYLE,NORMAL,,,NORMAL,,PERTE,PERTE,autre,G,partielle,42.0,642.0,wt,wt,,,
+347,M,oligo,4.0,NC,METHYLE,NORMAL,,NORMAL,,,,,A,D,partielle,35.0,454.0,mutant,,3.0,,
+348,M,astrocytome,2.0,NC,METHYLE,,NORMAL,,,,,NON PERTE,A,D,biopsie,76.0,1505.0,NC,,,0.0,80.0
+349,M,GBM,3.0,NORMAL,METHYLE,,,,DELETE,,,,A,bilatéral,partielle,45.0,291.0,wt,mutant,,,
+350,M,oligo,4.0,NC,,AMPLIFIE,,,NORMAL,,PERTE,GAIN,A,G,,77.0,453.0,wt,,4.0,0.0,90.0
+351,M,gliome,2.0,NC,,NORMAL,NORMAL,,,,NON PERTE,,A,G,partielle,68.0,391.0,wt,mutant,,,
+352,M,GBM,4.0,NC,NON METHYLE,,,NORMAL,,,,NON PERTE,A,non précisé,biopsie,65.0,429.0,wt,,,,90.0
+353,M,GBM,4.0,NC,,,NORMAL,,,,NON PERTE,PERTE,A,D,partielle,30.0,1399.0,wt,wt,4.0,,
+354,F,oligo,4.0,NC,,,,NORMAL,NORMAL,,,,A,D,partielle,64.0,49.0,NC,mutant,3.0,0.0,90.0
+355,F,oligo,2.0,NC,,,,NORMAL,,,PERTE,,A,D,biopsie,36.0,568.0,wt,mutant,4.0,0.0,80.0
+356,F,astrocytome gémistocytique (=A2),4.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,NON PERTE,A,G,biopsie,59.0,593.0,wt,mutant,4.0,0.0,
+357,F,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,,NON PERTE,A,G,partielle,78.0,772.0,wt,,,,
+358,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,G,exérèse,75.0,172.0,NC,wt,4.0,0.0,80.0
+359,F,oligo,4.0,,METHYLE,NORMAL,,,DELETE,,,PERTE,A,G,biopsie,56.0,486.0,wt,mutant,4.0,,
+360,F,GBM,4.0,NC,,NORMAL,,,DELETE,,PERTE,,A,G,partielle,72.0,60.0,wt,mutant,,0.0,80.0
+361,F,gliome,2.0,NC,,,NORMAL,,DELETE,,,,A,G,exérèse,59.0,2175.0,wt,,4.0,,90.0
+362,M,GBM,2.0,NC,,NORMAL,,,NORMAL,,PERTE,NON PERTE,A,non précisé,partielle,37.0,150.0,mutant,,,0.0,
+363,F,GBM,3.0,NC,NON METHYLE,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,,A,G,biopsie,58.0,2377.0,wt,mutant,,,80.0
+364,M,GBM,4.0,NC,,NORMAL,NORMAL,AMPLIFIE,,,PERTE,PERTE,A,D,partielle,47.0,108.0,wt,,,,60.0
+365,F,oligo,2.0,ALTERE,METHYLE,AMPLIFIE,,,,,,NON PERTE,A,G,biopsie,35.0,1277.0,wt,mutant,,0.0,
+366,M,GBM,1.0,NC,,,,,,,PERTE,,A,D,biopsie,66.0,416.0,mutant,mutant,4.0,0.0,70.0
+367,F,GBM,3.0,NC,METHYLE,,,,,,PERTE,,A,D,partielle,70.0,1204.0,wt,mutant,4.0,,
+368,M,astrocytome,2.0,NC,,NORMAL,,,NORMAL,,,NON PERTE,A,G,biopsie,43.0,418.0,wt,wt,3.0,0.0,90.0
+369,M,astrocytome,4.0,NC,,AMPLIFIE,,,,,,PERTE,A,D,exérèse,59.0,491.0,wt,wt,4.0,,80.0
+370,M,oligo,4.0,NC,,,,NORMAL,NORMAL,,,,A,D,biopsie,47.0,418.0,NC,mutant,3.0,0.0,
+371,F,oligo,4.0,NC,,NORMAL,NORMAL,,,,,,A,D,partielle,24.0,2045.0,NC,,,,
+372,M,GBM,4.0,,METHYLE,,,NORMAL,NORMAL,extinction,PERTE,,A,D,exérèse,61.0,602.0,wt,,4.0,0.0,60.0
+373,M,oligo,4.0,NC,,,,,NORMAL,,NON PERTE,PERTE,A,G,exérèse,38.0,840.0,wt,mutant,3.0,,70.0
+374,F,GBM,4.0,,,,NORMAL,,,,,,A,D,partielle,72.0,654.0,wt,,,0.0,90.0
+375,M,GBM,3.0,NC,,NORMAL,AMPLIFIE,,,,NON PERTE,NON PERTE,A,D,partielle,34.0,2102.0,wt,wt,2.0,1.0,70.0
+376,M,GBM,2.0,NC,,NORMAL,,NORMAL,NORMAL,,NON PERTE,,A,G,partielle,45.0,302.0,mutant,mutant,4.0,0.0,90.0
+377,F,GBM,4.0,NC,NON METHYLE,AMPLIFIE,,,,,PERTE,,A,D,partielle,25.0,603.0,wt,mutant,,,
+378,M,GBM,4.0,,,AMPLIFIE,,,,,PERTE,,A,D,partielle,59.0,3261.0,NC,,,,100.0
+379,F,GBM,2.0,NC,,AMPLIFIE,,NORMAL,NORMAL,,NON PERTE,,A,D,exérèse,75.0,3802.0,wt,mutant,,,100.0
+380,M,GBM,2.0,NC,,,NORMAL,NORMAL,NORMAL,,PERTE,PERTE,A,D,partielle,57.0,237.0,wt,wt,4.0,,
+381,F,GBM,4.0,NC,,,NORMAL,,NORMAL,,,,A,G,biopsie,62.0,1406.0,wt,mutant,,0.0,60.0
+382,M,oligo,4.0,NC,,,,NORMAL,,,NON PERTE,PERTE,A,G,partielle,37.0,286.0,wt,wt,3.0,0.0,
+383,F,GBM,2.0,NC,METHYLE,,,,,,NON PERTE,,A,D,partielle,68.0,2929.0,mutant,mutant,,0.0,
+384,F,GBM,3.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,,PERTE,A,bilatéral,partielle,45.0,330.0,wt,,4.0,,
+385,M,gliome,4.0,NORMAL,,NORMAL,,NORMAL,NORMAL,,,GAIN,A,D,partielle,64.0,2684.0,NC,mutant,,0.0,
+386,F,oligo,4.0,,METHYLE,NORMAL,,,NORMAL,,PERTE,NON PERTE,A,D,exérèse,23.0,458.0,wt,,,0.0,
+387,F,oligo,4.0,NORMAL,METHYLE,,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,G,exérèse,36.0,273.0,wt,wt,4.0,,
+388,F,GBM,4.0,NC,,,,NORMAL,,,,,A,G,biopsie,52.0,1025.0,wt,mutant,,,80.0
+389,M,astrocytome,2.0,NORMAL,,NORMAL,NORMAL,NORMAL,DELETE,,,,A,non précisé,partielle,47.0,188.0,wt,wt,3.0,,
+390,M,GBM,3.0,,,,,,,,PERTE,,A,D,biopsie,78.0,1488.0,wt,wt,4.0,0.0,
+391,F,astrocytome,4.0,ALTERE,,,,NORMAL,,,,PERTE,A,G,exérèse,27.0,219.0,wt,mutant,,,80.0
+392,F,GBM,3.0,NC,,,,,,,PERTE,,A,G,partielle,34.0,624.0,wt,,,,
+393,F,GBM,4.0,NORMAL,NON METHYLE,,,,DELETE,,,,A,G,biopsie,29.0,240.0,wt,,,,60.0
+394,M,GBM,4.0,NC,METHYLE,AMPLIFIE,NORMAL,NORMAL,,,,,A,non précisé,exérèse,61.0,3823.0,NC,,4.0,0.0,
+395,M,gliome,4.0,NC,,NORMAL,,,,,,NON PERTE,B,bilatéral,biopsie,51.0,455.0,wt,mutant,4.0,,100.0
+396,F,astrocytome,3.0,NORMAL,,,NORMAL,,NORMAL,,,NON PERTE,A,D,exérèse,70.0,5420.0,NC,wt,,0.0,
+397,M,GBM,4.0,NC,NON METHYLE,NORMAL,,NORMAL,NORMAL,extinction,,,N,D,partielle,56.0,213.0,wt,mutant,4.0,0.0,
+398,M,GBM,3.0,NC,METHYLE,,,NORMAL,,,,,N,D,exérèse,64.0,937.0,mutant,wt,,0.0,
+399,F,oligo,2.0,NC,,NORMAL,,,NORMAL,,,PERTE,A,D,partielle,64.0,320.0,wt,wt,,0.0,90.0
+400,M,GBM,4.0,NC,,,NORMAL,NORMAL,,,PERTE,,A,G,biopsie,69.0,79.0,wt,mutant,3.0,0.0,60.0
+401,M,oligo,2.0,NC,,AMPLIFIE,NORMAL,,,,,NON PERTE,A,G,biopsie,35.0,269.0,wt,wt,4.0,,80.0
+402,M,gliome,4.0,NC,,NORMAL,NORMAL,,NORMAL,,NON PERTE,,A,G,biopsie,40.0,652.0,wt,mutant,,,
+403,F,oligo,3.0,NC,,NORMAL,NORMAL,,DELETE,,,PERTE,A,G,partielle,30.0,289.0,wt,,,0.0,70.0
+404,F,oligo,4.0,NC,,NORMAL,NORMAL,,NORMAL,,,NON PERTE,A,G,exérèse,79.0,568.0,NC,wt,4.0,,100.0
+405,F,GBM,3.0,NC,METHYLE,,,NORMAL,,,PERTE,NON PERTE,A,G,biopsie,42.0,810.0,mutant,mutant,,0.0,
+406,F,oligo,4.0,NC,,NORMAL,NORMAL,,DELETE,,NON PERTE,PERTE,A,D,exérèse,63.0,246.0,wt,mutant,4.0,1.0,80.0
+407,M,GBM,4.0,,,AMPLIFIE,,NORMAL,DELETE,,PERTE,,A,D,exérèse,60.0,612.0,wt,mutant,,,80.0
+408,M,astrocytome gémistocytique (=A2),4.0,NC,NON METHYLE,,,NORMAL,NORMAL,,,PERTE,A,G,biopsie,55.0,247.0,NC,,4.0,,
+409,M,oligo,4.0,NC,,AMPLIFIE,,NORMAL,DELETE,,NON PERTE,,N,D,exérèse,23.0,827.0,wt,wt,4.0,0.0,
+410,F,GBM,4.0,NORMAL,,,,NORMAL,,,,,A,G,exérèse,51.0,956.0,NC,mutant,3.0,0.0,
+411,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,PERTE,PERTE,A,D,exérèse,21.0,186.0,mutant,wt,4.0,,
+412,F,oligo,3.0,,,,,,DELETE,,,,A,D,partielle,51.0,609.0,mutant,mutant,4.0,,70.0
+413,F,oligo,2.0,NORMAL,METHYLE,,NORMAL,,NORMAL,,NON PERTE,,N,médian,partielle,68.0,1160.0,wt,wt,,,
+414,F,GBM,4.0,NC,,NORMAL,NORMAL,,NORMAL,,,,A,G,aucune,63.0,6429.0,wt,mutant,,0.0,
+415,M,oligo,4.0,NORMAL,,,,NORMAL,DELETE,,NON PERTE,,A,G,partielle,49.0,466.0,mutant,wt,4.0,,
+416,M,GBM,3.0,,,,,,,,,,A,D,biopsie,51.0,2381.0,NC,,4.0,,
+417,F,GBM,4.0,NC,,NORMAL,,,DELETE,,PERTE,,A,D,biopsie,40.0,254.0,NC,,,0.0,80.0
+418,M,GBM,2.0,ALTERE,METHYLE,NORMAL,,NORMAL,NORMAL,,,PERTE,A,D,partielle,29.0,422.0,NC,,,,60.0
+419,M,GBM,4.0,NC,,NORMAL,NORMAL,,,,,,A,D,exérèse,54.0,1976.0,NC,wt,,0.0,80.0
+420,F,gliome,2.0,NORMAL,,NORMAL,NORMAL,NORMAL,NORMAL,Maintien,,PERTE,A,D,partielle,44.0,280.0,mutant,,4.0,0.0,90.0
+421,F,oligo,4.0,,,AMPLIFIE,NORMAL,,DELETE,,,NON PERTE,A,G,biopsie,45.0,362.0,wt,,,,70.0
+422,M,GBM,4.0,NC,,,NORMAL,,,,PERTE,,A,G,biopsie,65.0,785.0,wt,wt,4.0,,80.0
+423,M,gliome,4.0,NORMAL,,NORMAL,,NORMAL,,,PERTE,,A,D,partielle,37.0,41.0,mutant,mutant,4.0,,
+424,M,astrocytome gémistocytique (=A2),4.0,NC,METHYLE,,,NORMAL,,,NON PERTE,NON PERTE,A,D,partielle,49.0,1214.0,wt,mutant,4.0,,
+425,M,gliome,4.0,NORMAL,,,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,G,exérèse,74.0,207.0,wt,mutant,,,80.0
+426,M,gliome,4.0,,,NORMAL,NORMAL,,NORMAL,,NON PERTE,,A,G,biopsie,61.0,296.0,NC,mutant,,,
+427,F,GBM,3.0,,,,NORMAL,NORMAL,DELETE,,,,A,non précisé,exérèse,58.0,602.0,mutant,mutant,,,90.0
+428,M,GBM,4.0,NORMAL,,NORMAL,NORMAL,,NORMAL,,,,A,D,biopsie,63.0,248.0,wt,,,1.0,90.0
+429,F,GBM,4.0,NORMAL,,AMPLIFIE,,NORMAL,,,,,A,D,exérèse,57.0,6397.0,wt,,3.0,,80.0
+430,M,gliome,4.0,NC,,NORMAL,,,NORMAL,,,,A,D,exérèse,59.0,325.0,wt,wt,4.0,0.0,90.0
+431,F,gliome,4.0,NC,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,G,partielle,73.0,918.0,wt,,,0.0,70.0
+432,M,GBM,3.0,NC,,NORMAL,NORMAL,,NORMAL,,NON PERTE,,A,non précisé,partielle,39.0,5121.0,wt,mutant,,0.0,90.0
+433,F,GBM,4.0,NC,,,,AMPLIFIE,,,,,A,D,aucune,63.0,76.0,wt,mutant,,1.0,80.0
+434,M,GBM,3.0,NC,,AMPLIFIE,NORMAL,,NORMAL,,,,A,G,exérèse,58.0,428.0,wt,mutant,4.0,0.0,80.0
+435,M,GBM,4.0,,,,,,NORMAL,,NON PERTE,,A,bilatéral,partielle,66.0,2427.0,wt,mutant,3.0,0.0,
+436,F,GBM,4.0,NC,,,,NORMAL,DELETE,,,,A,D,exérèse,60.0,4241.0,wt,,3.0,,
+437,M,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,PERTE,PERTE,A,G,partielle,65.0,1218.0,NC,mutant,,,100.0
+438,F,GBM,4.0,NC,,,,,NORMAL,,NON PERTE,NON PERTE,A,G,biopsie,67.0,1253.0,wt,,4.0,,
+439,M,oligo,4.0,,,NORMAL,,,,,,PERTE,A,G,exérèse,57.0,11680.0,NC,,,,90.0
+440,M,GBM,4.0,NC,,NORMAL,NORMAL,,,,,,A,D,biopsie,28.0,76.0,NC,wt,4.0,0.0,
+441,M,gliome,4.0,NC,,NORMAL,NORMAL,NORMAL,,,,PERTE,A,D,biopsie,18.0,826.0,wt,,3.0,0.0,
+442,F,GBM,2.0,NC,,NORMAL,,,DELETE,,,PERTE,A,G,biopsie,44.0,693.0,wt,wt,3.0,0.0,80.0
+443,M,astrocytome,4.0,NC,,,,,,,PERTE,PERTE,A,D,biopsie,85.0,2770.0,NC,wt,4.0,0.0,
+444,F,GBM,4.0,NC,,,NORMAL,,,,PERTE,,A,D,biopsie,29.0,840.0,wt,mutant,4.0,0.0,80.0
+445,M,gliome,3.0,,,AMPLIFIE,NORMAL,AMPLIFIE,NORMAL,,NON PERTE,,A,G,exérèse,80.0,154.0,wt,mutant,,,
+446,M,GBM,2.0,NC,,AMPLIFIE,,,NORMAL,,,NON PERTE,A,G,biopsie,50.0,4227.0,NC,mutant,3.0,0.0,80.0
+447,M,gliome,4.0,NC,,AMPLIFIE,,NORMAL,DELETE,,,,A,G,biopsie,66.0,61.0,wt,mutant,4.0,,
+448,M,GBM,2.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,A,D,exérèse,49.0,527.0,NC,mutant,,1.0,80.0
+449,M,oligo,4.0,NC,NON METHYLE,NORMAL,NORMAL,,,,,,A,D,exérèse,68.0,30.0,mutant,mutant,,0.0,70.0
+450,F,oligo,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,,,PERTE,,A,G,partielle,66.0,1255.0,NC,,3.0,,
+451,M,astrocytome,4.0,ALTERE,METHYLE,,,NORMAL,,,,NON PERTE,A,G,exérèse,57.0,1272.0,wt,mutant,,,80.0
+452,F,GBM,4.0,NC,,,,,NORMAL,,,PERTE,A,G,exérèse,51.0,98.0,wt,mutant,3.0,0.0,
+453,M,GBM,3.0,,,NORMAL,NORMAL,,NORMAL,,,,A,D,biopsie,38.0,2813.0,wt,mutant,,,
+454,M,GBM,4.0,NC,,AMPLIFIE,,NORMAL,,,NON PERTE,NON PERTE,A,G,exérèse,50.0,86.0,wt,,3.0,,
+455,F,oligo,2.0,NC,,AMPLIFIE,,,NORMAL,,,,A,G,biopsie,55.0,416.0,NC,mutant,4.0,,100.0
+456,M,GBM,4.0,NC,NON METHYLE,,NORMAL,,NORMAL,,PERTE,,A,D,biopsie,65.0,474.0,NC,mutant,,,90.0
+457,F,GBM,4.0,,,NORMAL,,NORMAL,NORMAL,,NON PERTE,,A,D,partielle,56.0,556.0,wt,mutant,4.0,,80.0
+458,F,oligo,4.0,,,,,,NORMAL,,,GAIN,N,G,biopsie,54.0,380.0,NC,,3.0,0.0,90.0
+459,M,GBM,3.0,NC,,NORMAL,AMPLIFIE,NORMAL,NORMAL,,,,A,bilatéral,partielle,45.0,57.0,wt,mutant,4.0,0.0,
+460,M,GBM,4.0,NC,,NORMAL,,,NORMAL,,PERTE,PERTE,A,bilatéral,biopsie,54.0,180.0,wt,,,0.0,
+461,M,GBM,4.0,,,AMPLIFIE,,,,,,NON PERTE,A,D,biopsie,74.0,55.0,mutant,,3.0,,
+462,M,GBM,4.0,NORMAL,,NORMAL,,AMPLIFIE,NORMAL,,,PERTE,A,D,,63.0,46.0,wt,mutant,,,
+463,M,GBM,3.0,,,NORMAL,NORMAL,,,,PERTE,PERTE,A,D,biopsie,20.0,595.0,mutant,,,0.0,70.0
+464,F,gliome,3.0,NC,METHYLE,NORMAL,,,,,NON PERTE,,A,D,biopsie,33.0,680.0,NC,mutant,4.0,0.0,90.0
+465,F,GBM,3.0,NC,NON METHYLE,NORMAL,,,NORMAL,,,PERTE,A,non précisé,partielle,54.0,1975.0,wt,mutant,,0.0,90.0
+466,M,astrocytome,3.0,NC,,NORMAL,NORMAL,,,,PERTE,,A,D,partielle,62.0,540.0,wt,mutant,3.0,0.0,100.0
+467,M,GBM,3.0,,,,,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,D,aucune,52.0,427.0,wt,,,,70.0
+468,F,gliome,4.0,,,AMPLIFIE,NORMAL,NORMAL,DELETE,,PERTE,,A,D,partielle,70.0,1893.0,NC,,3.0,0.0,
+469,M,astrocytome,2.0,NC,METHYLE,,NORMAL,NORMAL,,,,,N,D,biopsie,48.0,846.0,wt,mutant,4.0,0.0,80.0
+470,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,,NORMAL,,,,A,D,partielle,54.0,589.0,wt,,4.0,,80.0
+471,M,gliome,4.0,NC,METHYLE,NORMAL,NORMAL,,NORMAL,,,NON PERTE,A,G,biopsie,66.0,336.0,mutant,,3.0,,
+472,F,GBM,2.0,,NON METHYLE,NORMAL,,,NORMAL,,NON PERTE,NON PERTE,N,D,biopsie,76.0,1073.0,wt,mutant,4.0,,70.0
+473,M,GBM,4.0,NORMAL,,AMPLIFIE,NORMAL,,,,NON PERTE,PERTE,N,G,exérèse,33.0,4844.0,wt,,4.0,,
+474,M,GBM,3.0,NC,,NORMAL,,NORMAL,DELETE,,PERTE,,A,G,biopsie,57.0,634.0,NC,mutant,3.0,0.0,90.0
+475,M,oligo,2.0,NORMAL,,NORMAL,NORMAL,AMPLIFIE,,,NON PERTE,,A,G,biopsie,64.0,1192.0,wt,,4.0,0.0,
+476,M,GBM,2.0,NORMAL,,AMPLIFIE,,,NORMAL,,PERTE,,A,D,biopsie,64.0,422.0,wt,mutant,4.0,,
+477,F,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,,,,NON PERTE,A,G,exérèse,57.0,641.0,wt,mutant,,0.0,70.0
+478,M,GBM,2.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,NON PERTE,,A,D,partielle,49.0,564.0,wt,,3.0,0.0,
+479,M,GBM,2.0,NC,,,,NORMAL,,,NON PERTE,,A,D,biopsie,20.0,4951.0,wt,,3.0,,
+480,M,GBM,4.0,NC,,NORMAL,,,DELETE,,PERTE,PERTE,A,G,partielle,28.0,60.0,wt,,3.0,,80.0
+481,M,GBM,4.0,NC,METHYLE,,,NORMAL,DELETE,,NON PERTE,PERTE,A,G,biopsie,33.0,582.0,wt,,,,
+482,M,astrocytome,4.0,NORMAL,METHYLE,,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,G,partielle,75.0,436.0,wt,wt,3.0,,90.0
+483,F,GBM,3.0,NORMAL,,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,,A,G,exérèse,33.0,4850.0,NC,,4.0,,90.0
+484,F,GBM,3.0,NC,METHYLE,NORMAL,,,,,,NON PERTE,A,D,biopsie,47.0,547.0,wt,wt,,0.0,
+485,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,bilatéral,partielle,64.0,517.0,wt,mutant,,,90.0
+486,M,GBM,4.0,NC,NON METHYLE,,NORMAL,,,,,,A,D,biopsie,60.0,348.0,wt,,,,70.0
+487,M,oligo,4.0,NORMAL,,NORMAL,NORMAL,,DELETE,,NON PERTE,,A,G,biopsie,76.0,215.0,wt,mutant,4.0,,100.0
+488,M,GBM,4.0,,,,NORMAL,NORMAL,NORMAL,,NON PERTE,PERTE,A,D,biopsie,81.0,824.0,wt,,,,
+489,M,astrocytome,4.0,NC,,,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,partielle,63.0,209.0,mutant,wt,4.0,,90.0
+490,F,GBM,4.0,NC,,,NORMAL,NORMAL,NORMAL,,PERTE,PERTE,A,G,partielle,73.0,1232.0,wt,mutant,3.0,,90.0
+491,M,GBM,4.0,NC,,NORMAL,NORMAL,AMPLIFIE,DELETE,,,,A,G,partielle,67.0,410.0,mutant,mutant,,,90.0
+492,M,oligo,3.0,NC,,,,NORMAL,,,,,A,D,exérèse,65.0,224.0,NC,,,,
+493,M,gliome,4.0,NC,,NORMAL,NORMAL,,NORMAL,,NON PERTE,,A,G,biopsie,62.0,643.0,wt,,3.0,,
+494,M,astrocytome,4.0,NC,NON METHYLE,,NORMAL,,DELETE,,PERTE,,A,D,biopsie,50.0,836.0,mutant,mutant,4.0,,90.0
+495,M,GBM,4.0,NC,,,,NORMAL,DELETE,,PERTE,,B,G,exérèse,65.0,896.0,wt,,,0.0,80.0
+496,M,astrocytome,3.0,NC,,,NORMAL,,DELETE,,NON PERTE,PERTE,A,D,biopsie,65.0,1281.0,wt,,4.0,0.0,
+497,M,GBM,2.0,NC,,,NORMAL,NORMAL,DELETE,,PERTE,PERTE,A,D,biopsie,49.0,147.0,NC,,,,
+498,M,oligo,4.0,NC,,,NORMAL,,,,NON PERTE,PERTE,A,D,biopsie,25.0,8.0,wt,mutant,3.0,1.0,
+499,M,astrocytome,2.0,NORMAL,NON METHYLE,,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,D,exérèse,78.0,478.0,,wt,3.0,0.0,
+500,M,GBM,4.0,NC,METHYLE,AMPLIFIE,,,,,,,A,G,partielle,72.0,1087.0,NC,mutant,,0.0,
+501,F,GBM,4.0,,,NORMAL,,NORMAL,,,PERTE,NON PERTE,A,non précisé,biopsie,55.0,2558.0,wt,mutant,,,60.0
+502,M,gliome,3.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,PERTE,A,D,biopsie,50.0,182.0,wt,wt,4.0,0.0,
+503,M,GBM,2.0,NC,,,NORMAL,NORMAL,DELETE,,PERTE,NON PERTE,N,G,partielle,63.0,736.0,NC,wt,4.0,,
+504,M,oligo,4.0,NORMAL,,NORMAL,,NORMAL,,,,,A,G,partielle,71.0,9246.0,wt,mutant,,0.0,
+505,F,GBM,4.0,NC,,NORMAL,,,DELETE,,NON PERTE,,A,G,biopsie,39.0,1885.0,wt,mutant,4.0,,80.0
+506,M,GBM,2.0,NC,,,NORMAL,,,,PERTE,,A,D,biopsie,74.0,265.0,wt,,,0.0,90.0
+507,F,GBM,3.0,NC,,,,NORMAL,,,NON PERTE,,A,G,aucune,49.0,22.0,wt,,,0.0,
+508,M,GBM,2.0,NC,,AMPLIFIE,,NORMAL,,,,PERTE,A,D,biopsie,57.0,49.0,NC,mutant,4.0,,70.0
+509,F,gliome,4.0,,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,non précisé,exérèse,70.0,265.0,wt,mutant,4.0,,90.0
+510,F,GBM,2.0,NC,,NORMAL,NORMAL,AMPLIFIE,,,,,A,D,exérèse,40.0,845.0,mutant,wt,4.0,,90.0
+511,F,astrocytome,2.0,NORMAL,METHYLE,,,NORMAL,DELETE,,,NON PERTE,A,D,exérèse,60.0,3283.0,wt,,,0.0,100.0
+512,M,GBM,3.0,NC,,,NORMAL,,,,,NON PERTE,A,G,exérèse,44.0,480.0,wt,mutant,3.0,0.0,100.0
+513,M,gliome,4.0,NC,METHYLE,AMPLIFIE,NORMAL,,NORMAL,,PERTE,PERTE,A,D,biopsie,69.0,1022.0,wt,mutant,4.0,,80.0
+514,M,GBM,4.0,NC,,,NORMAL,NORMAL,NORMAL,,,,A,D,exérèse,66.0,367.0,wt,,,,80.0
+515,M,oligo,4.0,,,,NORMAL,,,,,,A,D,exérèse,50.0,90.0,NC,mutant,,0.0,80.0
+516,M,GBM,4.0,NC,,,NORMAL,,,,PERTE,,A,non précisé,partielle,47.0,667.0,wt,mutant,4.0,,
+517,M,oligo,4.0,ALTERE,METHYLE,,NORMAL,,,,PERTE,,A,D,biopsie,62.0,2085.0,wt,,,0.0,90.0
+518,M,GBM,3.0,,,,,NORMAL,,,,NON PERTE,A,G,exérèse,64.0,286.0,wt,mutant,,0.0,
+519,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,PERTE,NON PERTE,A,G,partielle,64.0,3399.0,wt,wt,,,
+520,M,gliome,4.0,,,,,,DELETE,,,NON PERTE,A,D,exérèse,60.0,2441.0,wt,,4.0,,
+521,F,GBM,4.0,NC,,AMPLIFIE,NORMAL,,,,NON PERTE,NON PERTE,A,D,partielle,62.0,84.0,mutant,wt,,0.0,
+522,M,GBM,4.0,NC,NON METHYLE,NORMAL,,,,,NON PERTE,,A,G,partielle,70.0,8159.0,wt,mutant,4.0,,
+523,F,GBM,4.0,,NON METHYLE,,NORMAL,,NORMAL,,PERTE,,A,D,partielle,44.0,520.0,wt,,,0.0,
+524,M,oligo,2.0,NC,,,,,NORMAL,,PERTE,,A,G,biopsie,33.0,24.0,wt,,3.0,,
+525,M,GBM,4.0,NC,,,NORMAL,NORMAL,,Maintien,NON PERTE,PERTE,A,G,exérèse,58.0,1253.0,mutant,wt,4.0,,
+526,M,GBM,3.0,,,,,,,,,,A,D,exérèse,29.0,314.0,wt,mutant,4.0,0.0,80.0
+527,M,gliome,4.0,NC,,NORMAL,,NORMAL,,,,NON PERTE,A,G,partielle,82.0,834.0,wt,mutant,4.0,,
+528,F,astrocytome,4.0,ALTERE,,,,,,,NON PERTE,NON PERTE,A,G,biopsie,27.0,347.0,wt,mutant,,0.0,
+529,F,astrocytome,2.0,NC,,NORMAL,,NORMAL,,,,,A,D,biopsie,56.0,178.0,NC,,4.0,,90.0
+530,M,gliome,2.0,NORMAL,NON METHYLE,NORMAL,,NORMAL,,,,NON PERTE,B,bilatéral,exérèse,56.0,719.0,wt,,,0.0,
+531,M,GBM,4.0,NC,,,,,NORMAL,,NON PERTE,PERTE,A,bilatéral,biopsie,33.0,2556.0,wt,,4.0,,80.0
+532,F,GBM,2.0,NC,,AMPLIFIE,,,,,NON PERTE,,A,G,partielle,60.0,3469.0,wt,mutant,4.0,0.0,80.0
+533,F,GBM,3.0,NORMAL,,NORMAL,,NORMAL,,,NON PERTE,,A,D,biopsie,31.0,1051.0,mutant,,4.0,,80.0
+534,F,gliome,2.0,NC,,,AMPLIFIE,NORMAL,DELETE,,,,A,D,exérèse,61.0,310.0,NC,wt,4.0,,70.0
+535,M,oligo,4.0,,NON METHYLE,,,NORMAL,,,,NON PERTE,A,G,biopsie,68.0,42.0,wt,wt,,,90.0
+536,M,GBM,4.0,NC,METHYLE,,NORMAL,NORMAL,NORMAL,,PERTE,,A,D,biopsie,78.0,1997.0,wt,wt,4.0,0.0,
+537,F,oligo,4.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,B,G,biopsie,51.0,439.0,wt,mutant,,0.0,
+538,F,GBM,4.0,,,NORMAL,,NORMAL,,Maintien,PERTE,NON PERTE,A,G,biopsie,56.0,4154.0,wt,,,0.0,
+539,F,GBM,4.0,NC,METHYLE,NORMAL,,,DELETE,,NON PERTE,,A,G,biopsie,27.0,425.0,wt,wt,4.0,,80.0
+540,M,astrocytome,4.0,NC,,AMPLIFIE,NORMAL,,,,NON PERTE,PERTE,A,D,biopsie,78.0,1850.0,wt,mutant,4.0,,90.0
+541,M,astrocytome,4.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,A,D,exérèse,39.0,1493.0,wt,wt,,,
+542,M,GBM,4.0,NC,METHYLE,AMPLIFIE,,NORMAL,,,,,N,G,biopsie,46.0,736.0,wt,mutant,3.0,0.0,80.0
+543,F,gliome,3.0,NC,,,NORMAL,NORMAL,,,PERTE,,A,G,biopsie,71.0,722.0,mutant,mutant,4.0,,
+544,M,gliome,2.0,NORMAL,,,NORMAL,NORMAL,DELETE,,,NON PERTE,A,D,partielle,72.0,370.0,wt,,,0.0,60.0
+545,F,GBM,4.0,,,,NORMAL,,,,,,A,G,biopsie,59.0,535.0,wt,mutant,,,
+546,M,gliome,3.0,NC,,,NORMAL,NORMAL,DELETE,,NON PERTE,,A,D,biopsie,57.0,433.0,wt,,,,
+547,M,gliome,4.0,NC,,NORMAL,NORMAL,,NORMAL,,,,A,G,exérèse,67.0,699.0,wt,mutant,,,
+548,F,GBM,4.0,NC,,NORMAL,,NORMAL,,,NON PERTE,PERTE,A,D,biopsie,71.0,2023.0,wt,wt,4.0,0.0,
+549,M,GBM,4.0,NC,METHYLE,,,,NORMAL,,PERTE,,A,non précisé,exérèse,34.0,588.0,mutant,,4.0,,
+550,M,GBM,2.0,NC,,NORMAL,NORMAL,,NORMAL,,NON PERTE,NON PERTE,A,D,biopsie,66.0,651.0,wt,mutant,,0.0,
+551,F,GBM,4.0,NORMAL,METHYLE,NORMAL,,NORMAL,,,PERTE,,A,G,exérèse,80.0,768.0,mutant,,4.0,,
+552,M,astrocytome,4.0,NC,,,NORMAL,,,,,,A,G,biopsie,39.0,938.0,NC,mutant,3.0,0.0,80.0
+553,M,GBM,2.0,NORMAL,,NORMAL,,NORMAL,DELETE,,,NON PERTE,A,G,biopsie,59.0,327.0,wt,mutant,3.0,1.0,70.0
+554,F,gliome,2.0,NC,,AMPLIFIE,,NORMAL,,,,PERTE,N,D,exérèse,32.0,273.0,NC,,,,80.0
+555,M,GBM,4.0,NC,,NORMAL,NORMAL,,NORMAL,,NON PERTE,,A,D,biopsie,51.0,255.0,wt,,,,70.0
+556,M,GBM,3.0,NC,NON METHYLE,,NORMAL,,,,,PERTE,B,D,exérèse,61.0,1398.0,wt,,3.0,0.0,90.0
+557,F,gliome,4.0,NC,,AMPLIFIE,,NORMAL,,,,,A,D,partielle,59.0,365.0,mutant,mutant,4.0,0.0,70.0
+558,F,oligo,2.0,NC,,NORMAL,,,,,,PERTE,A,D,exérèse,50.0,766.0,wt,mutant,2.0,,80.0
+559,M,GBM,4.0,NC,METHYLE,,NORMAL,,,,PERTE,,A,G,biopsie,64.0,2539.0,wt,wt,4.0,0.0,80.0
+560,M,astrocytome,3.0,NC,,NORMAL,NORMAL,NORMAL,,,,PERTE,A,D,exérèse,26.0,726.0,wt,mutant,3.0,,80.0
+561,M,GBM,3.0,,NON METHYLE,,NORMAL,,DELETE,,,PERTE,A,G,partielle,51.0,575.0,wt,wt,,0.0,90.0
+562,M,GBM,4.0,NC,,,,,NORMAL,,NON PERTE,NON PERTE,N,non précisé,biopsie,73.0,517.0,NC,,3.0,,90.0
+563,F,GBM,4.0,,,AMPLIFIE,NORMAL,NORMAL,DELETE,,NON PERTE,,A,D,biopsie,47.0,190.0,wt,wt,4.0,,
+564,M,GBM,4.0,,,,,NORMAL,,,,PERTE,A,G,partielle,45.0,1152.0,wt,mutant,,,
+565,M,GBM,2.0,NC,METHYLE,,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,G,biopsie,59.0,444.0,wt,,,,90.0
+566,M,gliome,2.0,NC,,,NORMAL,,NORMAL,,NON PERTE,,A,G,partielle,67.0,416.0,wt,,,,50.0
+567,F,GBM,4.0,NC,METHYLE,,NORMAL,,,,,PERTE,N,G,exérèse,75.0,1493.0,wt,,,0.0,
+568,M,GBM,2.0,NC,,AMPLIFIE,,NORMAL,NORMAL,,PERTE,,A,D,biopsie,63.0,457.0,NC,mutant,4.0,,
+569,F,astrocytome pilocytique,4.0,NC,METHYLE,NORMAL,NORMAL,AMPLIFIE,NORMAL,,,NON PERTE,A,G,partielle,31.0,52.0,wt,mutant,4.0,,
+570,M,GBM,3.0,NC,,AMPLIFIE,,,NORMAL,,,NON PERTE,A,D,partielle,67.0,251.0,wt,wt,4.0,,
+571,M,GBM,4.0,NC,METHYLE,NORMAL,,,,,,NON PERTE,A,D,partielle,29.0,470.0,wt,wt,,0.0,
+572,F,GBM,2.0,NC,NON METHYLE,,,,,,NON PERTE,,A,G,exérèse,30.0,3424.0,mutant,mutant,,,70.0
+573,F,GBM,4.0,,,,,,,,,PERTE,A,G,biopsie,66.0,736.0,wt,wt,,,
+574,M,GBM,4.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,G,exérèse,71.0,382.0,wt,wt,4.0,,
+575,M,gliome,2.0,NC,METHYLE,NORMAL,NORMAL,,,,,,A,D,partielle,76.0,314.0,wt,,3.0,0.0,90.0
+576,M,astrocytome,4.0,NC,,NORMAL,NORMAL,,NORMAL,,NON PERTE,NON PERTE,A,G,biopsie,74.0,425.0,NC,wt,,,60.0
+577,M,oligo,2.0,NC,,,,NORMAL,DELETE,,NON PERTE,,A,G,exérèse,33.0,439.0,NC,wt,,0.0,80.0
+578,F,GBM,4.0,NC,,NORMAL,,NORMAL,DELETE,,NON PERTE,,A,G,partielle,66.0,744.0,wt,mutant,4.0,0.0,70.0
+579,M,astrocytome,4.0,NC,METHYLE,,,,NORMAL,,NON PERTE,,A,D,biopsie,59.0,545.0,wt,,,0.0,
+580,M,GBM,4.0,NC,,NORMAL,,,,,NON PERTE,,N,D,biopsie,80.0,131.0,wt,wt,4.0,,90.0
+581,M,gliome,4.0,,,,NORMAL,,,,,,N,G,exérèse,55.0,584.0,NC,,4.0,0.0,80.0
+582,M,gliome,4.0,NC,,NORMAL,,NORMAL,DELETE,,PERTE,,A,G,exérèse,41.0,371.0,wt,wt,3.0,,90.0
+583,M,GBM,3.0,,METHYLE,,NORMAL,NORMAL,,,,,A,G,partielle,66.0,1194.0,NC,mutant,4.0,0.0,
+584,M,gliome,4.0,NC,,,NORMAL,NORMAL,DELETE,,NON PERTE,NON PERTE,A,D,partielle,71.0,3327.0,wt,,,0.0,
+585,M,GBM,4.0,NORMAL,NON METHYLE,,,,,,,GAIN,N,D,biopsie,17.0,79.0,wt,mutant,3.0,,
+586,M,astrocytome,3.0,NC,METHYLE,,,,NORMAL,,,,A,D,partielle,50.0,272.0,wt,wt,,,90.0
+587,M,GBM,2.0,NC,METHYLE,NORMAL,,NORMAL,,,PERTE,NON PERTE,A,non précisé,biopsie,38.0,313.0,wt,,,,90.0
+588,F,GBM,2.0,ALTERE,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,G,partielle,42.0,567.0,wt,,3.0,,80.0
+589,M,oligo,2.0,,,AMPLIFIE,NORMAL,,,,,NON PERTE,N,D,partielle,53.0,3385.0,NC,wt,,0.0,70.0
+590,F,GBM,2.0,NC,,,,,NORMAL,,PERTE,PERTE,A,D,partielle,59.0,454.0,mutant,mutant,,,
+591,F,GBM,4.0,NC,NON METHYLE,NORMAL,,NORMAL,NORMAL,,,,A,D,exérèse,71.0,88.0,wt,mutant,4.0,,
+592,M,GBM,4.0,NC,METHYLE,NORMAL,NORMAL,,,,,NON PERTE,A,G,aucune,47.0,1.0,mutant,,3.0,0.0,
+593,M,GBM,4.0,NORMAL,,,NORMAL,,NORMAL,,PERTE,NON PERTE,A,D,partielle,15.0,2211.0,mutant,,,,90.0
+594,M,GBM,4.0,,METHYLE,NORMAL,,NORMAL,DELETE,,,,A,G,partielle,55.0,1332.0,wt,,,1.0,
+595,M,GBM,2.0,NC,,,,,,Maintien,PERTE,,A,D,partielle,52.0,437.0,wt,,,0.0,
+596,F,GBM,4.0,NORMAL,,,NORMAL,,NORMAL,,,NON PERTE,A,D,partielle,30.0,281.0,wt,,4.0,0.0,80.0
+597,F,oligo,4.0,,METHYLE,NORMAL,NORMAL,,DELETE,,PERTE,GAIN,A,D,biopsie,67.0,2857.0,wt,,,,
+598,F,GBM,4.0,NC,,NORMAL,NORMAL,,,,,,A,D,biopsie,44.0,635.0,NC,,,,
+599,M,GBM,4.0,NC,,NORMAL,NORMAL,,NORMAL,,,NON PERTE,A,D,biopsie,43.0,4991.0,wt,,,0.0,
+600,M,oligo,2.0,NC,,,AMPLIFIE,,,,,,A,D,partielle,46.0,472.0,wt,wt,4.0,,80.0
+601,M,GBM,2.0,NORMAL,METHYLE,,NORMAL,,DELETE,,,,A,G,exérèse,75.0,744.0,wt,,3.0,,90.0
+602,F,oligo,2.0,ALTERE,,NORMAL,,,NORMAL,,PERTE,,A,G,partielle,56.0,549.0,wt,mutant,,,80.0
+603,M,GBM,2.0,NORMAL,,,NORMAL,NORMAL,DELETE,,NON PERTE,,A,D,partielle,39.0,319.0,wt,wt,4.0,0.0,80.0
+604,F,oligo,4.0,NORMAL,,NORMAL,NORMAL,NORMAL,DELETE,,,,A,G,biopsie,42.0,361.0,NC,mutant,4.0,,
+605,M,astrocytome,2.0,,,,,,,,NON PERTE,,A,D,partielle,56.0,41.0,NC,mutant,4.0,0.0,
+606,F,oligo,3.0,,NON METHYLE,,,,NORMAL,,,NON PERTE,A,non précisé,exérèse,24.0,2620.0,wt,mutant,4.0,0.0,80.0
+607,M,GBM,4.0,NC,NON METHYLE,NORMAL,,,,,NON PERTE,,A,D,exérèse,33.0,448.0,mutant,wt,4.0,,70.0
+608,F,oligo,2.0,,METHYLE,NORMAL,,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,G,exérèse,41.0,508.0,NC,mutant,,,
+609,M,oligo,2.0,NC,,,,NORMAL,DELETE,,,,A,D,partielle,58.0,418.0,NC,mutant,,,
+610,M,GBM,3.0,NC,,NORMAL,,NORMAL,,,,,A,G,biopsie,42.0,1633.0,wt,,4.0,,90.0
+611,F,GBM,4.0,NC,,,,,,,,,N,G,exérèse,64.0,147.0,mutant,,3.0,,
+612,M,gliome,4.0,NORMAL,METHYLE,,NORMAL,NORMAL,DELETE,,NON PERTE,PERTE,A,D,biopsie,76.0,273.0,wt,wt,4.0,,60.0
+613,M,oligo,4.0,,,,NORMAL,,,,,NON PERTE,A,D,partielle,69.0,1037.0,wt,mutant,,0.0,
+614,M,GBM,4.0,NC,,AMPLIFIE,,NORMAL,NORMAL,,,,A,D,biopsie,48.0,72.0,wt,,4.0,0.0,90.0
+615,M,GBM,2.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,D,biopsie,45.0,1370.0,wt,mutant,4.0,0.0,80.0
+616,F,gliome,4.0,NC,,NORMAL,NORMAL,,,,NON PERTE,,A,G,exérèse,33.0,3127.0,wt,mutant,,,80.0
+617,M,GBM,4.0,,,,NORMAL,,NORMAL,,PERTE,NON PERTE,A,G,partielle,57.0,131.0,wt,mutant,4.0,,
+618,M,astrocytome,3.0,NORMAL,,NORMAL,AMPLIFIE,NORMAL,NORMAL,,PERTE,NON PERTE,A,D,partielle,33.0,504.0,wt,mutant,4.0,,80.0
+619,M,GBM,4.0,NC,METHYLE,NORMAL,,NORMAL,NORMAL,,PERTE,PERTE,A,D,biopsie,52.0,926.0,NC,mutant,4.0,0.0,90.0
+620,M,GBM,2.0,NC,,,,NORMAL,DELETE,,,,A,D,exérèse,82.0,566.0,wt,,,0.0,80.0
+621,F,GBM,4.0,NC,,,,,NORMAL,,,,A,G,biopsie,39.0,379.0,wt,,3.0,0.0,
+622,M,GBM,2.0,NC,,,AMPLIFIE,,,,NON PERTE,NON PERTE,A,G,biopsie,48.0,183.0,mutant,,,0.0,80.0
+623,F,GBM,4.0,NC,,,NORMAL,,,,,,A,D,exérèse,58.0,80.0,mutant,,3.0,,
+624,F,GBM,2.0,NC,,,AMPLIFIE,NORMAL,,,PERTE,,A,G,exérèse,62.0,379.0,wt,,3.0,0.0,90.0
+625,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,NON PERTE,,A,D,biopsie,44.0,1559.0,wt,mutant,3.0,0.0,70.0
+626,M,gliome,3.0,NORMAL,,NORMAL,,,,,,,A,G,exérèse,45.0,168.0,wt,mutant,3.0,0.0,100.0
+627,M,GBM,3.0,NC,NON METHYLE,NORMAL,,NORMAL,NORMAL,,PERTE,PERTE,A,G,partielle,19.0,151.0,wt,wt,,,70.0
+628,F,gliome,4.0,NC,,,,NORMAL,NORMAL,,PERTE,,A,D,partielle,29.0,140.0,wt,,,0.0,
+629,F,GBM,3.0,NC,,NORMAL,NORMAL,,,Maintien,,,A,G,exérèse,56.0,340.0,wt,,4.0,0.0,
+630,M,GBM,4.0,NC,METHYLE,,NORMAL,,,,,PERTE,A,D,partielle,53.0,206.0,NC,mutant,4.0,0.0,80.0
+631,M,GBM,3.0,,,,NORMAL,NORMAL,DELETE,,NON PERTE,PERTE,A,G,partielle,66.0,1316.0,NC,,,,
+632,F,gliome,4.0,NC,METHYLE,,,NORMAL,,,NON PERTE,,A,D,biopsie,60.0,421.0,wt,,3.0,,80.0
+633,M,GBM,2.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,,,PERTE,NON PERTE,A,G,partielle,53.0,2749.0,wt,,4.0,0.0,90.0
+634,F,GBM,4.0,NORMAL,,,NORMAL,NORMAL,NORMAL,,PERTE,,A,G,exérèse,48.0,1081.0,wt,mutant,,0.0,60.0
+635,F,GBM,3.0,ALTERE,,,,,,,,,A,D,partielle,52.0,235.0,NC,mutant,4.0,,
+636,F,oligo,3.0,NC,,NORMAL,,NORMAL,,,PERTE,,A,bilatéral,exérèse,70.0,320.0,NC,mutant,4.0,0.0,70.0
+637,M,GBM,2.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,A,bilatéral,exérèse,46.0,635.0,wt,mutant,,,70.0
+638,M,astrocytome,3.0,NC,,,NORMAL,,,,,,A,D,partielle,56.0,503.0,wt,mutant,,0.0,80.0
+639,F,GBM,2.0,NC,,,,,,,NON PERTE,PERTE,B,D,biopsie,40.0,3097.0,NC,mutant,4.0,0.0,
+640,M,GBM,4.0,NC,,,AMPLIFIE,AMPLIFIE,,,,,A,D,partielle,64.0,555.0,wt,mutant,,,90.0
+641,F,GBM,4.0,NC,,NORMAL,NORMAL,,,,,,N,D,partielle,84.0,196.0,wt,mutant,,,50.0
+642,M,gliome,4.0,NORMAL,,,,,NORMAL,,,,A,D,partielle,59.0,431.0,NC,wt,,1.0,70.0
+643,F,gangliogliome,4.0,,,,,NORMAL,,,,PERTE,A,G,biopsie,81.0,723.0,NC,mutant,,,
+644,M,GBM,4.0,NC,,,NORMAL,NORMAL,,,,,A,bilatéral,partielle,35.0,1852.0,wt,mutant,,0.0,
+645,F,GBM,2.0,NC,,NORMAL,NORMAL,,,,,NON PERTE,A,G,partielle,41.0,21.0,mutant,,,,
+646,M,GBM,4.0,NC,NON METHYLE,NORMAL,,AMPLIFIE,NORMAL,,PERTE,,A,D,biopsie,54.0,7907.0,wt,,4.0,,90.0
+647,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,D,partielle,58.0,722.0,wt,mutant,,0.0,
+648,M,oligo,4.0,NORMAL,NON METHYLE,NORMAL,,NORMAL,,,,NON PERTE,A,D,exérèse,62.0,1185.0,mutant,,,0.0,
+649,M,GBM,4.0,NC,,NORMAL,NORMAL,,DELETE,,NON PERTE,,A,D,exérèse,59.0,205.0,mutant,,4.0,1.0,70.0
+650,M,GBM,4.0,NC,,,AMPLIFIE,,NORMAL,,NON PERTE,PERTE,N,bilatéral,biopsie,57.0,7363.0,wt,wt,4.0,,
+651,F,gliome,4.0,NC,,AMPLIFIE,NORMAL,,,,,,A,D,biopsie,55.0,1327.0,wt,,,0.0,80.0
+652,M,oligo,4.0,NC,,,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,D,biopsie,77.0,364.0,NC,,4.0,,90.0
+653,M,GBM,2.0,NORMAL,METHYLE,NORMAL,,,,,,,A,D,exérèse,38.0,2388.0,wt,mutant,,0.0,
+654,M,astrocytome,2.0,,,AMPLIFIE,NORMAL,,DELETE,,,,A,G,partielle,61.0,2863.0,wt,mutant,,,
+655,F,oligo,3.0,NC,NON METHYLE,NORMAL,,,NORMAL,,NON PERTE,PERTE,A,D,exérèse,58.0,531.0,NC,mutant,4.0,,
+656,M,GBM,4.0,NC,,NORMAL,NORMAL,,,,PERTE,,A,non précisé,biopsie,50.0,758.0,wt,mutant,,0.0,90.0
+657,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,PERTE,PERTE,A,D,exérèse,46.0,834.0,wt,wt,,0.0,
+658,F,GBM,4.0,NORMAL,,NORMAL,,,,,NON PERTE,PERTE,A,D,biopsie,65.0,496.0,wt,wt,4.0,,90.0
+659,M,astrocytome,4.0,NC,,NORMAL,,,,,,,A,G,biopsie,67.0,412.0,wt,,,,100.0
+660,F,astrocytome,4.0,NC,,NORMAL,NORMAL,,NORMAL,,,NON PERTE,A,D,exérèse,55.0,1402.0,wt,,3.0,,
+661,M,GBM,4.0,,,,,AMPLIFIE,DELETE,,PERTE,,A,D,biopsie,48.0,616.0,wt,,4.0,0.0,90.0
+662,M,astrocytome,4.0,NC,NON METHYLE,AMPLIFIE,,NORMAL,,,NON PERTE,,A,D,biopsie,71.0,2470.0,wt,,4.0,0.0,80.0
+663,M,GBM,2.0,NORMAL,,,,,,,,,A,G,partielle,31.0,146.0,wt,wt,,0.0,
+664,M,oligo,4.0,ALTERE,METHYLE,NORMAL,,NORMAL,,,,,A,D,biopsie,28.0,610.0,wt,mutant,,0.0,70.0
+665,M,oligo,4.0,NC,,AMPLIFIE,AMPLIFIE,,DELETE,,NON PERTE,,A,D,biopsie,39.0,32.0,wt,,,,
+666,M,gliome,2.0,NORMAL,NON METHYLE,NORMAL,,NORMAL,,,NON PERTE,,A,D,exérèse,63.0,169.0,wt,mutant,,0.0,60.0
+667,M,GBM,2.0,NC,METHYLE,AMPLIFIE,,NORMAL,,,,PERTE,A,non précisé,partielle,49.0,282.0,wt,,,,90.0
+668,F,GBM,4.0,NC,,NORMAL,,NORMAL,DELETE,Extinction diffuse,NON PERTE,,N,G,biopsie,54.0,554.0,wt,wt,,0.0,50.0
+669,F,gliome,4.0,NC,,AMPLIFIE,,NORMAL,,,PERTE,,A,G,biopsie,66.0,480.0,mutant,mutant,,,
+670,F,GBM,4.0,NORMAL,,,,,,,NON PERTE,,A,D,biopsie,42.0,2457.0,NC,mutant,,0.0,
+671,F,GBM,2.0,NC,,,,NORMAL,NORMAL,,PERTE,,A,D,partielle,27.0,3348.0,NC,,3.0,,90.0
+672,M,GBM,4.0,NC,,,NORMAL,,NORMAL,,PERTE,PERTE,A,D,biopsie,70.0,734.0,wt,wt,,0.0,
+673,F,GBM,3.0,ALTERE,,NORMAL,,,,,,,N,G,exérèse,62.0,5750.0,wt,,,,
+674,F,oligo,2.0,ALTERE,,,,NORMAL,NORMAL,,,NON PERTE,A,D,partielle,71.0,1106.0,wt,mutant,,0.0,
+675,F,GBM,3.0,,NON METHYLE,,,NORMAL,DELETE,,,NON PERTE,A,D,biopsie,48.0,747.0,wt,wt,4.0,,80.0
+676,M,astrocytome,4.0,NC,,NORMAL,NORMAL,,,,,PERTE,A,D,biopsie,61.0,1140.0,wt,wt,,0.0,
+677,M,oligo,3.0,,METHYLE,,,NORMAL,DELETE,,,,A,D,partielle,64.0,76.0,wt,,4.0,,80.0
+678,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,D,exérèse,75.0,1562.0,wt,,4.0,0.0,90.0
+679,M,astrocytome,1.0,NORMAL,,,,,NORMAL,,PERTE,,A,G,partielle,84.0,36.0,wt,mutant,,,
+680,M,astrocytome,3.0,,NON METHYLE,,NORMAL,NORMAL,,,,,N,G,biopsie,60.0,3117.0,mutant,mutant,,,
+681,M,astrocytome,3.0,,,,NORMAL,NORMAL,,,,,A,D,biopsie,57.0,778.0,NC,mutant,4.0,,
+682,F,GBM,4.0,NC,,NORMAL,,,,,,NON PERTE,A,D,partielle,63.0,966.0,NC,,,0.0,
+683,F,oligo,3.0,NC,,AMPLIFIE,NORMAL,,DELETE,,,NON PERTE,A,G,biopsie,61.0,744.0,wt,,3.0,0.0,80.0
+684,F,oligo,3.0,NC,,,NORMAL,,DELETE,,,,A,G,exérèse,62.0,1426.0,wt,,3.0,,90.0
+685,F,gliome,2.0,NC,,,NORMAL,,DELETE,,PERTE,,A,D,partielle,52.0,657.0,NC,mutant,4.0,0.0,
+686,M,astrocytome,4.0,NC,,NORMAL,NORMAL,AMPLIFIE,DELETE,,NON PERTE,,A,G,biopsie,62.0,682.0,wt,wt,,0.0,
+687,M,GBM,4.0,NC,NON METHYLE,NORMAL,,,NORMAL,,PERTE,,A,non précisé,exérèse,54.0,1259.0,wt,mutant,4.0,,70.0
+688,M,GBM,4.0,NC,,NORMAL,NORMAL,,,,NON PERTE,PERTE,A,G,exérèse,61.0,714.0,NC,mutant,4.0,0.0,
+689,F,GBM,2.0,NORMAL,NON METHYLE,,,NORMAL,,,,PERTE,A,G,exérèse,51.0,498.0,wt,,4.0,,70.0
+690,F,GBM,3.0,NC,,NORMAL,,NORMAL,,,,,A,D,partielle,73.0,3865.0,NC,mutant,4.0,0.0,
+691,F,gangliogliome,4.0,NORMAL,METHYLE,AMPLIFIE,NORMAL,NORMAL,,,NON PERTE,,A,D,partielle,58.0,521.0,NC,mutant,4.0,,
+692,M,oligo,4.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,A,G,exérèse,70.0,581.0,wt,,4.0,,90.0
+693,M,GBM,4.0,NC,METHYLE,AMPLIFIE,,,,Maintien,,,A,D,partielle,52.0,454.0,wt,mutant,4.0,,
+694,F,GBM,3.0,,,AMPLIFIE,NORMAL,,,,PERTE,,A,D,biopsie,64.0,211.0,wt,wt,4.0,,90.0
+695,M,gliome,3.0,NC,,,,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,D,exérèse,79.0,261.0,NC,,4.0,,
+696,F,oligo,4.0,NC,,AMPLIFIE,NORMAL,,,,,NON PERTE,A,non précisé,partielle,46.0,1574.0,NC,mutant,,0.0,90.0
+697,F,oligo,4.0,,,,,,,,,,A,G,partielle,59.0,503.0,wt,mutant,,0.0,80.0
+698,M,gliome,4.0,NC,NON METHYLE,NORMAL,NORMAL,AMPLIFIE,,,,GAIN,N,D,biopsie,75.0,4446.0,wt,mutant,4.0,0.0,
+699,M,oligo,4.0,NORMAL,,AMPLIFIE,,NORMAL,,,,NON PERTE,N,D,biopsie,68.0,457.0,wt,,4.0,,
+700,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,,,,,NON PERTE,A,G,exérèse,82.0,228.0,wt,mutant,,,100.0
+701,M,GBM,2.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,,,NON PERTE,PERTE,A,G,exérèse,49.0,584.0,NC,,4.0,,80.0
+702,F,oligo,4.0,,,NORMAL,,,,,PERTE,PERTE,A,D,partielle,69.0,1165.0,wt,,3.0,0.0,
+703,F,GBM,3.0,NORMAL,,NORMAL,,,NORMAL,,PERTE,PERTE,A,D,biopsie,42.0,533.0,wt,mutant,4.0,0.0,
+704,F,gliome,3.0,NC,,NORMAL,NORMAL,,,,PERTE,NON PERTE,A,non précisé,biopsie,40.0,585.0,wt,mutant,,,90.0
+705,F,gangliogliome,3.0,,METHYLE,,,,NORMAL,,,NON PERTE,A,D,exérèse,63.0,700.0,wt,wt,,0.0,
+706,M,gliome,3.0,NC,,,,NORMAL,,,PERTE,,A,non précisé,exérèse,62.0,1018.0,wt,mutant,,,80.0
+707,M,GBM,4.0,NC,NON METHYLE,AMPLIFIE,NORMAL,,,,,NON PERTE,A,D,partielle,48.0,1593.0,NC,mutant,4.0,,80.0
+708,M,oligo,4.0,,METHYLE,NORMAL,,NORMAL,DELETE,,NON PERTE,NON PERTE,A,D,biopsie,44.0,516.0,NC,mutant,,0.0,90.0
+709,M,oligo,4.0,NC,NON METHYLE,,,NORMAL,NORMAL,,PERTE,,A,G,aucune,55.0,81.0,mutant,,2.0,,90.0
+710,F,GBM,2.0,,,NORMAL,,NORMAL,,,,,A,G,biopsie,44.0,460.0,mutant,mutant,4.0,0.0,90.0
+711,M,GBM,3.0,ALTERE,NON METHYLE,,,NORMAL,NORMAL,,PERTE,,A,G,aucune,25.0,577.0,mutant,wt,3.0,,80.0
+712,M,GBM,3.0,NORMAL,,NORMAL,NORMAL,,,,PERTE,NON PERTE,A,G,exérèse,63.0,1014.0,wt,wt,,,80.0
+713,F,GBM,4.0,,,NORMAL,,NORMAL,NORMAL,,,,A,G,biopsie,59.0,324.0,NC,mutant,,,
+714,M,GBM,4.0,ALTERE,NON METHYLE,,,,NORMAL,,,,N,D,exérèse,29.0,141.0,wt,wt,3.0,0.0,90.0
+715,F,GBM,4.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,A,G,biopsie,24.0,2406.0,wt,,,,
+716,M,GBM,2.0,NORMAL,METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,G,partielle,66.0,174.0,wt,mutant,3.0,,80.0
+717,F,GBM,4.0,NC,,AMPLIFIE,NORMAL,,NORMAL,,NON PERTE,,A,D,partielle,63.0,1056.0,wt,mutant,4.0,,
+718,F,gliome,4.0,NC,,AMPLIFIE,,NORMAL,NORMAL,,,,A,D,biopsie,35.0,605.0,wt,wt,,0.0,
+719,F,GBM,2.0,,,NORMAL,NORMAL,NORMAL,,,,,A,G,biopsie,58.0,461.0,NC,wt,4.0,,
+720,M,GBM,3.0,,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,G,partielle,67.0,629.0,wt,mutant,3.0,,80.0
+721,F,GBM,4.0,NC,,AMPLIFIE,,,NORMAL,,PERTE,PERTE,A,G,partielle,48.0,293.0,mutant,wt,4.0,,
+722,F,oligo,3.0,NC,NON METHYLE,AMPLIFIE,NORMAL,,NORMAL,,,,A,D,partielle,78.0,753.0,mutant,,4.0,0.0,90.0
+723,M,GBM,3.0,ALTERE,,NORMAL,,NORMAL,,,,,A,D,biopsie,56.0,529.0,NC,mutant,,0.0,70.0
+724,M,GBM,4.0,NC,,NORMAL,,,NORMAL,,PERTE,,A,non précisé,exérèse,48.0,55.0,mutant,mutant,,0.0,80.0
+725,M,GBM,3.0,NC,METHYLE,NORMAL,NORMAL,,NORMAL,,NON PERTE,,A,D,biopsie,70.0,8168.0,wt,mutant,3.0,0.0,
+726,M,gliome,2.0,,METHYLE,NORMAL,,NORMAL,NORMAL,,PERTE,,A,G,partielle,55.0,1347.0,NC,mutant,,0.0,70.0
+727,M,GBM,4.0,,METHYLE,,,,,,PERTE,PERTE,A,D,partielle,28.0,305.0,wt,,4.0,,80.0
+728,M,GBM,1.0,NC,NON METHYLE,AMPLIFIE,,,,,NON PERTE,,B,G,biopsie,34.0,328.0,mutant,,,0.0,
+729,F,GBM,3.0,NC,,,,,DELETE,,PERTE,,A,D,biopsie,62.0,411.0,NC,mutant,4.0,,
+730,M,GBM,4.0,NC,NON METHYLE,,,,NORMAL,,PERTE,NON PERTE,N,G,biopsie,31.0,243.0,mutant,mutant,,,50.0
+731,M,GBM,4.0,,METHYLE,,,NORMAL,NORMAL,,,PERTE,A,G,partielle,53.0,718.0,wt,,4.0,0.0,
+732,M,GBM,3.0,NORMAL,,,,AMPLIFIE,,,,PERTE,A,G,biopsie,55.0,819.0,NC,mutant,4.0,0.0,70.0
+733,F,GBM,3.0,NC,,NORMAL,NORMAL,,,,PERTE,NON PERTE,A,D,biopsie,72.0,1109.0,mutant,,4.0,,60.0
+734,M,GBM,3.0,,METHYLE,,NORMAL,,,,,,A,G,exérèse,54.0,246.0,wt,mutant,4.0,0.0,
+735,M,GBM,4.0,NC,,,NORMAL,NORMAL,NORMAL,,,PERTE,A,D,partielle,79.0,713.0,wt,mutant,4.0,,90.0
+736,M,GBM,4.0,NC,,,,NORMAL,NORMAL,,PERTE,NON PERTE,A,G,exérèse,75.0,1028.0,mutant,,3.0,0.0,
+737,M,oligo,4.0,,,,NORMAL,NORMAL,,,PERTE,,A,G,partielle,52.0,433.0,NC,wt,3.0,,
+738,F,GBM,4.0,NC,METHYLE,NORMAL,,,,,PERTE,,C,D,exérèse,53.0,137.0,mutant,mutant,4.0,0.0,60.0
+739,M,oligo,3.0,NC,,,,NORMAL,NORMAL,,,PERTE,A,G,exérèse,33.0,253.0,wt,,3.0,,80.0
+740,F,oligo,2.0,NC,,,,,NORMAL,,NON PERTE,,A,D,exérèse,29.0,1061.0,mutant,mutant,3.0,,
+741,M,GBM,4.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,G,biopsie,45.0,215.0,wt,mutant,,,90.0
+742,M,GBM,4.0,,,AMPLIFIE,NORMAL,NORMAL,DELETE,,,,A,G,biopsie,78.0,982.0,NC,,,0.0,
+743,F,GBM,3.0,NC,NON METHYLE,,NORMAL,NORMAL,NORMAL,,NON PERTE,,N,G,exérèse,42.0,237.0,wt,mutant,4.0,,
+744,F,GBM,3.0,,,,,,,,,,A,G,biopsie,50.0,403.0,NC,mutant,,0.0,80.0
+745,F,oligo,4.0,NC,,,NORMAL,,,,PERTE,,A,G,partielle,56.0,670.0,NC,wt,,,
+746,M,GBM,4.0,NC,NON METHYLE,,NORMAL,NORMAL,,,NON PERTE,PERTE,A,G,partielle,51.0,906.0,wt,wt,4.0,0.0,
+747,M,oligo,4.0,,NON METHYLE,NORMAL,,NORMAL,NORMAL,,,PERTE,A,G,exérèse,64.0,622.0,wt,wt,4.0,,
+748,M,GBM,4.0,NC,NON METHYLE,,,NORMAL,NORMAL,,,,A,bilatéral,exérèse,84.0,488.0,wt,mutant,,1.0,
+749,M,GBM,4.0,NC,,NORMAL,,NORMAL,,,NON PERTE,,A,D,partielle,78.0,692.0,wt,wt,4.0,0.0,70.0
+750,F,oligo,3.0,NC,,,NORMAL,NORMAL,,,,,A,D,partielle,31.0,408.0,mutant,,4.0,0.0,
+751,M,oligo,4.0,NC,NON METHYLE,,,NORMAL,,,,NON PERTE,A,D,exérèse,50.0,788.0,mutant,,4.0,,
+752,M,astrocytome gémistocytique (=A2),4.0,NORMAL,,AMPLIFIE,NORMAL,NORMAL,DELETE,,,PERTE,A,D,exérèse,74.0,830.0,wt,,2.0,,
+753,F,GBM,3.0,NC,NON METHYLE,,NORMAL,NORMAL,NORMAL,,,,A,D,partielle,45.0,119.0,wt,mutant,3.0,,50.0
+754,M,GBM,4.0,NC,,,NORMAL,,DELETE,,,,A,G,biopsie,36.0,1099.0,wt,mutant,4.0,,
+755,F,gliome,2.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,,NON PERTE,N,non précisé,biopsie,55.0,785.0,mutant,mutant,,0.0,
+756,F,gliome,4.0,NC,NON METHYLE,NORMAL,,NORMAL,NORMAL,,PERTE,NON PERTE,A,G,exérèse,65.0,1842.0,NC,wt,4.0,,90.0
+757,M,GBM,4.0,NC,,,,,,,,,A,D,partielle,73.0,574.0,wt,mutant,3.0,,80.0
+758,F,GBM,3.0,,,NORMAL,NORMAL,AMPLIFIE,NORMAL,,PERTE,,A,G,partielle,70.0,4379.0,NC,mutant,4.0,0.0,
+759,M,GBM,1.0,NORMAL,,AMPLIFIE,NORMAL,NORMAL,DELETE,,,,A,D,exérèse,54.0,607.0,wt,,4.0,,90.0
+760,M,oligo,4.0,NC,,,NORMAL,NORMAL,,,NON PERTE,,A,D,biopsie,36.0,7.0,mutant,mutant,4.0,,50.0
+761,M,oligo,4.0,,METHYLE,NORMAL,NORMAL,,NORMAL,,,,A,G,exérèse,37.0,485.0,NC,,3.0,,
+762,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,D,biopsie,57.0,110.0,NC,mutant,4.0,0.0,80.0
+763,M,GBM,4.0,ALTERE,,AMPLIFIE,NORMAL,,,,,NON PERTE,A,G,exérèse,58.0,321.0,wt,wt,,0.0,
+764,M,GBM,4.0,NC,METHYLE,,NORMAL,,,,PERTE,NON PERTE,A,D,partielle,55.0,191.0,wt,mutant,4.0,,
+765,M,GBM,2.0,NC,,,NORMAL,NORMAL,NORMAL,,,,A,D,exérèse,84.0,446.0,NC,wt,4.0,,70.0
+766,M,GBM,4.0,NC,,NORMAL,NORMAL,,,,,NON PERTE,A,D,exérèse,68.0,1062.0,wt,,3.0,0.0,70.0
+767,M,astrocytome,3.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,A,D,exérèse,69.0,256.0,NC,mutant,4.0,,
+768,F,gliome,4.0,NC,NON METHYLE,,,,,,,,A,G,biopsie,70.0,370.0,NC,mutant,4.0,,
+769,F,GBM,4.0,NC,,,,,,Maintien,,NON PERTE,A,D,partielle,50.0,878.0,mutant,mutant,4.0,0.0,80.0
+770,M,GBM,2.0,NC,,AMPLIFIE,NORMAL,,,,,,A,D,biopsie,57.0,1259.0,mutant,mutant,4.0,,
+771,M,GBM,4.0,NC,,,,NORMAL,NORMAL,,PERTE,NON PERTE,A,G,biopsie,43.0,2044.0,wt,mutant,,,50.0
+772,F,oligo,4.0,NC,,NORMAL,NORMAL,,NORMAL,,,,A,D,partielle,53.0,1855.0,wt,,4.0,,
+773,M,oligo,3.0,ALTERE,,NORMAL,,NORMAL,,,PERTE,,A,D,biopsie,59.0,490.0,wt,wt,4.0,0.0,
+774,M,astrocytome pilocytique,4.0,NC,,,,NORMAL,DELETE,,PERTE,,B,G,exérèse,59.0,1008.0,wt,mutant,4.0,,
+775,F,gliome,4.0,NC,,,,,DELETE,,,,A,D,biopsie,73.0,1814.0,wt,,,,
+776,F,gliome,3.0,NC,NON METHYLE,,NORMAL,,NORMAL,,PERTE,,A,D,exérèse,38.0,2067.0,NC,mutant,,,
+777,M,GBM,4.0,,,AMPLIFIE,,,,,,,A,G,partielle,27.0,1209.0,NC,wt,3.0,,100.0
+778,M,GBM,4.0,NC,,,,,DELETE,,,,A,G,exérèse,60.0,455.0,NC,wt,3.0,0.0,70.0
+779,F,gliome,2.0,NORMAL,,,,,,,,,A,bilatéral,biopsie,42.0,346.0,mutant,,,0.0,50.0
+780,M,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,,PERTE,A,G,exérèse,31.0,1906.0,NC,wt,4.0,,
+781,F,gliome,1.0,NC,,,NORMAL,,,,,,A,G,partielle,55.0,1197.0,NC,,,0.0,
+782,F,GBM,4.0,,,,NORMAL,,,,NON PERTE,,A,D,biopsie,54.0,947.0,mutant,,,,
+783,M,GBM,4.0,,METHYLE,AMPLIFIE,NORMAL,,,,,,A,D,biopsie,43.0,1430.0,mutant,,4.0,,80.0
+784,F,oligo,4.0,NORMAL,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,G,exérèse,75.0,769.0,mutant,mutant,3.0,,80.0
+785,M,GBM,4.0,NC,,NORMAL,,,,,,,A,D,biopsie,31.0,469.0,NC,mutant,3.0,0.0,80.0
+786,F,GBM,4.0,NC,,,,,,,,,A,G,partielle,76.0,518.0,wt,,,0.0,90.0
+787,M,GBM,4.0,NC,,,,NORMAL,,,,GAIN,A,G,partielle,45.0,469.0,wt,wt,4.0,0.0,90.0
+788,F,GBM,3.0,,,,,,DELETE,,NON PERTE,PERTE,A,G,exérèse,62.0,592.0,wt,mutant,4.0,0.0,
+789,M,gliome,3.0,NC,,NORMAL,,,NORMAL,,PERTE,,A,D,partielle,69.0,489.0,NC,,4.0,,
+790,M,oligo,3.0,NC,NON METHYLE,,NORMAL,NORMAL,,,PERTE,PERTE,A,D,partielle,50.0,900.0,wt,wt,,,80.0
+791,F,GBM,4.0,NORMAL,,,NORMAL,NORMAL,DELETE,,NON PERTE,PERTE,A,D,exérèse,48.0,2458.0,wt,mutant,4.0,,80.0
+792,M,GBM,2.0,NC,METHYLE,NORMAL,NORMAL,,,,NON PERTE,NON PERTE,A,G,exérèse,19.0,905.0,wt,mutant,,0.0,
+793,M,oligo,4.0,,,NORMAL,,AMPLIFIE,,,,NON PERTE,A,G,partielle,44.0,1559.0,NC,mutant,,0.0,
+794,F,GBM,2.0,,,,AMPLIFIE,,,,NON PERTE,,A,G,partielle,50.0,1544.0,wt,,,1.0,80.0
+795,F,oligo,4.0,,,NORMAL,NORMAL,,NORMAL,,PERTE,,A,G,exérèse,52.0,996.0,wt,mutant,4.0,,
+796,F,gliome,1.0,,,,NORMAL,NORMAL,NORMAL,,PERTE,PERTE,A,G,exérèse,67.0,141.0,wt,wt,3.0,0.0,80.0
+797,F,GBM,3.0,,NON METHYLE,,NORMAL,NORMAL,NORMAL,,,,A,G,partielle,52.0,3497.0,wt,wt,4.0,,
+798,F,astrocytome,3.0,NC,,NORMAL,,,,,,,N,bilatéral,biopsie,79.0,1148.0,NC,mutant,,1.0,90.0
+799,F,astrocytome,4.0,NORMAL,,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,bilatéral,exérèse,72.0,798.0,wt,mutant,3.0,,80.0
+800,F,oligo,4.0,NC,NON METHYLE,NORMAL,NORMAL,,,,,,A,bilatéral,partielle,65.0,296.0,NC,,3.0,,80.0
+801,F,GBM,2.0,NC,,,NORMAL,,,,NON PERTE,,A,G,biopsie,48.0,20.0,wt,mutant,,0.0,80.0
+802,M,GBM,4.0,NC,,,,NORMAL,,,,,A,,biopsie,48.0,711.0,wt,,4.0,0.0,
+803,F,GBM,4.0,,,,,,,,,,A,D,biopsie,61.0,3466.0,wt,,3.0,,100.0
+804,F,oligo,3.0,NC,NON METHYLE,AMPLIFIE,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,G,exérèse,59.0,886.0,wt,,,,90.0
+805,M,oligo,4.0,NC,METHYLE,NORMAL,,,NORMAL,,NON PERTE,,A,G,exérèse,57.0,67.0,wt,,4.0,,
+806,M,oligo,2.0,NC,,,,NORMAL,,,,PERTE,A,G,biopsie,68.0,43.0,wt,,,,70.0
+807,M,GBM,4.0,NC,,,,,,,,,N,D,exérèse,77.0,468.0,wt,mutant,4.0,0.0,70.0
+808,M,gliome,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,NORMAL,,PERTE,,N,D,exérèse,49.0,377.0,NC,,,,
+809,F,gliome,4.0,NC,,,NORMAL,NORMAL,,,PERTE,,A,G,partielle,61.0,446.0,wt,mutant,4.0,,
+810,M,astrocytome,4.0,NC,,NORMAL,,NORMAL,,,PERTE,,A,G,partielle,54.0,884.0,NC,wt,3.0,1.0,60.0
+811,F,GBM,3.0,NC,METHYLE,AMPLIFIE,,NORMAL,,,NON PERTE,PERTE,A,non précisé,partielle,74.0,408.0,NC,mutant,4.0,,70.0
+812,F,oligo,4.0,,,AMPLIFIE,,NORMAL,,,,NON PERTE,A,G,biopsie,36.0,207.0,NC,mutant,4.0,,
+813,F,GBM,4.0,ALTERE,,NORMAL,,NORMAL,,,NON PERTE,PERTE,A,D,partielle,29.0,320.0,NC,,3.0,,80.0
+814,M,GBM,3.0,NORMAL,,,NORMAL,NORMAL,,,,PERTE,A,G,exérèse,50.0,177.0,wt,,,,100.0
+815,F,gliome,3.0,NC,METHYLE,AMPLIFIE,NORMAL,,NORMAL,,,,A,G,biopsie,58.0,78.0,mutant,,4.0,,
+816,M,oligo,4.0,NORMAL,,,NORMAL,,,,NON PERTE,,A,G,biopsie,41.0,104.0,wt,,4.0,,90.0
+817,M,oligo,3.0,,,NORMAL,,NORMAL,,,PERTE,,A,D,partielle,61.0,316.0,wt,,,0.0,90.0
+818,M,gangliogliome,3.0,,,,,NORMAL,NORMAL,,PERTE,,A,D,biopsie,35.0,3966.0,NC,mutant,4.0,,
+819,F,gliome,1.0,NC,METHYLE,,NORMAL,NORMAL,DELETE,,NON PERTE,,A,D,biopsie,59.0,1408.0,mutant,mutant,,,70.0
+820,F,oligo,4.0,NC,,NORMAL,,,DELETE,,,,A,non précisé,biopsie,78.0,1780.0,NC,,4.0,,
+821,M,GBM,2.0,NC,,NORMAL,NORMAL,,,,,NON PERTE,A,D,partielle,63.0,1129.0,mutant,wt,,1.0,70.0
+822,M,oligo,4.0,NC,,,NORMAL,,,,PERTE,,A,D,biopsie,62.0,845.0,wt,,3.0,,
+823,F,GBM,4.0,NC,,NORMAL,NORMAL,,NORMAL,,,,N,D,exérèse,49.0,124.0,wt,mutant,4.0,,
+824,F,GBM,2.0,NC,,NORMAL,,,NORMAL,,,,A,,exérèse,34.0,766.0,wt,mutant,,,
+825,F,gliome,4.0,NC,,,,,,,,NON PERTE,A,G,partielle,48.0,390.0,mutant,mutant,4.0,,90.0
+826,M,oligo,3.0,NC,,,NORMAL,,,,,NON PERTE,A,G,partielle,51.0,903.0,wt,,3.0,0.0,
+827,M,astrocytome,4.0,NC,,,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,G,exérèse,74.0,236.0,wt,,3.0,,
+828,M,GBM,4.0,NC,,NORMAL,AMPLIFIE,,,,NON PERTE,,A,D,exérèse,45.0,434.0,NC,,,0.0,80.0
+829,F,oligo,4.0,NC,,NORMAL,AMPLIFIE,NORMAL,DELETE,,PERTE,NON PERTE,A,D,exérèse,54.0,2721.0,NC,wt,3.0,,80.0
+830,M,GBM,4.0,NC,,,,,NORMAL,,NON PERTE,PERTE,A,G,partielle,36.0,659.0,wt,wt,4.0,,80.0
+831,M,gliome,4.0,NC,,,,AMPLIFIE,,Maintien,NON PERTE,,A,D,biopsie,52.0,3711.0,wt,wt,3.0,0.0,
+832,M,GBM,4.0,NC,METHYLE,,,NORMAL,,,,NON PERTE,A,G,partielle,76.0,1243.0,wt,mutant,4.0,,
+833,M,GBM,2.0,NC,NON METHYLE,NORMAL,AMPLIFIE,NORMAL,,,,NON PERTE,A,bilatéral,biopsie,25.0,6495.0,wt,mutant,,0.0,80.0
+834,M,oligo,4.0,,,,,NORMAL,,,NON PERTE,NON PERTE,A,G,exérèse,60.0,46.0,mutant,mutant,3.0,,80.0
+835,M,GBM,3.0,NC,METHYLE,NORMAL,AMPLIFIE,,NORMAL,,,NON PERTE,A,non précisé,biopsie,63.0,1844.0,NC,mutant,,,80.0
+836,F,oligo,4.0,NC,METHYLE,,NORMAL,AMPLIFIE,,,,,A,G,exérèse,46.0,431.0,NC,mutant,,,100.0
+837,M,oligo,4.0,NC,,AMPLIFIE,NORMAL,,,,,PERTE,A,G,biopsie,33.0,2069.0,wt,,,,90.0
+838,F,GBM,4.0,,,,NORMAL,,NORMAL,,,NON PERTE,A,D,exérèse,75.0,1702.0,wt,mutant,3.0,,
+839,M,GBM,4.0,ALTERE,METHYLE,,NORMAL,NORMAL,NORMAL,,,,A,G,partielle,43.0,278.0,wt,mutant,4.0,0.0,90.0
+840,F,gliome,4.0,NORMAL,,,NORMAL,NORMAL,,,,,A,,partielle,70.0,301.0,wt,,4.0,0.0,
+841,M,gliome,4.0,,METHYLE,NORMAL,NORMAL,,NORMAL,,NON PERTE,,A,G,exérèse,25.0,564.0,wt,mutant,4.0,0.0,
+842,F,oligo,3.0,NC,,NORMAL,,,NORMAL,,,NON PERTE,A,D,partielle,63.0,559.0,wt,,,0.0,70.0
+843,M,gliome,3.0,NORMAL,,NORMAL,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,G,biopsie,23.0,2498.0,wt,wt,,,80.0
+844,M,gliome,3.0,,,NORMAL,AMPLIFIE,NORMAL,NORMAL,,,,A,non précisé,biopsie,68.0,925.0,wt,mutant,3.0,,80.0
+845,F,astrocytome,4.0,,,,,,,,NON PERTE,,A,G,partielle,75.0,1505.0,wt,,,,
+846,M,GBM,4.0,NC,NON METHYLE,,,NORMAL,NORMAL,,,PERTE,A,G,exérèse,58.0,74.0,NC,,,,
+847,M,GBM,3.0,ALTERE,,NORMAL,NORMAL,,,,,,A,G,exérèse,48.0,179.0,,mutant,4.0,,
+848,F,GBM,3.0,NORMAL,,AMPLIFIE,NORMAL,NORMAL,,,NON PERTE,PERTE,A,G,biopsie,57.0,953.0,wt,wt,4.0,0.0,
+849,F,GBM,4.0,NC,METHYLE,,NORMAL,,,,PERTE,,A,G,partielle,39.0,894.0,NC,mutant,4.0,0.0,
+850,M,GBM,2.0,NORMAL,NON METHYLE,,,,NORMAL,,,NON PERTE,A,bilatéral,partielle,27.0,229.0,mutant,,4.0,0.0,80.0
+851,M,oligo,4.0,NC,,AMPLIFIE,NORMAL,,,,,PERTE,A,G,partielle,75.0,760.0,wt,mutant,4.0,0.0,
+852,M,GBM,4.0,,METHYLE,,NORMAL,,NORMAL,,NON PERTE,PERTE,A,D,exérèse,69.0,441.0,NC,,3.0,,90.0
+853,M,GBM,4.0,ALTERE,NON METHYLE,NORMAL,,,DELETE,,,NON PERTE,A,G,partielle,56.0,266.0,wt,wt,,0.0,
+854,M,GBM,4.0,NC,,NORMAL,,NORMAL,DELETE,,PERTE,,A,D,biopsie,51.0,440.0,mutant,mutant,,,
+855,M,GBM,3.0,,,,,,,,,PERTE,A,G,biopsie,31.0,69.0,wt,mutant,4.0,,
+856,F,GBM,4.0,NC,NON METHYLE,NORMAL,,,,,PERTE,NON PERTE,A,D,biopsie,28.0,568.0,NC,mutant,,0.0,
+857,M,GBM,3.0,NORMAL,,AMPLIFIE,NORMAL,NORMAL,,,,PERTE,A,D,exérèse,59.0,4201.0,wt,mutant,3.0,0.0,80.0
+858,F,astrocytome,4.0,NC,NON METHYLE,,NORMAL,NORMAL,,,,PERTE,A,D,biopsie,59.0,158.0,NC,wt,3.0,,
+859,M,GBM,3.0,NC,NON METHYLE,NORMAL,,NORMAL,,,PERTE,PERTE,,G,biopsie,28.0,714.0,,wt,,,90.0
+860,M,gliome,2.0,,METHYLE,,,NORMAL,NORMAL,,,,A,G,biopsie,51.0,758.0,NC,mutant,,0.0,
+861,F,GBM,4.0,,METHYLE,,,NORMAL,NORMAL,,,NON PERTE,N,G,exérèse,51.0,8306.0,NC,mutant,4.0,0.0,
+862,M,gliome,3.0,NORMAL,,,NORMAL,NORMAL,,,,PERTE,A,G,exérèse,59.0,285.0,wt,,4.0,0.0,
+863,M,GBM,4.0,NC,,NORMAL,,,,,,,A,D,biopsie,59.0,2807.0,wt,,4.0,1.0,70.0
+864,M,oligo,4.0,NC,NON METHYLE,NORMAL,,NORMAL,NORMAL,Maintien,,,A,D,partielle,38.0,461.0,wt,,4.0,0.0,90.0
+865,M,GBM,4.0,NC,,,NORMAL,,NORMAL,,PERTE,NON PERTE,B,non précisé,biopsie,43.0,473.0,wt,mutant,4.0,,70.0
+866,F,GBM,3.0,NC,,,,NORMAL,NORMAL,,PERTE,NON PERTE,A,G,exérèse,58.0,431.0,NC,,,,70.0
+867,F,GBM,4.0,NC,,,,NORMAL,DELETE,,PERTE,NON PERTE,A,D,,35.0,164.0,mutant,,3.0,0.0,
+868,M,gangliogliome,2.0,NC,,NORMAL,,NORMAL,,,,,A,G,partielle,50.0,313.0,NC,mutant,,0.0,
+869,F,GBM,4.0,NC,,,NORMAL,NORMAL,DELETE,,,,A,D,exérèse,48.0,1144.0,wt,,,0.0,90.0
+870,M,GBM,2.0,NC,,NORMAL,,,DELETE,,NON PERTE,NON PERTE,A,G,exérèse,71.0,502.0,wt,wt,,,
+871,M,GBM,3.0,NC,,,NORMAL,NORMAL,NORMAL,,,GAIN,A,G,biopsie,71.0,774.0,wt,,,,
+872,M,GBM,3.0,NC,METHYLE,NORMAL,NORMAL,,DELETE,,NON PERTE,,A,D,partielle,67.0,1199.0,wt,mutant,3.0,,80.0
+873,F,GBM,2.0,NC,,NORMAL,NORMAL,NORMAL,,,NON PERTE,,A,G,biopsie,52.0,214.0,wt,,3.0,0.0,
+874,F,GBM,3.0,NORMAL,NON METHYLE,,NORMAL,,,,,NON PERTE,A,D,partielle,55.0,70.0,wt,,3.0,,80.0
+875,F,GBM,2.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,NON PERTE,,A,D,partielle,56.0,1942.0,wt,mutant,4.0,,
+876,M,GBM,4.0,NC,,,,,,,NON PERTE,NON PERTE,A,D,biopsie,40.0,387.0,wt,,,,
+877,F,GBM,3.0,NC,,NORMAL,,NORMAL,,,,PERTE,N,bilatéral,exérèse,51.0,144.0,wt,mutant,3.0,,90.0
+878,M,oligo,2.0,NC,,,,,NORMAL,,NON PERTE,,A,D,biopsie,51.0,2451.0,wt,mutant,4.0,,
+879,F,GBM,4.0,NC,NON METHYLE,,NORMAL,,DELETE,,PERTE,NON PERTE,N,G,biopsie,58.0,1597.0,wt,mutant,,,80.0
+880,M,gliome,4.0,NC,,,,,NORMAL,,,,A,D,biopsie,63.0,132.0,wt,mutant,4.0,0.0,
+881,M,GBM,4.0,ALTERE,,NORMAL,NORMAL,NORMAL,DELETE,,PERTE,PERTE,A,D,exérèse,74.0,1023.0,NC,wt,3.0,0.0,90.0
+882,F,oligo,4.0,NC,METHYLE,NORMAL,,NORMAL,,,,,A,D,partielle,46.0,3104.0,mutant,mutant,4.0,,
+883,M,gliome,1.0,NC,,,NORMAL,,DELETE,Maintien,NON PERTE,,A,D,biopsie,42.0,953.0,wt,,,,90.0
+884,F,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,D,partielle,73.0,354.0,NC,,,0.0,
+885,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,NON PERTE,PERTE,A,G,exérèse,45.0,325.0,mutant,,3.0,,
+886,M,gliome,2.0,NC,,,NORMAL,NORMAL,NORMAL,,,,A,G,biopsie,50.0,500.0,NC,wt,,,
+887,M,GBM,4.0,ALTERE,,,,,NORMAL,,,NON PERTE,A,D,biopsie,48.0,616.0,wt,,4.0,,80.0
+888,M,oligo,4.0,NC,,,NORMAL,,,,,NON PERTE,N,D,exérèse,24.0,412.0,NC,,4.0,0.0,
+889,M,astrocytome,3.0,NORMAL,METHYLE,,NORMAL,NORMAL,NORMAL,,,PERTE,A,,exérèse,67.0,741.0,wt,mutant,3.0,0.0,90.0
+890,M,GBM,3.0,NORMAL,METHYLE,AMPLIFIE,,,,,PERTE,NON PERTE,A,D,exérèse,70.0,411.0,wt,mutant,4.0,0.0,80.0
+891,M,GBM,3.0,NC,NON METHYLE,,,NORMAL,,,,PERTE,A,D,partielle,60.0,700.0,NC,,4.0,0.0,90.0
+892,F,astrocytome,4.0,NC,,NORMAL,,NORMAL,,,,,A,G,biopsie,50.0,903.0,wt,,3.0,,90.0
+893,M,oligo,3.0,,,,,NORMAL,,,NON PERTE,PERTE,A,G,exérèse,34.0,434.0,NC,mutant,,,90.0
+894,F,gliome,4.0,NC,,NORMAL,NORMAL,,,,PERTE,,A,G,,28.0,2776.0,wt,mutant,4.0,0.0,90.0
+895,M,GBM,4.0,NC,,,NORMAL,NORMAL,NORMAL,,,,A,G,partielle,50.0,719.0,wt,wt,,1.0,
+896,M,oligo,2.0,ALTERE,,AMPLIFIE,NORMAL,NORMAL,DELETE,,,PERTE,A,D,partielle,33.0,917.0,wt,,4.0,0.0,90.0
+897,M,gliome,3.0,NC,NON METHYLE,,NORMAL,,NORMAL,,PERTE,PERTE,A,G,partielle,43.0,885.0,wt,,3.0,,80.0
+898,M,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,PERTE,,B,G,exérèse,58.0,704.0,mutant,,4.0,0.0,
+899,F,oligo,4.0,NC,,NORMAL,,,,,NON PERTE,,A,D,biopsie,68.0,139.0,NC,wt,4.0,,90.0
+900,M,oligo,2.0,ALTERE,,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,,A,G,biopsie,65.0,935.0,NC,mutant,4.0,0.0,90.0
+901,M,oligo,3.0,,NON METHYLE,,NORMAL,,NORMAL,,,,A,D,aucune,72.0,441.0,NC,mutant,4.0,1.0,90.0
+902,F,GBM,4.0,,,NORMAL,,NORMAL,DELETE,,PERTE,NON PERTE,A,D,aucune,38.0,7251.0,wt,,3.0,0.0,70.0
+903,F,gliome,4.0,NC,METHYLE,,NORMAL,AMPLIFIE,NORMAL,,NON PERTE,,A,D,biopsie,42.0,1623.0,NC,,4.0,,
+904,M,GBM,4.0,NC,,NORMAL,,,,,PERTE,,A,G,exérèse,62.0,286.0,wt,,4.0,,100.0
+905,F,GBM,4.0,NC,,,NORMAL,,,,,,A,bilatéral,exérèse,41.0,1956.0,NC,mutant,,,70.0
+906,F,gliome,2.0,,,AMPLIFIE,,NORMAL,,,,,A,D,exérèse,75.0,225.0,wt,mutant,4.0,0.0,90.0
+907,M,oligo,4.0,ALTERE,,NORMAL,,NORMAL,NORMAL,,NON PERTE,,A,G,biopsie,39.0,191.0,mutant,mutant,4.0,,80.0
+908,M,GBM,2.0,NORMAL,METHYLE,,,,,,NON PERTE,NON PERTE,A,D,biopsie,30.0,1361.0,wt,,4.0,,90.0
+909,M,oligo,3.0,NC,,,NORMAL,,NORMAL,,,,A,non précisé,exérèse,49.0,1271.0,NC,,4.0,0.0,80.0
+910,M,oligo,4.0,NC,,AMPLIFIE,,,,,,,A,G,exérèse,70.0,3191.0,NC,mutant,4.0,0.0,90.0
+911,M,GBM,2.0,NC,,,NORMAL,NORMAL,NORMAL,,,PERTE,A,D,biopsie,35.0,58.0,wt,,3.0,,100.0
+912,F,GBM,2.0,NC,,NORMAL,,,,,,PERTE,A,D,,53.0,3866.0,wt,mutant,,0.0,
+913,M,oligo,4.0,NC,NON METHYLE,,NORMAL,,DELETE,,,PERTE,A,D,biopsie,60.0,279.0,wt,mutant,,0.0,
+914,M,GBM,3.0,,,AMPLIFIE,,,,extinction,,PERTE,A,G,partielle,65.0,5415.0,mutant,mutant,4.0,,70.0
+915,M,oligo,4.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,,A,D,biopsie,80.0,3250.0,wt,mutant,4.0,,
+916,M,gliome,3.0,NORMAL,,NORMAL,,NORMAL,NORMAL,,PERTE,PERTE,A,G,biopsie,52.0,169.0,wt,,4.0,0.0,
+917,M,GBM,2.0,NC,,NORMAL,,NORMAL,,,,NON PERTE,A,D,exérèse,75.0,638.0,wt,mutant,4.0,0.0,
+918,M,GBM,2.0,NC,NON METHYLE,NORMAL,,NORMAL,,,PERTE,NON PERTE,A,G,partielle,37.0,583.0,wt,mutant,4.0,0.0,70.0
+919,M,GBM,4.0,NC,NON METHYLE,,,NORMAL,,,NON PERTE,,N,G,exérèse,46.0,3402.0,NC,mutant,,0.0,70.0
+920,M,GBM,2.0,,NON METHYLE,NORMAL,,,NORMAL,,,NON PERTE,B,D,biopsie,36.0,786.0,NC,mutant,,,80.0
+921,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,,A,D,exérèse,64.0,7138.0,mutant,wt,,1.0,
+922,F,GBM,2.0,NC,,,,NORMAL,DELETE,,NON PERTE,NON PERTE,A,G,biopsie,26.0,434.0,wt,wt,3.0,,
+923,M,GBM,3.0,NORMAL,,AMPLIFIE,,NORMAL,DELETE,,,NON PERTE,A,D,exérèse,49.0,610.0,wt,wt,3.0,,
+924,F,oligo,4.0,NC,,,,NORMAL,DELETE,,,PERTE,A,D,biopsie,60.0,504.0,wt,,,,60.0
+925,F,GBM,3.0,NC,,NORMAL,,NORMAL,NORMAL,,,NON PERTE,A,D,exérèse,57.0,356.0,wt,,,,
+926,M,GBM,4.0,NC,,,,NORMAL,,,NON PERTE,PERTE,A,G,exérèse,47.0,559.0,NC,wt,,0.0,70.0
+927,M,gliome,4.0,NC,,NORMAL,,NORMAL,NORMAL,,NON PERTE,,A,D,biopsie,52.0,1013.0,mutant,mutant,,,
+928,F,GBM,2.0,NC,,AMPLIFIE,AMPLIFIE,,,,NON PERTE,,A,D,exérèse,81.0,1544.0,wt,,4.0,0.0,
+929,M,GBM,3.0,NORMAL,,,NORMAL,NORMAL,,,NON PERTE,,A,G,exérèse,49.0,511.0,wt,mutant,3.0,,
+930,F,gliome,3.0,,,NORMAL,NORMAL,,,,,,A,G,partielle,60.0,277.0,wt,wt,4.0,,100.0
+931,F,GBM,2.0,ALTERE,NON METHYLE,,,NORMAL,NORMAL,,,,A,G,biopsie,84.0,31.0,wt,,,0.0,
+932,F,GBM,3.0,,,NORMAL,NORMAL,,,,PERTE,,A,médian,partielle,42.0,1085.0,wt,wt,4.0,,80.0
+933,F,GBM,3.0,NC,,NORMAL,,NORMAL,,,NON PERTE,PERTE,A,D,exérèse,53.0,504.0,NC,mutant,,,70.0
+934,M,GBM,4.0,NC,,NORMAL,,,NORMAL,,,NON PERTE,B,G,partielle,62.0,221.0,wt,mutant,,0.0,
+935,M,gliome,4.0,NC,,AMPLIFIE,,,DELETE,,NON PERTE,,A,D,partielle,30.0,900.0,wt,mutant,4.0,,
+936,M,gliome,3.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,PERTE,,N,G,partielle,31.0,2372.0,wt,mutant,4.0,0.0,70.0
+937,M,GBM,3.0,NC,METHYLE,NORMAL,NORMAL,,,,,NON PERTE,A,D,exérèse,71.0,336.0,NC,mutant,,0.0,90.0
+938,M,GBM,4.0,NC,METHYLE,NORMAL,,,,,,NON PERTE,N,D,exérèse,58.0,139.0,wt,,4.0,0.0,90.0
+939,M,GBM,4.0,NC,,NORMAL,,,,,NON PERTE,PERTE,A,G,,41.0,852.0,wt,,4.0,,90.0
+940,F,oligo,2.0,NC,,,NORMAL,,NORMAL,,,,A,G,aucune,54.0,675.0,mutant,mutant,4.0,,90.0
+941,F,GBM,4.0,NORMAL,,NORMAL,,,,,PERTE,PERTE,A,G,exérèse,75.0,1319.0,wt,mutant,4.0,0.0,
+942,M,gliome,2.0,NC,,,NORMAL,,DELETE,,,,A,D,exérèse,61.0,1423.0,wt,,4.0,,20.0
+943,F,GBM,2.0,NC,METHYLE,,NORMAL,,NORMAL,,PERTE,PERTE,A,G,exérèse,32.0,168.0,wt,mutant,,0.0,
+944,F,GBM,2.0,NC,METHYLE,NORMAL,,,,,,,N,D,partielle,38.0,758.0,NC,,,0.0,70.0
+945,M,gliome,4.0,NC,,AMPLIFIE,,NORMAL,,,PERTE,,A,D,biopsie,60.0,518.0,wt,,3.0,0.0,90.0
+946,F,GBM,3.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,non précisé,partielle,47.0,1980.0,wt,mutant,4.0,,
+947,M,GBM,4.0,NORMAL,,NORMAL,NORMAL,,,,,PERTE,A,D,biopsie,44.0,96.0,mutant,mutant,,,80.0
+948,M,GBM,4.0,,METHYLE,,NORMAL,NORMAL,,,NON PERTE,,A,G,biopsie,57.0,1899.0,wt,,,1.0,
+949,M,oligo,2.0,NC,,AMPLIFIE,NORMAL,,,,PERTE,PERTE,A,D,partielle,48.0,279.0,wt,mutant,4.0,,70.0
+950,M,gliome,4.0,NC,,AMPLIFIE,,NORMAL,,,,NON PERTE,A,D,partielle,42.0,398.0,wt,,,,
+951,M,GBM,3.0,NC,NON METHYLE,AMPLIFIE,,NORMAL,,,,NON PERTE,A,D,partielle,88.0,536.0,mutant,,,0.0,
+952,M,GBM,4.0,NORMAL,,NORMAL,,NORMAL,,,NON PERTE,,A,G,exérèse,67.0,306.0,NC,,,0.0,
+953,M,oligo,4.0,NC,,,NORMAL,AMPLIFIE,DELETE,,PERTE,NON PERTE,A,D,partielle,29.0,102.0,wt,mutant,,,
+954,M,GBM,2.0,NC,,,NORMAL,,,,,PERTE,A,D,exérèse,64.0,2679.0,wt,,4.0,,
+955,M,oligo,3.0,,METHYLE,AMPLIFIE,NORMAL,,DELETE,,,GAIN,A,G,partielle,63.0,953.0,NC,wt,,0.0,
+956,M,astrocytome,4.0,NORMAL,,NORMAL,,NORMAL,,,,,A,G,partielle,67.0,664.0,wt,mutant,4.0,0.0,
+957,F,astrocytome gémistocytique (=A2),2.0,NC,,NORMAL,,,DELETE,,PERTE,NON PERTE,A,D,biopsie,53.0,2612.0,wt,mutant,,,90.0
+958,M,GBM,4.0,NC,NON METHYLE,,NORMAL,NORMAL,,,,,A,G,biopsie,25.0,379.0,mutant,,4.0,,
+959,M,gliome,2.0,NORMAL,METHYLE,NORMAL,NORMAL,,,,PERTE,,A,G,biopsie,28.0,481.0,wt,mutant,4.0,,80.0
+960,F,oligo,4.0,NORMAL,,,,NORMAL,NORMAL,,,,A,G,exérèse,34.0,1154.0,NC,,4.0,0.0,70.0
+961,M,astrocytome,2.0,NC,,NORMAL,,,,,NON PERTE,NON PERTE,A,D,partielle,43.0,3569.0,wt,mutant,4.0,0.0,80.0
+962,F,oligo,3.0,NC,,AMPLIFIE,,,NORMAL,Maintien,,,A,D,partielle,64.0,100.0,wt,,,,90.0
+963,F,GBM,3.0,NC,METHYLE,NORMAL,,,DELETE,,,NON PERTE,A,G,exérèse,57.0,461.0,wt,mutant,,1.0,80.0
+964,M,GBM,4.0,NORMAL,,,,,,,,,A,D,biopsie,59.0,5000.0,NC,mutant,,,90.0
+965,M,GBM,4.0,,,NORMAL,,NORMAL,,,,PERTE,A,D,biopsie,73.0,118.0,wt,,4.0,0.0,80.0
+966,F,GBM,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,,,NON PERTE,PERTE,A,D,partielle,43.0,439.0,NC,,4.0,,
+967,M,GBM,3.0,NORMAL,,,,NORMAL,NORMAL,,PERTE,,A,D,biopsie,70.0,234.0,wt,mutant,,0.0,60.0
+968,F,GBM,3.0,NC,,,NORMAL,,NORMAL,,NON PERTE,,A,D,biopsie,58.0,2375.0,NC,,,0.0,
+969,M,GBM,4.0,ALTERE,,NORMAL,,,,,,NON PERTE,A,D,biopsie,71.0,509.0,NC,mutant,3.0,0.0,
+970,M,GBM,3.0,,,,,NORMAL,,,PERTE,,A,G,partielle,33.0,1786.0,NC,,,,
+971,F,oligo,4.0,,METHYLE,NORMAL,NORMAL,NORMAL,DELETE,,,,A,G,partielle,77.0,312.0,NC,,,0.0,90.0
+972,M,gliome,4.0,NC,,NORMAL,,,NORMAL,,,PERTE,A,G,partielle,64.0,271.0,NC,mutant,,,
+973,F,GBM,4.0,NC,,,,NORMAL,NORMAL,,PERTE,NON PERTE,A,D,biopsie,38.0,2875.0,,wt,3.0,0.0,
+974,M,gliome,4.0,NC,,,,NORMAL,,,NON PERTE,PERTE,A,D,exérèse,31.0,218.0,wt,,3.0,,
+975,M,oligo,2.0,,NON METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,G,aucune,59.0,433.0,NC,mutant,4.0,0.0,
+976,M,GBM,3.0,NC,NON METHYLE,NORMAL,NORMAL,,DELETE,,,,A,G,biopsie,26.0,4594.0,NC,wt,,0.0,70.0
+977,F,gliome,4.0,NC,METHYLE,,NORMAL,,,Maintien,NON PERTE,,A,G,exérèse,79.0,708.0,NC,wt,4.0,,80.0
+978,M,GBM,3.0,NC,,,,NORMAL,DELETE,,,PERTE,A,D,exérèse,67.0,3050.0,NC,mutant,4.0,0.0,
+979,F,GBM,4.0,NC,,,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,,partielle,71.0,1084.0,wt,mutant,3.0,0.0,
+980,M,GBM,4.0,NC,METHYLE,,NORMAL,,,,,NON PERTE,A,D,exérèse,25.0,358.0,wt,,,,70.0
+981,F,gliome,4.0,NC,,NORMAL,NORMAL,,,,NON PERTE,,A,G,exérèse,47.0,7933.0,wt,,4.0,0.0,70.0
+982,F,oligo,4.0,NC,,,NORMAL,,,,,PERTE,A,D,biopsie,44.0,620.0,NC,mutant,4.0,,100.0
+983,M,astrocytome,2.0,,,AMPLIFIE,,,NORMAL,,NON PERTE,,A,non précisé,exérèse,56.0,128.0,wt,mutant,,0.0,
+984,M,gliome,4.0,NC,,NORMAL,NORMAL,,,,,NON PERTE,A,D,exérèse,67.0,493.0,wt,mutant,,1.0,50.0
+985,M,oligo,4.0,NC,,,NORMAL,,NORMAL,,PERTE,,A,G,,60.0,1223.0,mutant,,,,60.0
+986,M,GBM,4.0,,METHYLE,NORMAL,NORMAL,,DELETE,,NON PERTE,,A,G,partielle,37.0,1899.0,mutant,wt,4.0,,
+987,F,gangliogliome,4.0,NC,,NORMAL,NORMAL,,NORMAL,,,NON PERTE,autre,D,partielle,41.0,53.0,mutant,mutant,3.0,0.0,
+988,F,GBM,4.0,NORMAL,,,NORMAL,,,,PERTE,,A,D,exérèse,52.0,1073.0,wt,mutant,3.0,0.0,
+989,F,oligo,4.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,,N,D,exérèse,58.0,3524.0,wt,mutant,3.0,0.0,80.0
+990,F,oligo,2.0,NC,,,,NORMAL,NORMAL,,,,A,D,partielle,74.0,549.0,wt,,,0.0,
+991,F,GBM,4.0,,,,NORMAL,,,,,,A,bilatéral,partielle,29.0,309.0,wt,mutant,4.0,0.0,
+992,F,astrocytome,2.0,NORMAL,,,,NORMAL,NORMAL,,,,A,D,exérèse,78.0,535.0,wt,mutant,,,90.0
+993,M,astrocytome,4.0,,,,,NORMAL,NORMAL,,PERTE,NON PERTE,A,G,partielle,31.0,1150.0,wt,mutant,,0.0,90.0
+994,M,GBM,4.0,,,,NORMAL,NORMAL,,,PERTE,,A,G,exérèse,46.0,855.0,wt,mutant,4.0,,
+995,M,astrocytome,3.0,NC,,NORMAL,NORMAL,,,,,PERTE,A,D,partielle,69.0,277.0,wt,mutant,4.0,,80.0
+996,F,astrocytome,2.0,,,,,,,,PERTE,,A,G,exérèse,41.0,185.0,NC,mutant,4.0,,
+997,F,GBM,2.0,,NON METHYLE,,,,NORMAL,,,PERTE,A,G,biopsie,70.0,569.0,wt,mutant,3.0,0.0,
+998,M,oligo,4.0,NC,,AMPLIFIE,NORMAL,,NORMAL,,PERTE,,A,G,biopsie,61.0,441.0,NC,mutant,3.0,,80.0
+999,F,GBM,4.0,NC,,NORMAL,,,,,PERTE,,A,G,biopsie,62.0,175.0,wt,mutant,,,80.0
+1000,M,gliome,2.0,NC,METHYLE,,,NORMAL,,,,,A,G,biopsie,43.0,541.0,NC,wt,,,
+1001,M,GBM,2.0,,,AMPLIFIE,,,NORMAL,,PERTE,,A,D,partielle,65.0,109.0,wt,mutant,4.0,0.0,80.0
+1002,M,oligo,4.0,,,NORMAL,NORMAL,NORMAL,,,NON PERTE,NON PERTE,A,G,exérèse,64.0,413.0,mutant,wt,,0.0,80.0
+1003,M,GBM,4.0,NC,METHYLE,,NORMAL,,,,,PERTE,A,D,exérèse,60.0,1154.0,wt,mutant,4.0,0.0,80.0
+1004,M,oligo,2.0,,,NORMAL,NORMAL,NORMAL,,,PERTE,GAIN,A,G,biopsie,47.0,891.0,wt,wt,,0.0,
+1005,F,GBM,4.0,NC,,,,,NORMAL,,PERTE,NON PERTE,A,G,biopsie,48.0,187.0,NC,mutant,4.0,,80.0
+1006,F,GBM,3.0,NC,,AMPLIFIE,,,DELETE,,,,A,G,biopsie,69.0,680.0,wt,mutant,,0.0,80.0
+1007,M,astrocytome,4.0,,METHYLE,NORMAL,NORMAL,NORMAL,,,,,A,D,partielle,63.0,451.0,mutant,wt,4.0,0.0,70.0
+1008,M,GBM,4.0,NC,,,NORMAL,,,,,,A,D,biopsie,69.0,334.0,wt,mutant,,,80.0
+1009,M,oligo,4.0,NORMAL,METHYLE,,,NORMAL,DELETE,,PERTE,PERTE,B,G,aucune,68.0,1482.0,NC,mutant,4.0,0.0,
+1010,F,GBM,4.0,NORMAL,METHYLE,,,NORMAL,,Maintien,PERTE,,A,D,biopsie,74.0,894.0,wt,mutant,4.0,,
+1011,M,oligo,3.0,NC,NON METHYLE,NORMAL,,,,,,,A,G,partielle,62.0,158.0,wt,,3.0,,70.0
+1012,M,gliome,4.0,NC,NON METHYLE,NORMAL,NORMAL,,DELETE,,PERTE,,A,G,aucune,59.0,316.0,wt,mutant,4.0,0.0,
+1013,F,gliome,4.0,,NON METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,D,exérèse,33.0,558.0,wt,wt,3.0,0.0,
+1014,M,GBM,4.0,NORMAL,,,NORMAL,NORMAL,DELETE,,NON PERTE,PERTE,A,non précisé,exérèse,77.0,3495.0,NC,mutant,,,
+1015,F,GBM,3.0,NC,NON METHYLE,,,,,,NON PERTE,PERTE,N,D,biopsie,43.0,909.0,mutant,,,0.0,60.0
+1016,M,gliome,4.0,NC,,,,,NORMAL,,NON PERTE,,A,G,aucune,56.0,197.0,mutant,mutant,,0.0,
+1017,F,GBM,4.0,NORMAL,,,,NORMAL,,,,,A,G,biopsie,55.0,923.0,wt,,,0.0,
+1018,M,GBM,2.0,NC,,NORMAL,,NORMAL,NORMAL,,PERTE,PERTE,A,D,biopsie,71.0,368.0,NC,mutant,,,
+1019,M,astrocytome,4.0,NC,,NORMAL,,NORMAL,,,,,A,G,biopsie,81.0,512.0,wt,mutant,4.0,0.0,
+1020,F,oligo,3.0,NORMAL,,NORMAL,,,DELETE,,,PERTE,A,G,,60.0,464.0,NC,,3.0,,
+1021,M,GBM,4.0,,,NORMAL,,NORMAL,NORMAL,,NON PERTE,PERTE,A,D,partielle,47.0,1417.0,mutant,mutant,4.0,0.0,
+1022,M,GBM,3.0,,,,NORMAL,NORMAL,DELETE,,PERTE,,A,D,biopsie,43.0,202.0,mutant,,3.0,0.0,90.0
+1023,M,oligo,4.0,NC,NON METHYLE,,,,DELETE,extinction,,NON PERTE,A,G,partielle,60.0,423.0,NC,mutant,,0.0,90.0
+1024,M,gliome,4.0,,,NORMAL,,,NORMAL,Maintien,,PERTE,A,G,exérèse,58.0,718.0,NC,mutant,,,60.0
+1025,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,,NON PERTE,A,D,exérèse,56.0,588.0,mutant,mutant,4.0,0.0,
+1026,F,GBM,4.0,,,AMPLIFIE,,NORMAL,NORMAL,,,,A,G,biopsie,64.0,835.0,wt,wt,,0.0,
+1027,F,oligo,2.0,NC,,,NORMAL,,DELETE,,PERTE,PERTE,A,G,exérèse,59.0,502.0,wt,,4.0,,
+1028,M,gliome,4.0,,,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,,A,D,biopsie,66.0,585.0,NC,,,0.0,90.0
+1029,F,gliome,4.0,NORMAL,,NORMAL,,,NORMAL,,NON PERTE,,A,D,biopsie,35.0,467.0,wt,,,0.0,
+1030,M,GBM,3.0,,,,,,,,NON PERTE,NON PERTE,A,D,biopsie,55.0,1905.0,wt,mutant,,,90.0
+1031,F,GBM,3.0,NC,NON METHYLE,,,,,,NON PERTE,,A,G,partielle,61.0,301.0,wt,mutant,,,90.0
+1032,M,oligo,3.0,NC,,,NORMAL,,,,NON PERTE,,A,D,partielle,30.0,201.0,wt,,,,
+1033,F,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,D,biopsie,60.0,605.0,NC,mutant,,,60.0
+1034,F,GBM,4.0,NC,NON METHYLE,NORMAL,NORMAL,,NORMAL,,,,A,D,biopsie,28.0,263.0,wt,,3.0,0.0,
+1035,F,GBM,3.0,NC,METHYLE,AMPLIFIE,,,,,NON PERTE,NON PERTE,A,non précisé,exérèse,48.0,592.0,wt,,4.0,0.0,
+1036,M,GBM,3.0,NC,,NORMAL,,NORMAL,DELETE,,NON PERTE,,A,G,exérèse,62.0,810.0,wt,,,0.0,
+1037,M,astrocytome,3.0,NC,,NORMAL,NORMAL,,,,PERTE,NON PERTE,A,G,partielle,70.0,241.0,wt,,,0.0,90.0
+1038,M,GBM,4.0,NC,,,,,NORMAL,,,PERTE,A,G,biopsie,61.0,271.0,wt,wt,,0.0,
+1039,F,GBM,4.0,NC,,,,NORMAL,NORMAL,,NON PERTE,,A,D,exérèse,49.0,134.0,wt,mutant,,,
+1040,M,gliome,3.0,NC,,NORMAL,NORMAL,,,,PERTE,,A,G,partielle,70.0,198.0,NC,mutant,,,
+1041,M,gliome,4.0,,METHYLE,,NORMAL,,NORMAL,,,NON PERTE,A,G,biopsie,38.0,952.0,wt,,4.0,0.0,
+1042,M,GBM,3.0,NC,METHYLE,,,,NORMAL,,NON PERTE,NON PERTE,A,G,exérèse,39.0,648.0,NC,mutant,,,80.0
+1043,F,oligo,4.0,NC,,,,NORMAL,,,PERTE,PERTE,A,G,exérèse,43.0,800.0,wt,mutant,4.0,0.0,80.0
+1044,F,astrocytome,4.0,NC,,,NORMAL,,NORMAL,extinction,NON PERTE,PERTE,A,G,biopsie,39.0,3097.0,wt,mutant,,,
+1045,F,GBM,4.0,NORMAL,,,,,,,NON PERTE,PERTE,B,D,partielle,79.0,2660.0,wt,mutant,4.0,,80.0
+1046,F,GBM,3.0,NC,,NORMAL,,,,,,,N,D,exérèse,20.0,1281.0,NC,mutant,,0.0,80.0
+1047,M,gliome,3.0,NC,METHYLE,,NORMAL,AMPLIFIE,NORMAL,,,,A,G,exérèse,53.0,192.0,wt,,4.0,,
+1048,M,GBM,4.0,NC,,,,,,,PERTE,,A,G,biopsie,39.0,1470.0,wt,wt,4.0,,
+1049,M,GBM,3.0,,METHYLE,,,,,,PERTE,NON PERTE,A,G,biopsie,56.0,275.0,wt,mutant,4.0,0.0,
+1050,F,GBM,4.0,NC,,AMPLIFIE,NORMAL,AMPLIFIE,,,,NON PERTE,A,G,biopsie,52.0,1693.0,NC,mutant,4.0,0.0,
+1051,M,GBM,3.0,,METHYLE,,,NORMAL,,,NON PERTE,NON PERTE,A,G,exérèse,61.0,131.0,NC,wt,,0.0,
+1052,M,GBM,3.0,NORMAL,,NORMAL,NORMAL,,NORMAL,,,,C,G,partielle,68.0,95.0,wt,mutant,4.0,,
+1053,M,GBM,4.0,NC,METHYLE,,NORMAL,,,,NON PERTE,,A,G,exérèse,37.0,59.0,wt,mutant,3.0,,
+1054,M,oligo,4.0,ALTERE,,,NORMAL,,,,,,N,G,biopsie,38.0,593.0,wt,mutant,3.0,0.0,90.0
+1055,M,GBM,4.0,NC,,,,,,,,,A,G,exérèse,70.0,566.0,mutant,,4.0,,
+1056,M,oligo,3.0,,,NORMAL,NORMAL,,,,NON PERTE,PERTE,A,D,partielle,78.0,688.0,mutant,mutant,,,
+1057,M,astrocytome,4.0,NC,METHYLE,NORMAL,,AMPLIFIE,NORMAL,,PERTE,,A,D,biopsie,73.0,370.0,NC,,4.0,,90.0
+1058,F,GBM,4.0,ALTERE,,NORMAL,NORMAL,NORMAL,DELETE,,PERTE,PERTE,A,D,partielle,62.0,696.0,wt,,,,70.0
+1059,F,GBM,4.0,,METHYLE,,NORMAL,NORMAL,,,,NON PERTE,A,G,biopsie,39.0,626.0,wt,,3.0,,
+1060,M,oligo,4.0,NC,,,NORMAL,NORMAL,,,,PERTE,A,G,partielle,50.0,536.0,mutant,mutant,3.0,0.0,
+1061,F,GBM,4.0,NC,,,,NORMAL,,,PERTE,,A,G,exérèse,36.0,250.0,NC,,4.0,0.0,80.0
+1062,M,GBM,3.0,NC,,NORMAL,NORMAL,,NORMAL,,,,A,G,exérèse,57.0,794.0,NC,mutant,4.0,0.0,60.0
+1063,F,GBM,4.0,,,,,,,,,NON PERTE,A,G,partielle,74.0,560.0,NC,wt,3.0,0.0,
+1064,M,oligo,4.0,NC,,NORMAL,,NORMAL,,,,,A,D,exérèse,61.0,606.0,wt,mutant,4.0,0.0,
+1065,M,GBM,4.0,,,,,NORMAL,,,NON PERTE,NON PERTE,A,D,exérèse,51.0,209.0,NC,,,0.0,
+1066,F,oligo,4.0,NORMAL,,NORMAL,NORMAL,,DELETE,,,,A,D,biopsie,43.0,152.0,NC,,,0.0,
+1067,F,GBM,3.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,PERTE,A,non précisé,partielle,62.0,355.0,mutant,mutant,,,
+1068,M,GBM,4.0,,,,,,NORMAL,,NON PERTE,NON PERTE,A,G,exérèse,31.0,281.0,wt,mutant,4.0,0.0,
+1069,M,GBM,4.0,,NON METHYLE,,,NORMAL,,,PERTE,,A,D,exérèse,73.0,372.0,wt,mutant,,0.0,
+1070,F,gliome,4.0,NC,,,,NORMAL,NORMAL,,,PERTE,A,D,exérèse,76.0,302.0,wt,,,0.0,
+1071,M,astrocytome,4.0,NC,,,NORMAL,,NORMAL,,PERTE,NON PERTE,A,D,biopsie,41.0,202.0,NC,wt,4.0,,90.0
+1072,M,GBM,3.0,,,AMPLIFIE,NORMAL,,,,,,A,G,biopsie,64.0,131.0,NC,mutant,,,80.0
+1073,M,GBM,2.0,NORMAL,,,NORMAL,NORMAL,,,,PERTE,A,D,exérèse,62.0,336.0,wt,mutant,4.0,,90.0
+1074,M,gliome,4.0,NORMAL,,,,NORMAL,,,PERTE,NON PERTE,A,G,partielle,67.0,319.0,wt,mutant,,0.0,
+1075,F,GBM,4.0,,,NORMAL,NORMAL,,,,,,A,non précisé,partielle,78.0,1425.0,NC,mutant,,0.0,80.0
+1076,M,GBM,4.0,NC,,AMPLIFIE,,,NORMAL,,NON PERTE,,A,D,biopsie,61.0,265.0,wt,mutant,,0.0,70.0
+1077,M,GBM,2.0,NC,,NORMAL,,,,,,,A,D,partielle,69.0,104.0,wt,mutant,4.0,,
+1078,M,oligo,4.0,NC,NON METHYLE,,,,,,,,A,D,partielle,24.0,1373.0,wt,mutant,3.0,,80.0
+1079,F,GBM,4.0,NORMAL,,,NORMAL,,NORMAL,Maintien,,PERTE,A,G,exérèse,28.0,553.0,mutant,mutant,4.0,0.0,
+1080,M,oligo,2.0,NC,,NORMAL,,,,,,,A,D,exérèse,60.0,600.0,NC,wt,4.0,,
+1081,M,GBM,3.0,NC,,,,,NORMAL,,PERTE,,A,G,biopsie,77.0,657.0,mutant,mutant,3.0,0.0,80.0
+1082,M,GBM,4.0,NC,,NORMAL,AMPLIFIE,,,,,,A,D,exérèse,70.0,1529.0,mutant,mutant,4.0,0.0,80.0
+1083,M,GBM,4.0,NC,METHYLE,NORMAL,,,DELETE,,PERTE,,A,D,exérèse,34.0,550.0,wt,mutant,4.0,0.0,80.0
+1084,F,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,,,NON PERTE,NON PERTE,A,G,partielle,49.0,563.0,wt,mutant,4.0,,80.0
+1085,M,GBM,2.0,NC,,NORMAL,,NORMAL,NORMAL,,,NON PERTE,A,G,aucune,48.0,504.0,NC,mutant,,0.0,50.0
+1086,F,GBM,4.0,NC,,NORMAL,,,,,NON PERTE,,A,non précisé,exérèse,64.0,527.0,wt,mutant,,0.0,
+1087,M,GBM,4.0,NC,,NORMAL,NORMAL,,,,PERTE,,A,D,exérèse,54.0,469.0,wt,,,,90.0
+1088,M,gliome,3.0,NC,NON METHYLE,,NORMAL,,DELETE,,,,A,D,biopsie,56.0,975.0,wt,,,0.0,90.0
+1089,M,GBM,4.0,,METHYLE,NORMAL,NORMAL,NORMAL,,,,,A,G,exérèse,67.0,329.0,wt,,,,70.0
+1090,M,oligo,3.0,NORMAL,,NORMAL,,NORMAL,,,PERTE,PERTE,A,G,partielle,83.0,2612.0,wt,wt,4.0,,
+1091,M,oligo,4.0,,,NORMAL,NORMAL,,NORMAL,,,NON PERTE,B,G,biopsie,41.0,459.0,wt,mutant,4.0,0.0,
+1092,F,GBM,1.0,NC,,NORMAL,,,NORMAL,,NON PERTE,,A,D,biopsie,24.0,1018.0,wt,wt,4.0,0.0,70.0
+1093,M,gliome,4.0,NC,METHYLE,,NORMAL,,,,,,A,G,exérèse,58.0,871.0,wt,,,,100.0
+1094,M,GBM,3.0,NC,,,,,,,PERTE,,A,G,partielle,74.0,287.0,wt,,,0.0,
+1095,M,GBM,4.0,,,,NORMAL,NORMAL,DELETE,,PERTE,,A,bilatéral,partielle,61.0,1051.0,wt,,,,
+1096,M,oligo,4.0,,,,NORMAL,,NORMAL,,,,A,G,biopsie,42.0,218.0,wt,wt,,0.0,90.0
+1097,M,gliome,4.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,A,bilatéral,partielle,62.0,1684.0,wt,,,0.0,
+1098,F,GBM,4.0,NC,,AMPLIFIE,,NORMAL,,,NON PERTE,,A,G,partielle,56.0,105.0,wt,,4.0,0.0,
+1099,F,oligo,4.0,NC,,AMPLIFIE,,NORMAL,DELETE,,,,A,D,partielle,79.0,1268.0,wt,wt,4.0,,
+1100,F,astrocytome,3.0,NC,,,NORMAL,NORMAL,,,,,A,D,partielle,69.0,647.0,wt,,,0.0,
+1101,M,astrocytome gémistocytique (=A2),2.0,,,AMPLIFIE,NORMAL,NORMAL,,,,NON PERTE,A,G,biopsie,68.0,1034.0,mutant,mutant,4.0,0.0,90.0
+1102,M,oligo,4.0,NC,,,,,,,NON PERTE,,A,G,biopsie,58.0,62.0,NC,,,0.0,
+1103,M,GBM,2.0,NC,,NORMAL,,,NORMAL,,NON PERTE,PERTE,A,G,partielle,68.0,781.0,wt,wt,4.0,0.0,
+1104,M,GBM,3.0,ALTERE,,,,,,,PERTE,PERTE,A,bilatéral,exérèse,53.0,377.0,wt,wt,4.0,0.0,
+1105,F,GBM,2.0,NC,NON METHYLE,NORMAL,,NORMAL,,,,PERTE,A,D,,39.0,373.0,wt,mutant,,0.0,70.0
+1106,F,GBM,2.0,,,,NORMAL,,,,,NON PERTE,A,G,partielle,22.0,4882.0,wt,,4.0,,
+1107,M,astrocytome,4.0,NORMAL,,NORMAL,,,,,PERTE,,A,G,partielle,27.0,128.0,wt,wt,4.0,0.0,
+1108,M,GBM,3.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,NON PERTE,A,D,biopsie,70.0,544.0,wt,,4.0,,
+1109,M,astrocytome,2.0,NORMAL,NON METHYLE,,NORMAL,NORMAL,,,,PERTE,N,G,partielle,53.0,87.0,wt,mutant,,,90.0
+1110,M,GBM,3.0,ALTERE,,,,NORMAL,NORMAL,,,NON PERTE,A,G,biopsie,62.0,64.0,mutant,,,0.0,60.0
+1111,F,GBM,4.0,NC,,NORMAL,,NORMAL,,,NON PERTE,NON PERTE,A,G,partielle,46.0,179.0,wt,mutant,4.0,0.0,
+1112,M,GBM,3.0,NC,,NORMAL,,NORMAL,,,NON PERTE,,A,D,exérèse,68.0,300.0,mutant,,4.0,,
+1113,F,GBM,4.0,NC,,AMPLIFIE,,,NORMAL,,PERTE,,A,D,biopsie,90.0,712.0,NC,mutant,4.0,0.0,90.0
+1114,M,oligo,4.0,,,,,,NORMAL,,,,A,non précisé,biopsie,41.0,454.0,wt,mutant,4.0,0.0,90.0
+1115,M,oligo,4.0,NC,,NORMAL,,NORMAL,,,NON PERTE,NON PERTE,A,non précisé,partielle,34.0,218.0,wt,mutant,,,
+1116,M,GBM,2.0,,,,NORMAL,,,,NON PERTE,NON PERTE,A,D,biopsie,33.0,1124.0,wt,,,,
+1117,F,oligo,4.0,,,,NORMAL,,NORMAL,,,PERTE,B,G,biopsie,23.0,2058.0,wt,,4.0,0.0,90.0
+1118,M,GBM,4.0,NC,NON METHYLE,AMPLIFIE,NORMAL,,NORMAL,,NON PERTE,PERTE,A,D,exérèse,64.0,400.0,wt,mutant,4.0,,100.0
+1119,F,astrocytome,2.0,NC,,NORMAL,,,NORMAL,,PERTE,,A,G,exérèse,49.0,413.0,wt,mutant,4.0,,
+1120,F,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,NON PERTE,PERTE,A,non précisé,exérèse,29.0,795.0,wt,mutant,,,90.0
+1121,M,gliome,4.0,NC,,NORMAL,,NORMAL,,,PERTE,NON PERTE,A,G,biopsie,51.0,795.0,wt,,,0.0,
+1122,F,GBM,3.0,NC,METHYLE,,,,,,PERTE,,A,G,exérèse,66.0,2255.0,NC,mutant,,,
+1123,F,gliome,1.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,,,NON PERTE,,A,D,partielle,33.0,498.0,wt,,3.0,,
+1124,F,GBM,3.0,NORMAL,NON METHYLE,NORMAL,NORMAL,,,,,,A,G,exérèse,49.0,429.0,mutant,,4.0,,
+1125,F,oligo,2.0,NC,,,,NORMAL,,,NON PERTE,PERTE,A,D,exérèse,71.0,349.0,wt,wt,,,
+1126,F,GBM,4.0,NC,,AMPLIFIE,,NORMAL,,,,,A,G,partielle,53.0,8795.0,wt,,4.0,,90.0
+1127,M,gliome,4.0,NC,METHYLE,,,NORMAL,,,NON PERTE,,A,non précisé,biopsie,38.0,415.0,NC,mutant,4.0,,
+1128,M,oligo,4.0,NC,METHYLE,,NORMAL,,NORMAL,,NON PERTE,,A,D,partielle,38.0,541.0,NC,,4.0,,
+1129,M,GBM,3.0,,,AMPLIFIE,AMPLIFIE,,,,,PERTE,A,D,biopsie,67.0,689.0,wt,,4.0,,
+1130,F,GBM,4.0,NC,,NORMAL,,AMPLIFIE,DELETE,,,,B,G,partielle,71.0,376.0,wt,,,0.0,
+1131,M,oligo,4.0,NC,,NORMAL,,NORMAL,,,,PERTE,A,G,exérèse,72.0,158.0,wt,wt,4.0,,80.0
+1132,M,GBM,3.0,NC,,,,NORMAL,,,,,A,D,biopsie,53.0,1232.0,wt,mutant,4.0,0.0,80.0
+1133,M,GBM,4.0,NC,METHYLE,,,NORMAL,,,,,A,D,partielle,56.0,2455.0,wt,wt,4.0,0.0,
+1134,F,oligo,3.0,NC,,NORMAL,,AMPLIFIE,,,PERTE,,A,D,exérèse,66.0,28.0,NC,,,,80.0
+1135,M,oligo,4.0,NC,METHYLE,NORMAL,,NORMAL,,,,NON PERTE,A,G,partielle,58.0,131.0,wt,,4.0,0.0,70.0
+1136,F,GBM,4.0,NORMAL,NON METHYLE,NORMAL,,NORMAL,DELETE,,,,A,D,,59.0,153.0,wt,wt,,,
+1137,M,GBM,4.0,ALTERE,,AMPLIFIE,NORMAL,NORMAL,,,,,A,D,exérèse,25.0,170.0,wt,mutant,3.0,,
+1138,M,gliome,2.0,NC,,NORMAL,NORMAL,NORMAL,,,,NON PERTE,A,D,partielle,44.0,620.0,NC,,4.0,0.0,
+1139,F,oligo,3.0,NC,,,,,DELETE,,,,A,G,biopsie,44.0,1285.0,wt,mutant,4.0,0.0,60.0
+1140,M,oligo,4.0,NC,,,,,,,,PERTE,A,médian,exérèse,65.0,642.0,wt,wt,,,
+1141,F,GBM,4.0,NC,,AMPLIFIE,,,,,,,A,non précisé,biopsie,59.0,509.0,wt,,4.0,,
+1142,F,GBM,1.0,NC,,,NORMAL,NORMAL,,,NON PERTE,PERTE,A,G,biopsie,70.0,465.0,wt,mutant,,0.0,
+1143,M,gliome,4.0,,,NORMAL,NORMAL,,,,,NON PERTE,A,D,biopsie,80.0,533.0,wt,wt,3.0,0.0,
+1144,F,GBM,2.0,NC,,,NORMAL,NORMAL,DELETE,,,,A,G,biopsie,48.0,338.0,wt,,,,70.0
+1145,M,gliome,4.0,,,NORMAL,NORMAL,,,,PERTE,,A,D,partielle,39.0,4152.0,NC,,4.0,0.0,90.0
+1146,M,GBM,4.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,PERTE,A,non précisé,exérèse,60.0,405.0,NC,wt,4.0,0.0,
+1147,M,GBM,4.0,NC,,,,,,,,,A,D,partielle,61.0,325.0,NC,,,0.0,
+1148,M,oligo,3.0,NC,,NORMAL,,NORMAL,,,NON PERTE,PERTE,A,D,partielle,53.0,608.0,mutant,mutant,4.0,,70.0
+1149,F,GBM,4.0,NORMAL,METHYLE,,,,NORMAL,,NON PERTE,,N,G,partielle,50.0,6253.0,wt,,,,70.0
+1150,M,astrocytome,4.0,NC,METHYLE,AMPLIFIE,NORMAL,,,,,PERTE,A,G,biopsie,45.0,1876.0,wt,mutant,3.0,,70.0
+1151,M,oligo,2.0,,,,,NORMAL,,,,,A,G,exérèse,42.0,1746.0,NC,mutant,,,
+1152,F,GBM,4.0,NC,NON METHYLE,NORMAL,NORMAL,,,,,,A,D,partielle,32.0,766.0,wt,mutant,4.0,0.0,
+1153,M,oligo,3.0,NC,,,,NORMAL,DELETE,,NON PERTE,,A,D,partielle,86.0,2732.0,wt,mutant,,,
+1154,M,oligo,2.0,NC,,NORMAL,,,NORMAL,,PERTE,,A,D,exérèse,58.0,579.0,wt,,4.0,1.0,80.0
+1155,F,GBM,4.0,NC,,NORMAL,,,NORMAL,,,,A,D,aucune,57.0,2975.0,mutant,,4.0,,
+1156,F,gliome,4.0,,,,,,NORMAL,,,,A,G,biopsie,61.0,1564.0,mutant,mutant,,0.0,100.0
+1157,M,oligo,4.0,ALTERE,,,NORMAL,NORMAL,DELETE,,,NON PERTE,A,D,aucune,54.0,587.0,wt,wt,4.0,0.0,
+1158,M,GBM,4.0,NC,,,NORMAL,,NORMAL,,NON PERTE,,A,D,exérèse,74.0,601.0,mutant,,,,
+1159,M,GBM,3.0,NC,METHYLE,,,NORMAL,NORMAL,,PERTE,PERTE,A,G,partielle,58.0,371.0,wt,,4.0,0.0,100.0
+1160,F,oligo,2.0,,METHYLE,,,NORMAL,NORMAL,,NON PERTE,PERTE,A,G,biopsie,55.0,1985.0,wt,wt,,0.0,90.0
+1161,M,GBM,4.0,NC,,,NORMAL,NORMAL,NORMAL,,,,A,bilatéral,exérèse,66.0,4614.0,wt,wt,4.0,,
+1162,M,astrocytome,3.0,,NON METHYLE,,NORMAL,NORMAL,,,,NON PERTE,A,G,biopsie,34.0,264.0,wt,,3.0,,90.0
+1163,M,GBM,3.0,NC,,,NORMAL,,,,,,A,G,biopsie,77.0,339.0,NC,,,,80.0
+1164,M,GBM,4.0,NC,,NORMAL,,NORMAL,,,,PERTE,A,D,exérèse,44.0,5178.0,wt,,4.0,,
+1165,F,GBM,3.0,NC,,,NORMAL,,,,,PERTE,A,D,biopsie,34.0,3431.0,mutant,,4.0,0.0,90.0
+1166,M,GBM,3.0,NC,,,,,,Maintien,PERTE,,A,D,biopsie,53.0,3179.0,wt,,,,90.0
+1167,F,GBM,2.0,NC,,,,,NORMAL,,NON PERTE,,A,G,partielle,42.0,5521.0,wt,mutant,4.0,,
+1168,M,GBM,4.0,NC,METHYLE,,NORMAL,,NORMAL,,NON PERTE,NON PERTE,A,G,exérèse,71.0,243.0,wt,,,0.0,
+1169,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,,,A,G,exérèse,58.0,448.0,wt,mutant,,,
+1170,F,GBM,2.0,NC,,AMPLIFIE,,,,,NON PERTE,,A,G,biopsie,38.0,295.0,wt,,4.0,,80.0
+1171,F,GBM,4.0,NC,,,,NORMAL,NORMAL,,,PERTE,N,bilatéral,biopsie,54.0,2628.0,wt,mutant,,,
+1172,F,GBM,4.0,NC,,AMPLIFIE,,NORMAL,,,NON PERTE,,A,G,exérèse,62.0,383.0,wt,,,,90.0
+1173,M,GBM,3.0,NC,,NORMAL,,,NORMAL,,,NON PERTE,A,D,exérèse,57.0,6325.0,wt,,4.0,0.0,80.0
+1174,F,GBM,3.0,,NON METHYLE,,NORMAL,NORMAL,DELETE,,NON PERTE,PERTE,A,D,biopsie,59.0,1020.0,mutant,wt,4.0,,
+1175,F,GBM,3.0,NC,,NORMAL,AMPLIFIE,NORMAL,NORMAL,,PERTE,NON PERTE,A,G,biopsie,31.0,86.0,NC,mutant,3.0,0.0,
+1176,M,GBM,4.0,,NON METHYLE,NORMAL,NORMAL,,NORMAL,,,NON PERTE,A,G,partielle,66.0,282.0,NC,,,0.0,80.0
+1177,M,GBM,4.0,NC,NON METHYLE,AMPLIFIE,NORMAL,,DELETE,,,NON PERTE,A,D,partielle,49.0,7983.0,NC,mutant,4.0,0.0,
+1178,M,GBM,4.0,ALTERE,,NORMAL,NORMAL,,,,PERTE,,A,D,,29.0,648.0,wt,,,0.0,90.0
+1179,F,astrocytome,4.0,NC,,,AMPLIFIE,,NORMAL,,NON PERTE,PERTE,A,D,partielle,63.0,85.0,wt,mutant,4.0,,70.0
+1180,F,astrocytome,3.0,NORMAL,,NORMAL,NORMAL,,,,NON PERTE,,A,D,biopsie,45.0,9666.0,wt,mutant,3.0,,80.0
+1181,F,GBM,4.0,NC,,,NORMAL,,,,,,A,G,biopsie,41.0,2073.0,NC,,4.0,0.0,
+1182,F,oligo,4.0,NORMAL,NON METHYLE,NORMAL,NORMAL,,DELETE,,,,A,D,biopsie,76.0,502.0,wt,wt,4.0,,80.0
+1183,M,GBM,4.0,,NON METHYLE,,NORMAL,NORMAL,NORMAL,,,PERTE,N,D,exérèse,59.0,381.0,NC,mutant,4.0,,
+1184,M,GBM,4.0,NC,,,,NORMAL,,,NON PERTE,NON PERTE,A,D,exérèse,27.0,1116.0,wt,mutant,4.0,0.0,80.0
+1185,M,oligo,4.0,NC,NON METHYLE,NORMAL,NORMAL,,,,,,A,G,exérèse,54.0,465.0,wt,,,,
+1186,F,oligo,4.0,NC,,,NORMAL,,,,PERTE,NON PERTE,A,G,partielle,54.0,1055.0,wt,mutant,4.0,0.0,90.0
+1187,M,GBM,4.0,ALTERE,,AMPLIFIE,,NORMAL,,,,,A,D,exérèse,59.0,62.0,mutant,,4.0,,30.0
+1188,F,GBM,4.0,NORMAL,NON METHYLE,,,NORMAL,,,,,A,G,partielle,59.0,7220.0,wt,mutant,3.0,,
+1189,F,GBM,3.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,PERTE,A,D,partielle,32.0,678.0,wt,mutant,4.0,,
+1190,M,gliome,2.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,,,NON PERTE,PERTE,A,G,partielle,26.0,581.0,mutant,,,0.0,
+1191,M,oligo,3.0,NORMAL,NON METHYLE,,NORMAL,NORMAL,,,PERTE,,A,G,partielle,17.0,1267.0,wt,,,0.0,
+1192,M,GBM,4.0,,,,AMPLIFIE,,,,PERTE,NON PERTE,A,D,exérèse,48.0,610.0,wt,mutant,,0.0,
+1193,F,oligo,4.0,NC,,,NORMAL,NORMAL,,,,PERTE,A,D,biopsie,51.0,596.0,NC,,,0.0,70.0
+1194,M,oligo,4.0,NC,,,,,NORMAL,,,,A,G,biopsie,49.0,401.0,wt,,,,
+1195,M,GBM,4.0,NC,,AMPLIFIE,,NORMAL,,Maintien,,,A,G,exérèse,54.0,524.0,mutant,,3.0,0.0,90.0
+1196,M,oligo,4.0,NC,METHYLE,,NORMAL,AMPLIFIE,DELETE,,PERTE,NON PERTE,A,D,biopsie,31.0,361.0,wt,mutant,,0.0,
+1197,M,GBM,3.0,NC,METHYLE,,NORMAL,AMPLIFIE,,,,,A,G,exérèse,64.0,2261.0,wt,,,,90.0
+1198,M,GBM,3.0,NC,,,,,,,NON PERTE,,A,G,biopsie,63.0,1008.0,wt,mutant,4.0,,90.0
+1199,M,GBM,4.0,NC,,NORMAL,,NORMAL,,,NON PERTE,PERTE,A,G,partielle,79.0,2308.0,NC,wt,3.0,1.0,70.0
+1200,M,gliome,4.0,NC,,AMPLIFIE,,,,,NON PERTE,NON PERTE,A,D,biopsie,75.0,135.0,wt,mutant,,,
+1201,M,astrocytome,4.0,NC,,,,AMPLIFIE,,,,,A,bilatéral,partielle,54.0,282.0,wt,mutant,4.0,,
+1202,M,GBM,4.0,NC,METHYLE,AMPLIFIE,,NORMAL,,,PERTE,NON PERTE,A,G,partielle,37.0,226.0,wt,wt,4.0,,70.0
+1203,M,gangliogliome,4.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,NON PERTE,,A,G,biopsie,15.0,982.0,wt,wt,4.0,0.0,
+1204,F,GBM,4.0,NC,,NORMAL,NORMAL,,,,NON PERTE,,A,D,biopsie,65.0,120.0,wt,wt,4.0,0.0,
+1205,F,gliome,4.0,NORMAL,,,,NORMAL,NORMAL,,,,A,D,partielle,55.0,700.0,NC,,,,80.0
+1206,F,astrocytome gémistocytique (=A2),4.0,,NON METHYLE,NORMAL,,AMPLIFIE,DELETE,Maintien,,NON PERTE,A,G,biopsie,72.0,621.0,wt,mutant,4.0,,90.0
+1207,M,GBM,4.0,NC,,,NORMAL,,NORMAL,,NON PERTE,NON PERTE,A,D,exérèse,37.0,336.0,wt,mutant,4.0,0.0,
+1208,M,oligo,4.0,NORMAL,METHYLE,AMPLIFIE,,,DELETE,,,,A,G,exérèse,71.0,217.0,wt,mutant,,,
+1209,F,GBM,2.0,,METHYLE,AMPLIFIE,NORMAL,,,,PERTE,PERTE,A,D,exérèse,54.0,3645.0,mutant,,3.0,1.0,90.0
+1210,M,GBM,3.0,NC,,AMPLIFIE,,,NORMAL,,NON PERTE,GAIN,A,D,exérèse,63.0,432.0,wt,mutant,4.0,,
+1211,F,GBM,4.0,NC,METHYLE,,NORMAL,,DELETE,,,,A,G,biopsie,48.0,3360.0,wt,,,0.0,
+1212,F,oligo,4.0,NC,,NORMAL,,NORMAL,,,NON PERTE,,A,D,exérèse,38.0,1004.0,mutant,,4.0,0.0,
+1213,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,,NORMAL,,,,A,G,exérèse,74.0,8017.0,wt,mutant,3.0,,
+1214,M,GBM,4.0,NC,NON METHYLE,,,,DELETE,,,,A,G,exérèse,56.0,632.0,mutant,,,0.0,90.0
+1215,M,gliome,4.0,NC,,,NORMAL,NORMAL,NORMAL,,,,A,G,biopsie,46.0,9143.0,mutant,,,,80.0
+1216,F,astrocytome,4.0,,,AMPLIFIE,NORMAL,NORMAL,NORMAL,,PERTE,NON PERTE,A,D,partielle,53.0,855.0,wt,mutant,4.0,,80.0
+1217,F,GBM,2.0,NORMAL,,,,NORMAL,DELETE,,NON PERTE,,A,G,exérèse,81.0,2748.0,wt,mutant,,,100.0
+1218,M,GBM,4.0,NC,,,AMPLIFIE,NORMAL,NORMAL,,,PERTE,B,G,partielle,54.0,490.0,mutant,wt,4.0,,90.0
+1219,M,GBM,4.0,,METHYLE,NORMAL,,,NORMAL,,,,A,D,biopsie,51.0,210.0,wt,,,1.0,60.0
+1220,F,GBM,4.0,NORMAL,,AMPLIFIE,NORMAL,AMPLIFIE,,,,,A,G,partielle,68.0,1156.0,mutant,,,0.0,90.0
+1221,M,oligo,4.0,ALTERE,METHYLE,,,,,,,NON PERTE,A,G,biopsie,68.0,120.0,mutant,,,0.0,
+1222,M,GBM,2.0,NC,,,NORMAL,AMPLIFIE,DELETE,,,,A,D,biopsie,32.0,460.0,wt,,4.0,0.0,
+1223,M,GBM,4.0,NC,,NORMAL,,,,,PERTE,NON PERTE,A,D,,69.0,181.0,mutant,,,,
+1224,M,GBM,4.0,,METHYLE,NORMAL,,AMPLIFIE,NORMAL,,,PERTE,A,bilatéral,biopsie,44.0,715.0,mutant,mutant,4.0,,
+1225,M,GBM,4.0,ALTERE,,,NORMAL,,NORMAL,,PERTE,,A,G,partielle,70.0,320.0,NC,mutant,3.0,,
+1226,F,oligo,4.0,NC,NON METHYLE,NORMAL,NORMAL,,NORMAL,,NON PERTE,NON PERTE,A,D,biopsie,55.0,3236.0,wt,,,,
+1227,M,astrocytome,4.0,,,NORMAL,,NORMAL,NORMAL,,,,A,D,aucune,25.0,568.0,wt,,4.0,1.0,
+1228,F,GBM,2.0,,,,,NORMAL,DELETE,,NON PERTE,,N,G,biopsie,53.0,1310.0,NC,wt,,,90.0
+1229,F,GBM,2.0,,,,,NORMAL,,,,,A,bilatéral,partielle,57.0,260.0,wt,,,0.0,60.0
+1230,M,oligo,4.0,,,NORMAL,,NORMAL,,,,PERTE,A,D,exérèse,50.0,23.0,NC,,,0.0,60.0
+1231,F,GBM,3.0,NC,,,NORMAL,,,,,NON PERTE,A,G,aucune,52.0,2412.0,wt,mutant,,,
+1232,F,gliome,3.0,NC,,,,NORMAL,,,,PERTE,A,D,partielle,74.0,560.0,wt,,,,80.0
+1233,M,oligo,3.0,,NON METHYLE,,,,,,,NON PERTE,A,non précisé,biopsie,58.0,174.0,wt,wt,,,
+1234,M,oligo,1.0,,,,,NORMAL,,,PERTE,,A,D,exérèse,71.0,5784.0,wt,,,,90.0
+1235,F,gliome,3.0,NC,,NORMAL,NORMAL,,,,,,A,G,,61.0,3506.0,wt,,,0.0,90.0
+1236,M,GBM,4.0,,,,NORMAL,,,,PERTE,,A,D,exérèse,59.0,268.0,mutant,,4.0,,80.0
+1237,F,GBM,4.0,NC,,,,,,,PERTE,PERTE,A,D,partielle,49.0,1423.0,wt,mutant,4.0,,
+1238,M,GBM,4.0,NC,,,NORMAL,,NORMAL,,NON PERTE,,A,G,partielle,68.0,1278.0,wt,,,0.0,
+1239,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,,,A,G,exérèse,60.0,975.0,wt,mutant,,,80.0
+1240,F,GBM,2.0,NORMAL,,,,NORMAL,NORMAL,,,PERTE,A,bilatéral,biopsie,59.0,236.0,NC,,4.0,0.0,60.0
+1241,M,gliome,2.0,NC,,,NORMAL,,,,,PERTE,A,G,biopsie,54.0,273.0,wt,,4.0,,
+1242,M,GBM,2.0,ALTERE,METHYLE,NORMAL,NORMAL,,,,,,A,bilatéral,exérèse,67.0,440.0,wt,,4.0,0.0,80.0
+1243,M,gliome,4.0,NC,METHYLE,,NORMAL,NORMAL,,,,,A,G,biopsie,66.0,181.0,wt,mutant,,0.0,
+1244,M,GBM,3.0,NORMAL,,NORMAL,,NORMAL,NORMAL,,PERTE,,A,D,exérèse,45.0,322.0,wt,mutant,4.0,0.0,
+1245,M,GBM,3.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,PERTE,A,G,exérèse,63.0,354.0,wt,mutant,3.0,,
+1246,M,GBM,3.0,NC,,NORMAL,,,NORMAL,,NON PERTE,PERTE,A,G,biopsie,47.0,951.0,wt,,4.0,0.0,
+1247,M,astrocytome pilocytique,2.0,NC,NON METHYLE,NORMAL,,AMPLIFIE,DELETE,,,,A,G,exérèse,47.0,94.0,wt,,3.0,0.0,
+1248,F,gliome,4.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,,,NON PERTE,,A,D,partielle,68.0,4.0,mutant,,3.0,0.0,80.0
+1249,M,GBM,4.0,NC,,NORMAL,NORMAL,,,Maintien,,PERTE,A,G,biopsie,55.0,633.0,NC,mutant,4.0,,80.0
+1250,M,GBM,4.0,NC,NON METHYLE,NORMAL,NORMAL,,DELETE,,NON PERTE,GAIN,A,G,biopsie,63.0,576.0,wt,,4.0,,
+1251,F,GBM,4.0,NC,NON METHYLE,,,NORMAL,NORMAL,,PERTE,,A,D,exérèse,77.0,3987.0,wt,mutant,4.0,0.0,
+1252,F,GBM,4.0,,NON METHYLE,,AMPLIFIE,NORMAL,DELETE,,,NON PERTE,A,D,biopsie,51.0,506.0,wt,mutant,4.0,0.0,70.0
+1253,F,GBM,3.0,NC,,NORMAL,NORMAL,,,,PERTE,,A,G,biopsie,25.0,1011.0,wt,,3.0,,
+1254,F,gliome,4.0,NC,NON METHYLE,AMPLIFIE,,NORMAL,NORMAL,,PERTE,PERTE,A,G,biopsie,45.0,220.0,wt,,3.0,,
+1255,M,GBM,4.0,NC,,NORMAL,,NORMAL,NORMAL,,,,A,G,partielle,29.0,286.0,NC,mutant,4.0,,
+1256,F,GBM,4.0,,NON METHYLE,AMPLIFIE,,,,,PERTE,NON PERTE,A,D,biopsie,31.0,1426.0,wt,,3.0,0.0,
+1257,M,GBM,3.0,NC,,,,,,,NON PERTE,,N,D,exérèse,64.0,5312.0,wt,mutant,,,100.0
+1258,M,astrocytome,4.0,,,,NORMAL,,NORMAL,,PERTE,,A,G,partielle,65.0,1964.0,mutant,wt,4.0,,60.0
+1259,M,oligo,2.0,,,,,,NORMAL,,,,A,D,biopsie,26.0,360.0,NC,mutant,3.0,0.0,
+1260,F,oligo,4.0,NC,NON METHYLE,,,,DELETE,,,,A,G,exérèse,42.0,162.0,wt,wt,4.0,,
+1261,M,oligo,4.0,NC,,NORMAL,,NORMAL,,,PERTE,PERTE,A,D,partielle,56.0,533.0,wt,wt,,0.0,
+1262,M,GBM,3.0,,,,NORMAL,,NORMAL,,NON PERTE,PERTE,A,G,exérèse,56.0,398.0,NC,mutant,3.0,,100.0
+1263,M,gliome,3.0,,METHYLE,,NORMAL,NORMAL,,,,,A,D,exérèse,59.0,284.0,wt,,,,
+1264,M,oligo,4.0,NC,NON METHYLE,,NORMAL,,NORMAL,,PERTE,,A,D,biopsie,66.0,177.0,NC,mutant,3.0,0.0,80.0
+1265,M,astrocytome,4.0,NC,,NORMAL,,NORMAL,NORMAL,,,,A,non précisé,exérèse,70.0,54.0,wt,mutant,,,
+1266,M,GBM,2.0,,,NORMAL,NORMAL,NORMAL,,,,GAIN,A,G,exérèse,78.0,104.0,wt,wt,,1.0,100.0
+1267,F,GBM,3.0,,,,,,NORMAL,,PERTE,,A,G,biopsie,63.0,4267.0,wt,,,,70.0
+1268,M,GBM,4.0,NORMAL,METHYLE,NORMAL,,NORMAL,NORMAL,,NON PERTE,,N,G,exérèse,42.0,1014.0,wt,,3.0,,
+1269,M,oligo,2.0,,,,NORMAL,NORMAL,,,PERTE,,A,G,exérèse,43.0,138.0,wt,,4.0,0.0,
+1270,M,GBM,4.0,NC,,,NORMAL,,,Maintien,NON PERTE,PERTE,A,G,biopsie,64.0,158.0,NC,,,0.0,
+1271,M,oligo,3.0,NC,,AMPLIFIE,,,,,NON PERTE,NON PERTE,A,G,exérèse,47.0,487.0,NC,,,1.0,90.0
+1272,F,oligo,4.0,NC,,NORMAL,,,DELETE,,NON PERTE,,A,G,,61.0,1048.0,wt,,,0.0,
+1273,F,astrocytome,4.0,,,NORMAL,NORMAL,NORMAL,NORMAL,,PERTE,,A,bilatéral,exérèse,36.0,160.0,wt,wt,,,60.0
+1274,F,astrocytome,2.0,NC,,AMPLIFIE,,NORMAL,DELETE,,,,A,D,partielle,71.0,3164.0,NC,wt,4.0,,90.0
+1275,F,oligo,3.0,NORMAL,,,NORMAL,,NORMAL,,,,A,D,exérèse,51.0,438.0,wt,mutant,4.0,,
+1276,M,GBM,4.0,NORMAL,NON METHYLE,NORMAL,,NORMAL,,,NON PERTE,,A,non précisé,partielle,56.0,314.0,mutant,,4.0,0.0,90.0
+1277,F,oligo,2.0,NORMAL,,NORMAL,,,,,NON PERTE,,A,G,partielle,71.0,491.0,mutant,,,0.0,90.0
+1278,M,GBM,4.0,NORMAL,,,NORMAL,,,,PERTE,PERTE,A,G,biopsie,79.0,867.0,wt,mutant,3.0,,
+1279,M,GBM,4.0,,,NORMAL,,,DELETE,,PERTE,NON PERTE,A,D,,54.0,128.0,mutant,wt,4.0,0.0,
+1280,M,GBM,3.0,,,,NORMAL,,NORMAL,,,PERTE,A,,biopsie,37.0,3034.0,wt,wt,4.0,1.0,
+1281,F,GBM,4.0,,METHYLE,NORMAL,,,,,,,A,G,biopsie,65.0,729.0,NC,mutant,,0.0,100.0
+1282,M,GBM,4.0,NORMAL,NON METHYLE,,NORMAL,NORMAL,,,,NON PERTE,A,D,partielle,24.0,322.0,NC,mutant,,0.0,
+1283,M,gliome,3.0,NC,,NORMAL,NORMAL,AMPLIFIE,NORMAL,,,,A,D,exérèse,40.0,587.0,wt,,4.0,,80.0
+1284,M,GBM,2.0,ALTERE,,NORMAL,NORMAL,NORMAL,DELETE,,NON PERTE,NON PERTE,A,D,exérèse,73.0,515.0,wt,,,0.0,80.0
+1285,F,GBM,4.0,NC,NON METHYLE,,NORMAL,NORMAL,,,NON PERTE,,A,G,exérèse,45.0,122.0,mutant,wt,4.0,,90.0
+1286,F,GBM,3.0,NORMAL,,NORMAL,,NORMAL,DELETE,,PERTE,PERTE,A,G,biopsie,66.0,947.0,mutant,mutant,4.0,,80.0
+1287,F,GBM,4.0,NC,,,,,,,PERTE,,A,G,partielle,37.0,86.0,wt,mutant,4.0,1.0,90.0
+1288,F,oligo,2.0,NC,,,,,DELETE,,PERTE,NON PERTE,A,G,partielle,69.0,452.0,wt,mutant,,,
+1289,F,oligo,3.0,,,,,NORMAL,NORMAL,,PERTE,,A,G,biopsie,73.0,209.0,wt,mutant,4.0,,
+1290,M,oligo,3.0,NC,,,NORMAL,,DELETE,,,PERTE,A,G,biopsie,63.0,627.0,wt,mutant,3.0,0.0,80.0
+1291,M,oligo,4.0,NC,,NORMAL,NORMAL,,,,NON PERTE,,A,G,biopsie,51.0,440.0,wt,wt,,0.0,
+1292,M,GBM,4.0,NC,METHYLE,NORMAL,,,,,,NON PERTE,A,G,biopsie,66.0,327.0,wt,,4.0,0.0,60.0
+1293,M,astrocytome,4.0,NC,NON METHYLE,NORMAL,,,,,NON PERTE,,A,bilatéral,partielle,44.0,392.0,NC,wt,,,
+1294,M,GBM,4.0,NC,METHYLE,,NORMAL,NORMAL,,,NON PERTE,,A,G,partielle,37.0,502.0,wt,,,,90.0
+1295,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,biopsie,52.0,254.0,wt,,,,70.0
+1296,M,astrocytome,4.0,NORMAL,,,NORMAL,NORMAL,,,,NON PERTE,A,G,biopsie,71.0,1753.0,wt,,4.0,0.0,70.0
+1297,F,gangliogliome,3.0,NC,METHYLE,,NORMAL,,,,,NON PERTE,A,D,biopsie,64.0,538.0,mutant,wt,4.0,0.0,
+1298,F,gliome,3.0,NC,,NORMAL,,NORMAL,DELETE,,PERTE,PERTE,A,G,partielle,61.0,1892.0,wt,mutant,4.0,0.0,90.0
+1299,F,oligo,4.0,,,NORMAL,,,NORMAL,,PERTE,NON PERTE,A,non précisé,biopsie,78.0,7787.0,wt,,,,
+1300,F,GBM,4.0,NC,,,,,NORMAL,,PERTE,NON PERTE,A,G,partielle,53.0,2252.0,mutant,mutant,3.0,0.0,
+1301,M,GBM,4.0,,,NORMAL,,,,,,,A,G,biopsie,60.0,869.0,mutant,mutant,3.0,,70.0
+1302,F,GBM,4.0,NC,,,,,NORMAL,,NON PERTE,PERTE,A,D,exérèse,44.0,2092.0,NC,,,0.0,70.0
+1303,M,GBM,4.0,,NON METHYLE,NORMAL,NORMAL,,,,,,N,G,biopsie,64.0,3044.0,wt,,3.0,,
+1304,M,GBM,2.0,NC,NON METHYLE,,NORMAL,,DELETE,,,,A,G,exérèse,42.0,769.0,wt,mutant,,,
+1305,M,GBM,2.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,Maintien,PERTE,NON PERTE,A,G,biopsie,65.0,3134.0,mutant,,4.0,,
+1306,M,GBM,4.0,,,NORMAL,,NORMAL,NORMAL,,PERTE,PERTE,A,D,biopsie,35.0,381.0,wt,wt,3.0,,80.0
+1307,M,astrocytome,4.0,,,,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,biopsie,50.0,1273.0,wt,wt,,,
+1308,F,GBM,4.0,ALTERE,,,,NORMAL,NORMAL,,,,A,G,partielle,48.0,733.0,wt,,3.0,,
+1309,F,gliome,4.0,NC,,,,NORMAL,NORMAL,,,PERTE,A,D,biopsie,66.0,104.0,wt,wt,4.0,0.0,
+1310,M,gliome,4.0,NC,METHYLE,,NORMAL,,,,,,A,G,partielle,76.0,2779.0,wt,,3.0,,90.0
+1311,F,GBM,2.0,NC,,NORMAL,NORMAL,,NORMAL,,NON PERTE,PERTE,A,G,biopsie,48.0,149.0,NC,mutant,4.0,,70.0
+1312,F,GBM,1.0,NC,,AMPLIFIE,,NORMAL,,,,PERTE,A,G,exérèse,32.0,3875.0,wt,wt,4.0,,70.0
+1313,M,GBM,4.0,NC,,,NORMAL,,DELETE,,,PERTE,A,D,biopsie,64.0,559.0,wt,,,,50.0
+1314,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,,DELETE,,,,A,non précisé,partielle,58.0,14.0,wt,mutant,,,
+1315,M,GBM,4.0,NC,NON METHYLE,AMPLIFIE,,NORMAL,NORMAL,,,,A,D,exérèse,64.0,1444.0,NC,,4.0,,70.0
+1316,M,oligo,4.0,NORMAL,NON METHYLE,NORMAL,,,,,,NON PERTE,A,D,biopsie,21.0,798.0,wt,wt,,,
+1317,M,gliome,4.0,NC,,,,,,,NON PERTE,,A,G,biopsie,55.0,278.0,mutant,mutant,,,
+1318,F,GBM,3.0,NC,METHYLE,,,NORMAL,NORMAL,,NON PERTE,,N,D,biopsie,40.0,2741.0,NC,mutant,4.0,0.0,90.0
+1319,F,GBM,3.0,NC,,NORMAL,,,,,,NON PERTE,A,D,partielle,36.0,4811.0,wt,mutant,4.0,0.0,
+1320,F,oligo,4.0,NC,NON METHYLE,,NORMAL,NORMAL,DELETE,,,NON PERTE,A,D,biopsie,52.0,453.0,wt,wt,4.0,,90.0
+1321,M,GBM,2.0,NC,,,,NORMAL,,,PERTE,NON PERTE,A,G,partielle,66.0,418.0,wt,wt,,0.0,90.0
+1322,M,GBM,3.0,NC,,NORMAL,,,NORMAL,,,,A,G,partielle,24.0,1017.0,wt,,,,
+1323,M,gliome,3.0,,,,NORMAL,NORMAL,DELETE,,PERTE,,A,D,partielle,38.0,397.0,wt,mutant,4.0,,
+1324,F,gliome,3.0,,METHYLE,NORMAL,,NORMAL,,,PERTE,NON PERTE,A,D,biopsie,70.0,1981.0,wt,mutant,,0.0,
+1325,F,astrocytome,4.0,NC,,NORMAL,,NORMAL,,,NON PERTE,,A,D,exérèse,63.0,1020.0,NC,wt,3.0,,90.0
+1326,F,GBM,3.0,NC,,,,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,D,partielle,21.0,909.0,wt,mutant,,0.0,
+1327,M,oligo,4.0,,,NORMAL,AMPLIFIE,NORMAL,NORMAL,,NON PERTE,,A,D,partielle,27.0,133.0,mutant,,,,90.0
+1328,M,GBM,4.0,NC,METHYLE,NORMAL,,NORMAL,NORMAL,,,PERTE,A,G,partielle,53.0,449.0,wt,,4.0,0.0,
+1329,F,GBM,2.0,NC,,,,NORMAL,NORMAL,,,,A,G,exérèse,72.0,413.0,wt,wt,,,90.0
+1330,M,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,D,biopsie,48.0,903.0,wt,,3.0,,
+1331,M,GBM,4.0,NC,,AMPLIFIE,,NORMAL,DELETE,,,NON PERTE,A,D,aucune,42.0,1775.0,wt,wt,,,90.0
+1332,M,GBM,4.0,NC,,NORMAL,NORMAL,,DELETE,,,PERTE,A,D,partielle,62.0,775.0,NC,,4.0,,
+1333,M,gliome,2.0,NORMAL,,NORMAL,NORMAL,NORMAL,,,,PERTE,A,G,exérèse,58.0,975.0,wt,,4.0,,90.0
+1334,M,oligo,3.0,NORMAL,,NORMAL,,NORMAL,NORMAL,,PERTE,,A,D,exérèse,39.0,1357.0,NC,wt,4.0,,80.0
+1335,F,astrocytome gémistocytique (=A2),3.0,NC,,,,,DELETE,,NON PERTE,PERTE,A,G,biopsie,62.0,406.0,mutant,mutant,4.0,,
+1336,F,oligo,2.0,,,,NORMAL,,NORMAL,extinction,,,A,D,biopsie,66.0,279.0,NC,,4.0,,80.0
+1337,M,oligo,2.0,NORMAL,,,,,,,NON PERTE,NON PERTE,A,D,exérèse,45.0,177.0,wt,mutant,,,
+1338,M,GBM,3.0,NC,,,NORMAL,NORMAL,DELETE,,PERTE,,A,D,aucune,61.0,877.0,wt,mutant,,,
+1339,M,GBM,4.0,NC,METHYLE,NORMAL,,AMPLIFIE,DELETE,,,NON PERTE,A,bilatéral,biopsie,58.0,1845.0,wt,mutant,4.0,,
+1340,M,GBM,4.0,NC,,NORMAL,NORMAL,,NORMAL,,,NON PERTE,A,G,partielle,62.0,1142.0,mutant,mutant,,0.0,
+1341,M,oligo,3.0,,NON METHYLE,,,,,,,PERTE,A,D,biopsie,38.0,3842.0,wt,wt,3.0,,
+1342,F,oligo,3.0,,METHYLE,NORMAL,,,,,PERTE,PERTE,A,G,partielle,52.0,635.0,wt,mutant,4.0,0.0,
+1343,F,GBM,3.0,NC,,,NORMAL,NORMAL,,,NON PERTE,GAIN,A,G,biopsie,59.0,1175.0,NC,,4.0,,80.0
+1344,M,GBM,4.0,NC,,,NORMAL,NORMAL,,,PERTE,,A,G,exérèse,63.0,296.0,wt,mutant,,,80.0
+1345,M,GBM,4.0,NC,,,NORMAL,,,,,,A,non précisé,biopsie,42.0,203.0,wt,mutant,3.0,,70.0
+1346,F,GBM,4.0,NC,,AMPLIFIE,NORMAL,,NORMAL,,,NON PERTE,A,D,partielle,64.0,307.0,wt,mutant,,,70.0
+1347,F,oligo,4.0,,NON METHYLE,NORMAL,,NORMAL,,,PERTE,NON PERTE,A,D,biopsie,69.0,345.0,mutant,,,1.0,
+1348,F,GBM,4.0,NC,,,,NORMAL,,,NON PERTE,PERTE,A,D,exérèse,51.0,1585.0,wt,wt,,0.0,90.0
+1349,F,astrocytome,3.0,NC,,AMPLIFIE,,,,,,PERTE,A,G,partielle,22.0,522.0,mutant,,3.0,,90.0
+1350,M,GBM,2.0,ALTERE,,,,,NORMAL,,,PERTE,A,bilatéral,exérèse,53.0,465.0,NC,,,,
+1351,M,GBM,3.0,NORMAL,METHYLE,AMPLIFIE,NORMAL,,,,PERTE,,A,G,partielle,58.0,520.0,wt,wt,3.0,,90.0
+1352,F,GBM,4.0,NC,,,,,,,,,A,D,biopsie,33.0,277.0,NC,mutant,,0.0,
+1353,F,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,,,C,D,partielle,39.0,564.0,wt,mutant,,0.0,90.0
+1354,M,GBM,4.0,NC,,,,,,,PERTE,,A,G,biopsie,65.0,2496.0,wt,wt,4.0,0.0,
+1355,M,GBM,3.0,NC,NON METHYLE,NORMAL,NORMAL,,,,NON PERTE,,A,G,biopsie,56.0,468.0,wt,mutant,4.0,0.0,
+1356,F,GBM,3.0,NC,,AMPLIFIE,NORMAL,,NORMAL,,,,A,non précisé,biopsie,33.0,16.0,wt,mutant,,,
+1357,M,GBM,2.0,NC,,,NORMAL,,,,,NON PERTE,A,G,exérèse,60.0,4.0,NC,wt,,,70.0
+1358,F,astrocytome,3.0,NC,NON METHYLE,NORMAL,,,NORMAL,,NON PERTE,,A,G,partielle,25.0,1141.0,wt,mutant,,,
+1359,M,GBM,2.0,,,,,,,,PERTE,PERTE,N,D,aucune,36.0,91.0,wt,mutant,,0.0,90.0
+1360,M,oligo,2.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,PERTE,NON PERTE,A,D,biopsie,49.0,282.0,wt,wt,,,
+1361,F,astrocytome,3.0,NC,,NORMAL,,AMPLIFIE,,,PERTE,NON PERTE,A,G,biopsie,65.0,3533.0,mutant,mutant,,,
+1362,M,gliome,4.0,NC,,AMPLIFIE,,NORMAL,,,PERTE,,A,bilatéral,partielle,62.0,2931.0,NC,wt,4.0,1.0,80.0
+1363,M,GBM,3.0,NC,,NORMAL,,,NORMAL,,,,A,D,partielle,36.0,411.0,wt,,,1.0,
+1364,M,gliome,4.0,NC,,,,NORMAL,NORMAL,,,,A,G,biopsie,42.0,2846.0,wt,mutant,,,80.0
+1365,M,oligo,2.0,,NON METHYLE,NORMAL,,,,,PERTE,,A,D,partielle,58.0,718.0,wt,,4.0,,
+1366,M,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,PERTE,,A,G,exérèse,30.0,347.0,wt,,4.0,0.0,90.0
+1367,M,gliome,4.0,NC,,AMPLIFIE,,,NORMAL,,,GAIN,A,G,biopsie,62.0,1555.0,wt,mutant,4.0,0.0,100.0
+1368,M,gliome,3.0,NC,NON METHYLE,,NORMAL,NORMAL,,Maintien,,PERTE,A,D,exérèse,66.0,154.0,NC,wt,,,80.0
+1369,F,GBM,2.0,NC,,AMPLIFIE,,,NORMAL,,NON PERTE,PERTE,A,bilatéral,biopsie,49.0,959.0,wt,,,,70.0
+1370,F,GBM,3.0,NC,,,NORMAL,,,,,,A,G,biopsie,41.0,902.0,,mutant,3.0,,
+1371,M,oligo,4.0,NC,,,,NORMAL,NORMAL,,,PERTE,A,G,partielle,24.0,403.0,wt,,,0.0,
+1372,M,gliome,4.0,NC,METHYLE,NORMAL,,NORMAL,NORMAL,,PERTE,,A,G,biopsie,74.0,80.0,NC,,4.0,0.0,
+1373,F,oligo,4.0,NC,,NORMAL,,,NORMAL,,NON PERTE,NON PERTE,A,G,exérèse,62.0,210.0,NC,,4.0,,
+1374,M,GBM,4.0,NC,,NORMAL,NORMAL,,DELETE,,,,A,G,partielle,60.0,235.0,mutant,wt,4.0,,90.0
+1375,M,GBM,4.0,NC,,NORMAL,,NORMAL,DELETE,,PERTE,,N,D,biopsie,38.0,1375.0,wt,wt,,0.0,
+1376,F,GBM,4.0,,,NORMAL,,NORMAL,,,PERTE,NON PERTE,A,D,partielle,30.0,82.0,wt,wt,,,
+1377,F,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,D,biopsie,36.0,1349.0,NC,mutant,4.0,,
+1378,F,gliome,4.0,NC,,NORMAL,,,,Maintien,,,A,non précisé,exérèse,51.0,672.0,mutant,mutant,,0.0,
+1379,F,GBM,3.0,NC,METHYLE,NORMAL,,,DELETE,,NON PERTE,NON PERTE,A,D,partielle,62.0,624.0,NC,,4.0,1.0,
+1380,M,GBM,2.0,NC,,AMPLIFIE,,NORMAL,NORMAL,,PERTE,NON PERTE,A,G,exérèse,59.0,196.0,NC,wt,,0.0,60.0
+1381,M,oligo,3.0,NC,METHYLE,AMPLIFIE,NORMAL,,NORMAL,,PERTE,,N,D,partielle,55.0,77.0,mutant,,,,
+1382,M,astrocytome,2.0,ALTERE,,NORMAL,NORMAL,,NORMAL,,,,A,D,partielle,74.0,398.0,wt,wt,4.0,0.0,60.0
+1383,M,gliome,4.0,NORMAL,,,,,NORMAL,,,,A,bilatéral,partielle,36.0,159.0,wt,,4.0,0.0,
+1384,F,astrocytome,4.0,NC,,,NORMAL,,,,,,A,G,partielle,60.0,1122.0,wt,wt,,,
+1385,M,GBM,4.0,NC,,NORMAL,,,,,NON PERTE,PERTE,A,D,biopsie,56.0,375.0,NC,,3.0,,
+1386,F,GBM,4.0,NC,,NORMAL,,NORMAL,NORMAL,,PERTE,PERTE,A,G,exérèse,54.0,300.0,wt,,,,80.0
+1387,M,GBM,3.0,NC,,,,NORMAL,,,PERTE,,A,D,biopsie,42.0,833.0,wt,,,,
+1388,M,GBM,4.0,NC,,,NORMAL,NORMAL,,,,,A,G,exérèse,71.0,2884.0,mutant,,4.0,0.0,
+1389,F,oligo,2.0,NC,,,,NORMAL,DELETE,,,,N,D,partielle,28.0,1662.0,wt,mutant,,0.0,
+1390,M,GBM,4.0,,NON METHYLE,NORMAL,NORMAL,,,,,,A,D,aucune,64.0,3360.0,,wt,,0.0,90.0
+1391,F,GBM,2.0,NORMAL,NON METHYLE,NORMAL,NORMAL,NORMAL,,,NON PERTE,NON PERTE,A,G,partielle,75.0,399.0,wt,mutant,,,70.0
+1392,F,GBM,3.0,,NON METHYLE,NORMAL,,NORMAL,NORMAL,,NON PERTE,,B,G,biopsie,67.0,1180.0,mutant,mutant,4.0,0.0,90.0
+1393,M,astrocytome,2.0,NC,METHYLE,NORMAL,,NORMAL,,,,,A,D,,72.0,476.0,NC,,3.0,,70.0
+1394,F,GBM,2.0,NC,NON METHYLE,NORMAL,,,,,PERTE,,A,D,exérèse,63.0,501.0,wt,mutant,4.0,0.0,100.0
+1395,M,gliome,4.0,NC,METHYLE,,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,D,aucune,64.0,348.0,wt,,,,90.0
+1396,F,oligo,3.0,NC,NON METHYLE,NORMAL,NORMAL,AMPLIFIE,NORMAL,,NON PERTE,,A,G,biopsie,80.0,460.0,wt,mutant,4.0,,
+1397,M,GBM,4.0,NORMAL,,,,,,,,NON PERTE,A,G,biopsie,59.0,1112.0,wt,,4.0,,
+1398,F,GBM,4.0,NC,,AMPLIFIE,,NORMAL,,,,NON PERTE,A,non précisé,exérèse,71.0,456.0,wt,mutant,,,80.0
+1399,F,oligo,2.0,NC,,NORMAL,,,,Maintien,PERTE,NON PERTE,A,D,biopsie,75.0,2336.0,wt,,,0.0,90.0
+1400,M,GBM,4.0,,NON METHYLE,,NORMAL,,,,,,A,G,exérèse,43.0,5707.0,wt,,,,
+1401,M,oligo,4.0,NC,,NORMAL,NORMAL,,,,PERTE,,N,D,exérèse,48.0,2506.0,wt,,,,
+1402,M,gliome,4.0,NC,,,NORMAL,NORMAL,NORMAL,,,,A,D,biopsie,29.0,131.0,wt,,4.0,,80.0
+1403,F,oligo,2.0,NC,NON METHYLE,NORMAL,,NORMAL,NORMAL,,PERTE,,A,bilatéral,exérèse,31.0,239.0,wt,,3.0,0.0,70.0
+1404,M,gliome,4.0,NC,METHYLE,NORMAL,NORMAL,,,,PERTE,PERTE,A,D,exérèse,63.0,377.0,mutant,,4.0,,
+1405,M,GBM,2.0,NORMAL,,NORMAL,,NORMAL,DELETE,,PERTE,,A,D,partielle,40.0,582.0,NC,wt,3.0,1.0,
+1406,M,GBM,2.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,,,,,A,D,biopsie,50.0,1025.0,NC,,4.0,,70.0
+1407,F,gliome,4.0,NC,,NORMAL,NORMAL,,NORMAL,,,NON PERTE,A,D,exérèse,53.0,4381.0,wt,wt,3.0,,
+1408,M,oligo,2.0,NC,,,NORMAL,,NORMAL,,,PERTE,A,G,biopsie,42.0,2202.0,mutant,mutant,,0.0,
+1409,M,oligo,4.0,,,,NORMAL,NORMAL,DELETE,,NON PERTE,,A,G,exérèse,33.0,407.0,wt,,3.0,,70.0
+1410,M,GBM,3.0,NC,,,NORMAL,NORMAL,NORMAL,,PERTE,PERTE,A,D,exérèse,36.0,511.0,wt,mutant,4.0,,
+1411,F,GBM,4.0,NC,NON METHYLE,NORMAL,,,NORMAL,,NON PERTE,,A,D,biopsie,40.0,1409.0,wt,,3.0,,
+1412,M,oligo,4.0,,,,,NORMAL,,,PERTE,,A,non précisé,biopsie,77.0,2128.0,NC,mutant,3.0,0.0,
+1413,F,GBM,4.0,NC,NON METHYLE,,NORMAL,,,,PERTE,,A,G,exérèse,48.0,33.0,mutant,mutant,4.0,0.0,60.0
+1414,F,GBM,2.0,NC,,,,,NORMAL,,,,A,D,biopsie,55.0,1681.0,wt,,,1.0,90.0
+1415,M,GBM,2.0,NC,,NORMAL,,,NORMAL,,NON PERTE,PERTE,A,G,partielle,12.0,358.0,NC,,4.0,,90.0
+1416,M,oligo,2.0,,NON METHYLE,,,NORMAL,,,PERTE,,C,D,biopsie,58.0,794.0,wt,,3.0,,
+1417,M,oligo,4.0,NC,,,NORMAL,NORMAL,,,PERTE,,A,D,exérèse,46.0,4406.0,wt,wt,4.0,0.0,70.0
+1418,M,GBM,2.0,NORMAL,,,NORMAL,NORMAL,,,PERTE,NON PERTE,A,D,exérèse,59.0,527.0,NC,mutant,,,90.0
+1419,F,GBM,4.0,NC,,NORMAL,,,NORMAL,,,PERTE,N,bilatéral,exérèse,56.0,140.0,wt,,,,80.0
+1420,M,astrocytome gémistocytique (=A2),4.0,NC,NON METHYLE,,,NORMAL,,,NON PERTE,,A,G,biopsie,61.0,930.0,wt,mutant,3.0,0.0,
+1421,F,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,G,exérèse,66.0,1199.0,wt,,,,
+1422,M,GBM,2.0,,NON METHYLE,,,NORMAL,,,,,A,G,biopsie,57.0,1753.0,wt,mutant,,,
+1423,M,oligo,2.0,NC,,AMPLIFIE,NORMAL,,NORMAL,,,,A,G,exérèse,60.0,402.0,wt,,,,
+1424,F,GBM,4.0,NC,,,NORMAL,,,,PERTE,,A,D,biopsie,31.0,148.0,wt,mutant,4.0,,
+1425,M,GBM,4.0,ALTERE,METHYLE,,,,,,NON PERTE,,A,G,biopsie,52.0,1269.0,wt,,4.0,,80.0
+1426,M,GBM,4.0,,,,,NORMAL,DELETE,,,PERTE,autre,D,partielle,62.0,508.0,NC,wt,3.0,,90.0
+1427,M,GBM,4.0,,,,,AMPLIFIE,NORMAL,,NON PERTE,,A,D,exérèse,45.0,348.0,mutant,wt,,0.0,80.0
+1428,M,GBM,2.0,NC,,NORMAL,,,,,PERTE,PERTE,A,G,biopsie,31.0,481.0,wt,wt,4.0,,90.0
+1429,M,gliome,4.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,NON PERTE,A,G,biopsie,55.0,230.0,wt,mutant,3.0,0.0,
+1430,M,GBM,2.0,,,,,,NORMAL,,,NON PERTE,A,D,biopsie,29.0,739.0,NC,,4.0,,
+1431,M,oligo,4.0,NC,,NORMAL,NORMAL,,DELETE,,,,A,D,partielle,56.0,1385.0,wt,,,,
+1432,M,GBM,2.0,NC,,,,NORMAL,NORMAL,,,,A,D,biopsie,57.0,318.0,wt,mutant,4.0,,
+1433,M,GBM,2.0,NC,METHYLE,,,,DELETE,,PERTE,NON PERTE,A,,exérèse,70.0,144.0,mutant,,4.0,1.0,80.0
+1434,F,GBM,2.0,NC,,NORMAL,NORMAL,,NORMAL,,NON PERTE,NON PERTE,A,G,biopsie,48.0,2040.0,mutant,,4.0,0.0,
+1435,M,GBM,3.0,ALTERE,,,,NORMAL,NORMAL,,,,A,G,exérèse,65.0,1230.0,wt,,4.0,,90.0
+1436,M,GBM,4.0,NORMAL,,AMPLIFIE,,NORMAL,NORMAL,,PERTE,PERTE,A,D,biopsie,77.0,529.0,wt,mutant,,,
+1437,M,GBM,3.0,NC,,NORMAL,NORMAL,,DELETE,,,NON PERTE,A,D,exérèse,78.0,382.0,wt,,3.0,0.0,
+1438,M,astrocytome,4.0,NORMAL,METHYLE,AMPLIFIE,,,,Maintien,,,N,G,biopsie,56.0,107.0,wt,mutant,,0.0,
+1439,M,GBM,4.0,NC,,AMPLIFIE,,,,,NON PERTE,,A,D,partielle,53.0,2912.0,wt,mutant,4.0,,
+1440,M,astrocytome gémistocytique (=A2),4.0,ALTERE,,,NORMAL,NORMAL,NORMAL,,,PERTE,A,D,exérèse,74.0,3811.0,wt,,3.0,,
+1441,F,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,D,partielle,63.0,6471.0,NC,,4.0,0.0,80.0
+1442,F,GBM,4.0,NC,METHYLE,AMPLIFIE,,NORMAL,NORMAL,,,NON PERTE,A,D,exérèse,66.0,752.0,mutant,mutant,4.0,,
+1443,F,GBM,4.0,,,NORMAL,NORMAL,NORMAL,NORMAL,,NON PERTE,GAIN,A,G,biopsie,33.0,778.0,mutant,wt,4.0,,
+1444,M,GBM,4.0,,METHYLE,,NORMAL,NORMAL,,,NON PERTE,PERTE,A,non précisé,partielle,56.0,251.0,wt,mutant,,,90.0
+1445,F,gliome,2.0,NC,METHYLE,NORMAL,NORMAL,,,,NON PERTE,,A,G,partielle,72.0,277.0,NC,,4.0,,
+1446,M,gliome,4.0,,,,NORMAL,,,,NON PERTE,NON PERTE,A,G,partielle,74.0,827.0,wt,wt,4.0,0.0,90.0
+1447,F,GBM,2.0,NORMAL,,NORMAL,,,,,,,A,D,biopsie,55.0,391.0,mutant,mutant,4.0,0.0,
+1448,F,GBM,2.0,NC,,NORMAL,NORMAL,,NORMAL,,,NON PERTE,A,D,biopsie,55.0,107.0,wt,,3.0,,
+1449,F,GBM,3.0,NC,METHYLE,,,NORMAL,NORMAL,,,PERTE,A,G,exérèse,67.0,103.0,wt,mutant,4.0,0.0,90.0
+1450,F,oligo,4.0,NORMAL,,,NORMAL,NORMAL,,,,,N,G,exérèse,63.0,2041.0,NC,wt,4.0,0.0,80.0
+1451,M,oligo,3.0,NORMAL,,NORMAL,NORMAL,NORMAL,,,NON PERTE,NON PERTE,N,G,partielle,48.0,1497.0,wt,,,,90.0
+1452,M,oligo,3.0,NC,,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,G,biopsie,72.0,628.0,NC,wt,,0.0,70.0
+1453,M,astrocytome,3.0,,,NORMAL,,,NORMAL,,NON PERTE,PERTE,N,D,biopsie,25.0,1413.0,wt,mutant,4.0,,
+1454,M,gliome,3.0,NC,,NORMAL,NORMAL,NORMAL,,,,NON PERTE,N,G,aucune,59.0,2804.0,wt,wt,3.0,,
+1455,M,oligo,4.0,,NON METHYLE,NORMAL,NORMAL,NORMAL,DELETE,,,,A,G,partielle,57.0,355.0,NC,mutant,,,80.0
+1456,M,oligo,4.0,ALTERE,METHYLE,NORMAL,NORMAL,,NORMAL,,,,A,G,biopsie,41.0,282.0,mutant,wt,4.0,0.0,
+1457,F,oligo,4.0,NORMAL,,NORMAL,NORMAL,NORMAL,,,,,A,D,partielle,38.0,278.0,wt,mutant,4.0,,80.0
+1458,F,GBM,4.0,NC,,,,,,,PERTE,,A,D,partielle,52.0,261.0,NC,mutant,,0.0,90.0
+1459,M,GBM,4.0,NC,,NORMAL,,,DELETE,,,,A,G,partielle,62.0,741.0,wt,wt,,0.0,90.0
+1460,F,GBM,4.0,,NON METHYLE,NORMAL,NORMAL,NORMAL,DELETE,,NON PERTE,PERTE,A,G,partielle,21.0,49.0,wt,mutant,,,80.0
+1461,M,oligo,4.0,NC,NON METHYLE,NORMAL,NORMAL,,NORMAL,,,,A,D,biopsie,76.0,133.0,NC,mutant,,0.0,
+1462,M,GBM,3.0,NC,,AMPLIFIE,,NORMAL,NORMAL,,PERTE,,A,D,biopsie,61.0,501.0,NC,wt,,,
+1463,M,GBM,3.0,,,NORMAL,NORMAL,,,,PERTE,NON PERTE,A,G,biopsie,43.0,236.0,wt,mutant,3.0,0.0,90.0
+1464,F,GBM,4.0,NC,METHYLE,,NORMAL,NORMAL,,,PERTE,NON PERTE,A,G,partielle,74.0,546.0,wt,mutant,4.0,,
+1465,M,GBM,4.0,NC,METHYLE,AMPLIFIE,,NORMAL,NORMAL,,,,B,bilatéral,biopsie,73.0,5329.0,NC,mutant,4.0,,90.0
+1466,M,GBM,2.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,G,partielle,59.0,321.0,NC,wt,,,80.0
+1467,M,GBM,4.0,NC,,NORMAL,NORMAL,,,,,,A,D,biopsie,78.0,455.0,wt,,4.0,0.0,
+1468,F,GBM,3.0,NC,,NORMAL,,NORMAL,NORMAL,,,PERTE,A,non précisé,biopsie,57.0,247.0,NC,mutant,3.0,0.0,
+1469,F,GBM,4.0,NC,METHYLE,,NORMAL,,,,NON PERTE,PERTE,A,D,biopsie,48.0,428.0,wt,mutant,,0.0,100.0
+1470,F,GBM,4.0,NC,METHYLE,,,,,,NON PERTE,,A,D,biopsie,63.0,4589.0,wt,,,0.0,70.0
+1471,M,gliome,3.0,NC,,,,,NORMAL,,PERTE,,A,D,biopsie,40.0,466.0,NC,,,0.0,80.0
+1472,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,G,exérèse,72.0,1078.0,wt,wt,,0.0,80.0
+1473,F,GBM,4.0,NC,,,,NORMAL,DELETE,,PERTE,,N,D,partielle,45.0,390.0,wt,,3.0,,50.0
+1474,F,GBM,3.0,NC,,,NORMAL,NORMAL,,,PERTE,PERTE,A,non précisé,partielle,37.0,903.0,NC,wt,,0.0,
+1475,M,GBM,4.0,NC,NON METHYLE,,NORMAL,,NORMAL,,,,A,G,exérèse,42.0,1754.0,wt,mutant,4.0,0.0,70.0
+1476,M,oligo,3.0,NC,,,,,,,,NON PERTE,A,G,exérèse,62.0,166.0,wt,wt,4.0,0.0,80.0
+1477,M,GBM,2.0,NORMAL,NON METHYLE,,NORMAL,,NORMAL,,NON PERTE,PERTE,A,G,partielle,73.0,3788.0,mutant,mutant,4.0,0.0,90.0
+1478,M,GBM,4.0,,METHYLE,NORMAL,,NORMAL,NORMAL,,,,A,bilatéral,partielle,35.0,614.0,wt,mutant,4.0,,
+1479,F,GBM,4.0,NORMAL,METHYLE,,NORMAL,NORMAL,DELETE,,PERTE,NON PERTE,A,D,biopsie,51.0,759.0,mutant,wt,,0.0,
+1480,F,astrocytome,4.0,NC,,,NORMAL,,,,,NON PERTE,A,D,partielle,76.0,863.0,wt,,,0.0,80.0
+1481,M,GBM,3.0,,NON METHYLE,,NORMAL,NORMAL,NORMAL,,,,A,G,partielle,60.0,944.0,NC,,4.0,0.0,
+1482,M,GBM,4.0,NC,,,,,,,,NON PERTE,A,bilatéral,partielle,36.0,5000.0,wt,,3.0,,60.0
+1483,M,oligo,2.0,NC,NON METHYLE,AMPLIFIE,,,,,,NON PERTE,A,non précisé,biopsie,62.0,7115.0,mutant,mutant,4.0,0.0,100.0
+1484,M,astrocytome,4.0,NC,METHYLE,,,,,,NON PERTE,NON PERTE,A,G,partielle,30.0,262.0,wt,,3.0,,90.0
+1485,M,GBM,4.0,NC,,NORMAL,NORMAL,AMPLIFIE,,,PERTE,PERTE,A,D,exérèse,55.0,1526.0,wt,,4.0,0.0,
+1486,M,GBM,4.0,NC,,,,NORMAL,,,PERTE,,A,D,partielle,61.0,632.0,mutant,,4.0,0.0,90.0
+1487,M,GBM,2.0,,,NORMAL,NORMAL,,,,NON PERTE,,A,D,partielle,68.0,44.0,wt,mutant,,0.0,90.0
+1488,F,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,exérèse,42.0,403.0,wt,mutant,4.0,0.0,80.0
+1489,M,GBM,3.0,NC,METHYLE,,NORMAL,,,,PERTE,,A,G,partielle,69.0,1908.0,NC,wt,,,
+1490,M,GBM,3.0,NC,METHYLE,AMPLIFIE,,NORMAL,,,,NON PERTE,A,D,partielle,32.0,1261.0,wt,wt,3.0,0.0,
+1491,M,astrocytome pilocytique,2.0,NC,NON METHYLE,,NORMAL,,DELETE,,NON PERTE,NON PERTE,A,D,exérèse,41.0,806.0,NC,,,0.0,
+1492,M,GBM,3.0,ALTERE,,NORMAL,NORMAL,NORMAL,,,,PERTE,A,D,biopsie,63.0,1019.0,mutant,mutant,3.0,0.0,100.0
+1493,F,GBM,4.0,NC,,,,,,,,NON PERTE,A,D,partielle,55.0,1751.0,NC,wt,,0.0,70.0
+1494,M,GBM,4.0,,,NORMAL,NORMAL,,,,NON PERTE,NON PERTE,A,D,biopsie,69.0,227.0,wt,,4.0,,
+1495,M,GBM,3.0,NC,,,NORMAL,,NORMAL,,NON PERTE,,A,D,exérèse,33.0,1219.0,wt,wt,,,
+1496,F,GBM,3.0,,,,NORMAL,,DELETE,,,PERTE,A,D,partielle,68.0,386.0,NC,,3.0,0.0,100.0
+1497,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,,DELETE,,,,A,D,aucune,67.0,720.0,mutant,mutant,,0.0,59.0
+1498,M,GBM,4.0,,,NORMAL,NORMAL,,,,,,N,D,partielle,76.0,228.0,mutant,mutant,3.0,,100.0
+1499,M,oligo,3.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,DELETE,,PERTE,PERTE,A,D,partielle,51.0,269.0,wt,mutant,3.0,,
+1500,M,GBM,4.0,,NON METHYLE,NORMAL,NORMAL,,NORMAL,,NON PERTE,PERTE,A,G,biopsie,53.0,270.0,mutant,,4.0,0.0,80.0
+1501,M,GBM,3.0,NORMAL,,NORMAL,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,biopsie,76.0,4768.0,mutant,,4.0,,80.0
+1502,F,gliome,4.0,NC,,,NORMAL,NORMAL,NORMAL,,PERTE,PERTE,A,G,biopsie,69.0,261.0,wt,wt,3.0,0.0,
+1503,F,GBM,4.0,NC,,AMPLIFIE,,NORMAL,,,,,A,G,exérèse,63.0,861.0,wt,wt,4.0,,
+1504,M,gliome,4.0,NC,METHYLE,,,NORMAL,DELETE,,,,A,G,biopsie,41.0,3535.0,wt,mutant,4.0,1.0,90.0
+1505,M,GBM,4.0,NC,,,NORMAL,,,,PERTE,,A,D,exérèse,50.0,399.0,NC,wt,,,
+1506,M,GBM,4.0,NC,METHYLE,NORMAL,,NORMAL,,,,NON PERTE,A,G,aucune,53.0,882.0,wt,wt,,,100.0
+1507,M,GBM,4.0,,,NORMAL,NORMAL,,,,PERTE,,A,G,partielle,75.0,475.0,,,,,80.0
+1508,M,oligo,4.0,ALTERE,,,,NORMAL,,,,NON PERTE,A,D,partielle,64.0,906.0,NC,,3.0,0.0,
+1509,M,gliome,4.0,,,AMPLIFIE,NORMAL,NORMAL,DELETE,,,,A,G,biopsie,81.0,1829.0,wt,mutant,,,80.0
+1510,M,astrocytome,2.0,NC,,,,NORMAL,NORMAL,,,,N,G,biopsie,67.0,451.0,mutant,,,,
+1511,M,GBM,3.0,,NON METHYLE,,NORMAL,NORMAL,,,PERTE,NON PERTE,A,D,biopsie,84.0,223.0,NC,,4.0,0.0,
+1512,F,oligo,4.0,,,,,,,,NON PERTE,,N,G,exérèse,77.0,341.0,NC,,,,
+1513,M,gliome,4.0,,,NORMAL,NORMAL,,,,,,A,D,partielle,33.0,302.0,wt,wt,,,
+1514,F,GBM,4.0,NORMAL,,NORMAL,,,,,PERTE,,A,D,partielle,36.0,925.0,wt,,,0.0,80.0
+1515,F,GBM,4.0,NORMAL,,,,,NORMAL,,PERTE,PERTE,A,D,partielle,70.0,740.0,mutant,mutant,3.0,,100.0
+1516,F,oligo,3.0,NC,,,NORMAL,AMPLIFIE,,,NON PERTE,,A,G,partielle,72.0,3540.0,NC,,,,80.0
+1517,F,gliome,2.0,,,NORMAL,,NORMAL,DELETE,,,PERTE,A,D,exérèse,31.0,3976.0,wt,wt,4.0,,
+1518,M,astrocytome,3.0,NC,,AMPLIFIE,,NORMAL,DELETE,,NON PERTE,PERTE,A,D,exérèse,66.0,3035.0,NC,,4.0,,70.0
+1519,M,GBM,4.0,ALTERE,NON METHYLE,NORMAL,,,,,PERTE,,A,D,biopsie,57.0,96.0,wt,mutant,3.0,0.0,90.0
+1520,F,GBM,4.0,NC,,AMPLIFIE,,,NORMAL,,,PERTE,A,,biopsie,64.0,201.0,wt,mutant,,,70.0
+1521,M,GBM,2.0,NORMAL,,NORMAL,,,NORMAL,,PERTE,,A,G,partielle,26.0,329.0,wt,mutant,4.0,0.0,
+1522,F,GBM,3.0,NC,METHYLE,,,NORMAL,,,NON PERTE,PERTE,A,G,exérèse,64.0,490.0,wt,mutant,3.0,,80.0
+1523,M,oligo,4.0,NC,,,,NORMAL,NORMAL,,,,A,non précisé,exérèse,73.0,583.0,,mutant,,0.0,
+1524,F,GBM,4.0,NC,,,NORMAL,NORMAL,DELETE,,PERTE,,A,G,biopsie,49.0,358.0,wt,,4.0,,
+1525,M,GBM,2.0,NC,METHYLE,,NORMAL,,,,PERTE,,A,G,biopsie,67.0,373.0,NC,mutant,,0.0,
+1526,M,GBM,3.0,,,,,NORMAL,,,,PERTE,A,G,exérèse,21.0,726.0,mutant,mutant,4.0,,90.0
+1527,M,GBM,3.0,NC,,,NORMAL,,NORMAL,,NON PERTE,,A,G,exérèse,27.0,3191.0,NC,mutant,,0.0,
+1528,M,GBM,3.0,,NON METHYLE,NORMAL,NORMAL,NORMAL,DELETE,,PERTE,NON PERTE,A,D,exérèse,67.0,301.0,wt,mutant,4.0,,
+1529,F,GBM,3.0,,METHYLE,,,,DELETE,,NON PERTE,PERTE,C,D,biopsie,59.0,1722.0,wt,mutant,,,
+1530,M,GBM,3.0,,NON METHYLE,AMPLIFIE,,NORMAL,,,,,A,G,biopsie,54.0,366.0,wt,mutant,3.0,0.0,
+1531,F,GBM,4.0,NC,,,NORMAL,,,,NON PERTE,,A,D,partielle,45.0,191.0,wt,wt,,,
+1532,F,GBM,4.0,ALTERE,,NORMAL,NORMAL,NORMAL,,,,NON PERTE,A,G,exérèse,66.0,3024.0,wt,wt,4.0,0.0,
+1533,F,GBM,4.0,NC,,AMPLIFIE,,NORMAL,NORMAL,,,PERTE,A,D,biopsie,49.0,1086.0,NC,,4.0,,
+1534,F,GBM,4.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,,A,G,exérèse,81.0,683.0,NC,mutant,4.0,,90.0
+1535,F,GBM,4.0,,NON METHYLE,NORMAL,NORMAL,NORMAL,,,PERTE,NON PERTE,A,G,exérèse,68.0,707.0,wt,,4.0,0.0,
+1536,F,GBM,2.0,NC,,NORMAL,,,NORMAL,,,NON PERTE,A,D,biopsie,60.0,131.0,wt,mutant,,,90.0
+1537,F,GBM,2.0,NC,,,NORMAL,NORMAL,NORMAL,,NON PERTE,,N,D,biopsie,57.0,203.0,wt,mutant,,,80.0
+1538,M,astrocytome,4.0,NC,,NORMAL,NORMAL,NORMAL,,,PERTE,PERTE,A,G,exérèse,75.0,402.0,wt,wt,3.0,0.0,
+1539,F,GBM,4.0,NC,,NORMAL,,,,,,,A,D,exérèse,54.0,6221.0,NC,mutant,4.0,0.0,
+1540,F,oligo,4.0,NC,,,,,NORMAL,,,,A,D,exérèse,46.0,193.0,wt,mutant,4.0,1.0,
+1541,F,oligo,2.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,PERTE,,A,D,biopsie,57.0,1063.0,NC,mutant,4.0,0.0,80.0
+1542,F,GBM,3.0,NC,,,NORMAL,NORMAL,,,NON PERTE,,A,D,exérèse,57.0,175.0,wt,,4.0,,
+1543,M,GBM,3.0,ALTERE,,,,NORMAL,,,PERTE,,A,D,partielle,60.0,496.0,wt,mutant,,,90.0
+1544,M,astrocytome,3.0,NC,,,,NORMAL,NORMAL,,,,A,G,exérèse,25.0,653.0,wt,,,0.0,90.0
+1545,M,oligo,4.0,NC,,,,,,,,NON PERTE,A,G,partielle,46.0,220.0,NC,,3.0,,70.0
+1546,F,gliome,4.0,NC,,NORMAL,,,NORMAL,,,PERTE,A,D,biopsie,63.0,186.0,wt,mutant,3.0,,
+1547,M,GBM,3.0,,METHYLE,NORMAL,,,,,,,A,D,exérèse,90.0,858.0,wt,,4.0,0.0,50.0
+1548,M,astrocytome,3.0,ALTERE,NON METHYLE,,NORMAL,NORMAL,DELETE,,PERTE,GAIN,A,G,aucune,61.0,272.0,wt,,4.0,,100.0
+1549,F,GBM,4.0,,,,NORMAL,NORMAL,,,,,A,D,biopsie,39.0,401.0,NC,mutant,4.0,,
+1550,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,,,,,,A,G,exérèse,54.0,299.0,NC,,,,80.0
+1551,F,GBM,4.0,NC,,NORMAL,NORMAL,,,,NON PERTE,,A,G,exérèse,72.0,1013.0,wt,wt,3.0,0.0,
+1552,M,gliome,4.0,,METHYLE,,NORMAL,NORMAL,,,NON PERTE,NON PERTE,A,bilatéral,partielle,65.0,2076.0,wt,mutant,4.0,,60.0
+1553,M,GBM,4.0,NORMAL,,AMPLIFIE,,,NORMAL,,,PERTE,A,G,partielle,43.0,4164.0,NC,wt,,,
+1554,M,gliome,4.0,NORMAL,METHYLE,AMPLIFIE,,,NORMAL,,PERTE,PERTE,N,D,exérèse,73.0,623.0,wt,wt,4.0,0.0,
+1555,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,,DELETE,,PERTE,PERTE,A,G,biopsie,83.0,496.0,wt,,,0.0,90.0
+1556,M,oligo,4.0,NC,,,NORMAL,,,,,,A,G,partielle,61.0,323.0,NC,wt,,,
+1557,F,oligo,4.0,,METHYLE,AMPLIFIE,NORMAL,,NORMAL,,NON PERTE,NON PERTE,A,D,biopsie,54.0,584.0,NC,,,,
+1558,M,GBM,3.0,NC,,,,NORMAL,NORMAL,,,NON PERTE,A,G,partielle,52.0,776.0,wt,,4.0,,
+1559,M,oligo,4.0,NC,,,,,,,,,A,D,partielle,33.0,1172.0,wt,,,0.0,70.0
+1560,F,GBM,3.0,NC,NON METHYLE,,NORMAL,,NORMAL,,,NON PERTE,A,G,exérèse,30.0,1585.0,mutant,,4.0,,
+1561,F,GBM,3.0,,,,,NORMAL,,,PERTE,PERTE,A,D,biopsie,70.0,381.0,NC,,,,80.0
+1562,F,GBM,2.0,NC,METHYLE,,,NORMAL,,,PERTE,,B,D,partielle,33.0,428.0,wt,,4.0,,
+1563,M,GBM,4.0,,,,NORMAL,,NORMAL,,,,A,D,biopsie,64.0,593.0,wt,,4.0,0.0,90.0
+1564,M,GBM,4.0,NC,NON METHYLE,,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,G,biopsie,61.0,1229.0,wt,mutant,,0.0,
+1565,M,oligo,4.0,,,NORMAL,NORMAL,NORMAL,DELETE,,NON PERTE,,A,G,partielle,23.0,382.0,wt,mutant,3.0,,
+1566,M,GBM,4.0,NC,METHYLE,,NORMAL,,DELETE,,PERTE,,A,G,exérèse,58.0,1167.0,wt,mutant,,,90.0
+1567,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,,,PERTE,NON PERTE,A,non précisé,biopsie,51.0,298.0,wt,,4.0,0.0,
+1568,M,GBM,4.0,NORMAL,,,NORMAL,NORMAL,,,,,A,G,exérèse,71.0,1056.0,wt,,3.0,,
+1569,F,GBM,4.0,NC,,AMPLIFIE,NORMAL,,,,NON PERTE,,A,bilatéral,exérèse,54.0,262.0,wt,,,,90.0
+1570,F,GBM,4.0,ALTERE,,AMPLIFIE,NORMAL,NORMAL,DELETE,Maintien,,,A,G,biopsie,56.0,1103.0,wt,wt,,,
+1571,M,GBM,4.0,NC,,,NORMAL,,DELETE,,PERTE,,A,D,exérèse,48.0,2248.0,wt,wt,4.0,,20.0
+1572,M,GBM,4.0,NC,,AMPLIFIE,,,DELETE,,NON PERTE,,A,D,biopsie,69.0,898.0,wt,mutant,,,
+1573,F,GBM,4.0,NC,,NORMAL,AMPLIFIE,NORMAL,DELETE,,PERTE,PERTE,A,D,exérèse,66.0,216.0,wt,,3.0,,60.0
+1574,M,astrocytome,4.0,NC,,NORMAL,,NORMAL,DELETE,,PERTE,,A,G,biopsie,53.0,575.0,NC,mutant,4.0,0.0,90.0
+1575,M,GBM,3.0,,,NORMAL,,NORMAL,NORMAL,,NON PERTE,PERTE,A,D,exérèse,58.0,443.0,wt,mutant,4.0,,
+1576,M,gliome,2.0,NC,NON METHYLE,,,,,,NON PERTE,,A,G,exérèse,71.0,3902.0,mutant,,,0.0,
+1577,M,GBM,2.0,NC,,,NORMAL,,DELETE,,PERTE,,A,D,partielle,67.0,375.0,wt,,4.0,0.0,
+1578,F,oligo,4.0,NC,NON METHYLE,NORMAL,,NORMAL,DELETE,,,PERTE,A,bilatéral,partielle,72.0,6897.0,wt,,,,
+1579,F,astrocytome,4.0,NC,NON METHYLE,,,,NORMAL,,,NON PERTE,A,non précisé,biopsie,67.0,3256.0,NC,,,0.0,90.0
+1580,F,GBM,2.0,,,,NORMAL,,DELETE,,NON PERTE,NON PERTE,A,D,partielle,38.0,367.0,wt,mutant,,0.0,
+1581,M,GBM,4.0,NC,METHYLE,NORMAL,,AMPLIFIE,,,NON PERTE,PERTE,A,G,biopsie,66.0,1298.0,wt,wt,3.0,,80.0
+1582,F,astrocytome,4.0,,,,,NORMAL,,,,,A,bilatéral,partielle,63.0,2824.0,NC,wt,4.0,,
+1583,F,oligo,3.0,NC,NON METHYLE,AMPLIFIE,,,NORMAL,,NON PERTE,NON PERTE,A,D,biopsie,51.0,54.0,wt,,4.0,,
+1584,M,astrocytome,4.0,ALTERE,METHYLE,NORMAL,,,,,,NON PERTE,A,D,biopsie,54.0,67.0,wt,,,,
+1585,F,GBM,4.0,NC,,NORMAL,,NORMAL,,,PERTE,NON PERTE,A,G,partielle,34.0,2536.0,wt,wt,3.0,0.0,70.0
+1586,F,oligo,4.0,NC,,NORMAL,,NORMAL,,,,NON PERTE,A,D,aucune,44.0,192.0,wt,wt,4.0,,70.0
+1587,F,GBM,2.0,ALTERE,,,NORMAL,NORMAL,NORMAL,,,,A,D,partielle,48.0,157.0,wt,mutant,3.0,,
+1588,F,astrocytome,4.0,ALTERE,,NORMAL,NORMAL,,DELETE,Maintien,PERTE,,A,G,biopsie,54.0,4353.0,wt,mutant,4.0,,80.0
+1589,F,gliome,2.0,NC,NON METHYLE,,,,,Maintien,PERTE,,A,G,exérèse,33.0,53.0,wt,mutant,2.0,0.0,
+1590,F,GBM,4.0,,,NORMAL,,NORMAL,,,NON PERTE,NON PERTE,A,G,exérèse,49.0,195.0,mutant,mutant,3.0,1.0,80.0
+1591,M,GBM,4.0,NC,,,NORMAL,,,,NON PERTE,NON PERTE,A,bilatéral,partielle,58.0,1679.0,wt,wt,4.0,,100.0
+1592,F,GBM,2.0,NC,,NORMAL,NORMAL,,DELETE,Maintien,,,A,non précisé,biopsie,48.0,371.0,wt,mutant,4.0,,
+1593,M,oligo,4.0,NC,,,,,NORMAL,,,,A,non précisé,partielle,52.0,1079.0,NC,mutant,,1.0,
+1594,M,oligo,4.0,NC,,,NORMAL,NORMAL,,,NON PERTE,,A,G,biopsie,54.0,3741.0,mutant,,3.0,0.0,
+1595,M,oligo,4.0,NC,METHYLE,,AMPLIFIE,,,,PERTE,,A,G,exérèse,80.0,890.0,NC,mutant,4.0,,
+1596,F,astrocytome,4.0,,,,NORMAL,NORMAL,,,,PERTE,A,bilatéral,partielle,36.0,618.0,wt,mutant,4.0,0.0,60.0
+1597,M,oligo,2.0,NC,,AMPLIFIE,,NORMAL,,,PERTE,,A,bilatéral,partielle,47.0,1096.0,wt,mutant,2.0,0.0,
+1598,M,astrocytome,2.0,NC,,AMPLIFIE,NORMAL,,,,,,A,G,exérèse,43.0,271.0,NC,mutant,4.0,0.0,
+1599,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,,,A,G,exérèse,21.0,46.0,wt,,3.0,,
+1600,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,NON PERTE,,A,G,exérèse,50.0,766.0,wt,wt,2.0,0.0,
+1601,M,GBM,4.0,,,NORMAL,NORMAL,,NORMAL,,,GAIN,A,G,exérèse,44.0,313.0,wt,wt,,,
+1602,F,astrocytome,4.0,,METHYLE,,,,,,,GAIN,A,D,exérèse,40.0,624.0,wt,,,,70.0
+1603,M,GBM,4.0,NC,METHYLE,,NORMAL,NORMAL,,,NON PERTE,NON PERTE,A,G,partielle,53.0,1264.0,wt,mutant,,,60.0
+1604,F,GBM,2.0,,,NORMAL,NORMAL,,,,,,A,D,biopsie,54.0,196.0,NC,mutant,4.0,,
+1605,M,GBM,3.0,NC,,AMPLIFIE,,NORMAL,,,,PERTE,A,D,exérèse,74.0,727.0,wt,,4.0,0.0,
+1606,F,oligo,3.0,,,,NORMAL,NORMAL,,,,NON PERTE,A,D,exérèse,48.0,791.0,NC,,4.0,,
+1607,F,astrocytome,4.0,NC,,AMPLIFIE,,,,extinction,,NON PERTE,A,G,exérèse,47.0,701.0,mutant,mutant,4.0,0.0,
+1608,M,GBM,1.0,NC,,,,AMPLIFIE,,,,,A,G,exérèse,34.0,418.0,wt,mutant,4.0,0.0,80.0
+1609,F,GBM,4.0,NORMAL,,,,NORMAL,,,PERTE,,B,D,biopsie,70.0,205.0,wt,mutant,3.0,0.0,
+1610,F,oligo,1.0,,,,AMPLIFIE,NORMAL,,,,PERTE,A,G,partielle,16.0,1548.0,NC,mutant,4.0,,
+1611,M,GBM,3.0,NC,,NORMAL,NORMAL,,DELETE,,,NON PERTE,A,non précisé,partielle,32.0,500.0,wt,wt,3.0,0.0,
+1612,F,GBM,4.0,NC,,NORMAL,,NORMAL,,,,NON PERTE,N,non précisé,biopsie,54.0,526.0,wt,wt,4.0,0.0,
+1613,M,GBM,2.0,NORMAL,,NORMAL,NORMAL,,NORMAL,,,NON PERTE,A,bilatéral,exérèse,54.0,603.0,wt,mutant,,0.0,
+1614,M,GBM,2.0,NC,,,,,,,PERTE,NON PERTE,A,G,biopsie,25.0,770.0,wt,mutant,4.0,,
+1615,M,gliome,2.0,NORMAL,METHYLE,AMPLIFIE,NORMAL,,NORMAL,,,PERTE,A,D,exérèse,38.0,822.0,wt,wt,,0.0,
+1616,M,GBM,4.0,ALTERE,,,,,NORMAL,,PERTE,NON PERTE,A,D,aucune,80.0,162.0,wt,,,1.0,
+1617,M,GBM,4.0,NORMAL,,NORMAL,,,,,NON PERTE,,A,G,partielle,30.0,621.0,wt,,3.0,0.0,90.0
+1618,M,GBM,4.0,,,,AMPLIFIE,,DELETE,,PERTE,,A,G,partielle,67.0,481.0,wt,,3.0,,
+1619,F,oligo,3.0,NC,,,AMPLIFIE,,DELETE,,PERTE,,A,G,biopsie,26.0,3336.0,NC,mutant,4.0,0.0,
+1620,M,GBM,3.0,NC,,,NORMAL,NORMAL,,,PERTE,PERTE,A,D,biopsie,42.0,258.0,wt,mutant,,,90.0
+1621,F,GBM,3.0,NORMAL,,NORMAL,NORMAL,,,,,PERTE,A,G,biopsie,34.0,310.0,wt,mutant,4.0,,70.0
+1622,M,astrocytome,4.0,NC,METHYLE,,AMPLIFIE,NORMAL,NORMAL,,,,A,G,partielle,43.0,619.0,mutant,,4.0,,
+1623,F,GBM,3.0,NC,,AMPLIFIE,AMPLIFIE,,,,PERTE,NON PERTE,A,D,biopsie,63.0,47.0,mutant,,3.0,,90.0
+1624,M,GBM,4.0,NC,METHYLE,NORMAL,NORMAL,,NORMAL,,,,A,G,partielle,51.0,3807.0,wt,mutant,,0.0,
+1625,M,GBM,4.0,NC,METHYLE,,NORMAL,,,,NON PERTE,PERTE,A,G,biopsie,50.0,2344.0,wt,,,0.0,
+1626,F,gliome,3.0,,,,NORMAL,NORMAL,,,,,A,G,partielle,62.0,441.0,wt,,3.0,0.0,
+1627,F,astrocytome,4.0,,,NORMAL,NORMAL,AMPLIFIE,DELETE,,NON PERTE,,A,G,biopsie,58.0,872.0,wt,,,,80.0
+1628,M,GBM,4.0,,METHYLE,NORMAL,,,NORMAL,,,,A,G,partielle,46.0,578.0,NC,wt,4.0,,70.0
+1629,M,GBM,4.0,NC,,,NORMAL,AMPLIFIE,,,PERTE,NON PERTE,A,G,exérèse,55.0,5397.0,wt,,3.0,,80.0
+1630,F,gliome,2.0,NC,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,D,biopsie,46.0,105.0,wt,wt,,,80.0
+1631,F,GBM,4.0,,,,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,partielle,47.0,2388.0,wt,,4.0,,
+1632,F,oligo,2.0,NC,,,NORMAL,NORMAL,,,,,A,D,biopsie,48.0,3320.0,wt,mutant,3.0,,
+1633,F,GBM,3.0,NC,NON METHYLE,,NORMAL,,NORMAL,,,,A,bilatéral,partielle,32.0,196.0,wt,mutant,,0.0,
+1634,M,gliome,4.0,NC,,,,NORMAL,,,,,A,G,exérèse,76.0,1178.0,mutant,mutant,3.0,0.0,
+1635,M,GBM,3.0,,,,NORMAL,,NORMAL,,PERTE,,A,G,biopsie,59.0,305.0,mutant,wt,4.0,,70.0
+1636,M,astrocytome,3.0,NC,NON METHYLE,,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,G,partielle,48.0,1257.0,wt,,3.0,0.0,
+1637,M,oligo,4.0,,,AMPLIFIE,,NORMAL,,,,NON PERTE,A,G,exérèse,65.0,190.0,wt,mutant,4.0,0.0,100.0
+1638,M,astrocytome,3.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,non précisé,partielle,53.0,243.0,mutant,wt,,0.0,
+1639,M,oligo,2.0,NC,,,NORMAL,,,Maintien,NON PERTE,,A,non précisé,exérèse,33.0,592.0,wt,,,,90.0
+1640,M,GBM,4.0,NC,,,,,,,NON PERTE,NON PERTE,A,bilatéral,partielle,43.0,3711.0,mutant,mutant,4.0,,100.0
+1641,M,gliome,2.0,NORMAL,,,,NORMAL,,,,,A,D,partielle,56.0,284.0,wt,mutant,4.0,,90.0
+1642,M,astrocytome,2.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,A,D,partielle,22.0,3575.0,mutant,mutant,4.0,,80.0
+1643,F,GBM,2.0,NC,,NORMAL,AMPLIFIE,,,,NON PERTE,,A,G,partielle,81.0,316.0,wt,,,0.0,
+1644,M,oligo,2.0,,NON METHYLE,AMPLIFIE,NORMAL,NORMAL,DELETE,,NON PERTE,NON PERTE,A,D,partielle,33.0,2198.0,wt,mutant,4.0,,
+1645,M,GBM,3.0,NC,,,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,partielle,45.0,652.0,wt,mutant,,0.0,
+1646,M,astrocytome,4.0,NC,METHYLE,,,NORMAL,DELETE,,NON PERTE,PERTE,N,D,partielle,56.0,2790.0,NC,mutant,4.0,0.0,
+1647,F,GBM,2.0,NC,,,NORMAL,,NORMAL,,,NON PERTE,B,G,exérèse,69.0,461.0,wt,mutant,3.0,0.0,70.0
+1648,M,GBM,2.0,NC,,,,NORMAL,,,PERTE,,A,G,exérèse,54.0,595.0,wt,mutant,4.0,0.0,60.0
+1649,F,gliome,4.0,NC,NON METHYLE,,,,NORMAL,,,PERTE,A,bilatéral,biopsie,56.0,2704.0,wt,wt,,1.0,80.0
+1650,F,astrocytome,4.0,NC,,NORMAL,,,,,,,A,G,partielle,56.0,161.0,NC,,3.0,,
+1651,M,GBM,3.0,ALTERE,,NORMAL,,NORMAL,NORMAL,,PERTE,NON PERTE,A,D,,68.0,366.0,mutant,mutant,,,
+1652,F,GBM,2.0,NC,,AMPLIFIE,NORMAL,NORMAL,,,NON PERTE,,A,D,biopsie,38.0,461.0,wt,,,,
+1653,M,GBM,2.0,NC,,,NORMAL,NORMAL,,,NON PERTE,PERTE,A,non précisé,biopsie,78.0,577.0,wt,,4.0,,
+1654,F,GBM,4.0,NC,,,NORMAL,NORMAL,,,,PERTE,A,D,biopsie,45.0,1093.0,mutant,wt,,,70.0
+1655,M,gliome,4.0,NC,,,NORMAL,NORMAL,NORMAL,,,,A,G,exérèse,45.0,322.0,mutant,mutant,,0.0,
+1656,M,GBM,2.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,bilatéral,exérèse,79.0,494.0,mutant,wt,3.0,,90.0
+1657,M,gangliogliome,3.0,NC,,AMPLIFIE,NORMAL,NORMAL,,,,,A,D,biopsie,71.0,615.0,wt,,4.0,,90.0
+1658,M,astrocytome,3.0,NC,METHYLE,,,,NORMAL,,NON PERTE,,A,D,partielle,55.0,525.0,NC,wt,4.0,,80.0
+1659,F,gliome,3.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,N,D,biopsie,67.0,528.0,wt,mutant,3.0,,
+1660,F,GBM,4.0,NC,METHYLE,AMPLIFIE,NORMAL,,NORMAL,,NON PERTE,,A,D,biopsie,62.0,1120.0,NC,mutant,3.0,,80.0
+1661,M,GBM,3.0,NC,METHYLE,AMPLIFIE,,,DELETE,,,,A,D,partielle,34.0,611.0,wt,,4.0,,
+1662,F,gliome,2.0,NC,,,NORMAL,NORMAL,DELETE,,,PERTE,A,bilatéral,exérèse,35.0,93.0,wt,,3.0,,
+1663,M,GBM,2.0,NC,,NORMAL,NORMAL,,NORMAL,,NON PERTE,,A,D,exérèse,38.0,1650.0,mutant,mutant,4.0,,
+1664,M,GBM,4.0,,METHYLE,NORMAL,,NORMAL,,,PERTE,,N,D,partielle,53.0,612.0,wt,wt,4.0,0.0,90.0
+1665,M,GBM,4.0,NC,,,NORMAL,,,,NON PERTE,,A,D,exérèse,53.0,260.0,wt,mutant,3.0,,80.0
+1666,M,GBM,3.0,NC,,,NORMAL,,DELETE,,,NON PERTE,A,D,aucune,47.0,329.0,mutant,mutant,3.0,,90.0
+1667,M,GBM,4.0,NC,,,,NORMAL,NORMAL,,NON PERTE,PERTE,A,D,biopsie,38.0,877.0,wt,wt,3.0,0.0,80.0
+1668,M,oligo,2.0,NORMAL,METHYLE,AMPLIFIE,NORMAL,,,,,NON PERTE,A,D,biopsie,53.0,487.0,wt,,,0.0,70.0
+1669,M,astrocytome,2.0,,,NORMAL,,,,,,PERTE,A,D,partielle,51.0,4139.0,wt,mutant,4.0,0.0,70.0
+1670,M,gliome,2.0,NC,,,,NORMAL,,,,PERTE,A,G,biopsie,53.0,84.0,wt,mutant,4.0,,
+1671,M,GBM,3.0,NC,,,,,,,,,A,G,exérèse,45.0,799.0,mutant,,4.0,0.0,
+1672,M,oligo,3.0,NORMAL,METHYLE,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,biopsie,47.0,860.0,wt,,4.0,0.0,60.0
+1673,M,gliome,2.0,NC,,NORMAL,NORMAL,,,,PERTE,NON PERTE,A,G,exérèse,54.0,846.0,NC,,4.0,,
+1674,M,GBM,4.0,NC,,NORMAL,,NORMAL,NORMAL,,,PERTE,A,G,partielle,72.0,506.0,NC,,4.0,,
+1675,M,gangliogliome,3.0,NC,METHYLE,AMPLIFIE,NORMAL,NORMAL,,,,,N,G,biopsie,77.0,1858.0,NC,mutant,4.0,,
+1676,M,GBM,2.0,NC,,NORMAL,,NORMAL,NORMAL,,NON PERTE,,A,D,exérèse,42.0,84.0,NC,,4.0,,90.0
+1677,F,oligo,4.0,,NON METHYLE,NORMAL,NORMAL,NORMAL,,,NON PERTE,NON PERTE,A,G,exérèse,49.0,670.0,wt,mutant,3.0,0.0,90.0
+1678,M,oligo,4.0,NC,NON METHYLE,,,,,,PERTE,,A,D,partielle,51.0,665.0,NC,wt,4.0,0.0,
+1679,M,GBM,2.0,,,NORMAL,NORMAL,NORMAL,,,NON PERTE,PERTE,N,G,exérèse,52.0,106.0,wt,mutant,4.0,0.0,80.0
+1680,M,GBM,4.0,,,,NORMAL,NORMAL,DELETE,,PERTE,NON PERTE,A,médian,exérèse,65.0,57.0,wt,,4.0,,90.0
+1681,M,astrocytome,4.0,NC,METHYLE,,NORMAL,,,,PERTE,,A,D,biopsie,75.0,3082.0,mutant,mutant,4.0,,
+1682,F,GBM,4.0,,NON METHYLE,,NORMAL,NORMAL,NORMAL,,,,A,D,biopsie,71.0,283.0,wt,mutant,,,80.0
+1683,F,gliome,4.0,NORMAL,,,,,NORMAL,,PERTE,NON PERTE,A,D,partielle,51.0,531.0,NC,mutant,,0.0,
+1684,F,GBM,4.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,,A,D,biopsie,73.0,779.0,wt,wt,4.0,,80.0
+1685,M,gliome,3.0,NC,,,,,,,NON PERTE,,N,G,biopsie,81.0,463.0,wt,,4.0,0.0,90.0
+1686,M,gliome,4.0,NC,,,NORMAL,,,,,,A,G,biopsie,26.0,208.0,wt,mutant,,,80.0
+1687,F,oligo,4.0,NC,,,NORMAL,,,,,,A,D,,43.0,1436.0,wt,,,,80.0
+1688,F,astrocytome,4.0,NC,,,NORMAL,,,,PERTE,PERTE,A,G,partielle,52.0,279.0,mutant,mutant,4.0,,70.0
+1689,M,GBM,4.0,NC,,NORMAL,,,,,NON PERTE,NON PERTE,A,G,biopsie,27.0,580.0,wt,,4.0,,70.0
+1690,F,astrocytome pilocytique,3.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,,,PERTE,PERTE,A,G,biopsie,47.0,700.0,wt,mutant,,,80.0
+1691,M,GBM,3.0,NC,,,NORMAL,NORMAL,DELETE,,,,A,G,partielle,35.0,500.0,wt,,,,
+1692,M,oligo,4.0,,METHYLE,AMPLIFIE,NORMAL,NORMAL,,,,,A,G,biopsie,64.0,2537.0,NC,mutant,4.0,,
+1693,F,oligo,4.0,ALTERE,,NORMAL,,NORMAL,NORMAL,,,NON PERTE,A,D,exérèse,58.0,33.0,wt,,4.0,,80.0
+1694,M,GBM,4.0,,,,NORMAL,,,,,PERTE,A,D,biopsie,62.0,1525.0,wt,,,0.0,
+1695,M,GBM,4.0,ALTERE,,NORMAL,,NORMAL,,,PERTE,NON PERTE,A,D,biopsie,48.0,5851.0,wt,mutant,3.0,,80.0
+1696,F,GBM,2.0,NC,,NORMAL,,,NORMAL,,,,A,G,biopsie,51.0,358.0,wt,mutant,,0.0,
+1697,M,GBM,4.0,NC,,,NORMAL,,,,PERTE,,A,D,exérèse,50.0,336.0,wt,,,,
+1698,M,gliome,4.0,NORMAL,,,,AMPLIFIE,NORMAL,,,,A,D,exérèse,21.0,1513.0,wt,,2.0,,
+1699,F,GBM,3.0,NC,NON METHYLE,,NORMAL,AMPLIFIE,NORMAL,,,,A,G,partielle,66.0,172.0,wt,mutant,4.0,,60.0
+1700,M,oligo,4.0,NC,,,NORMAL,NORMAL,NORMAL,,,,A,D,biopsie,23.0,119.0,wt,,,,
+1701,M,oligo,4.0,,,,NORMAL,,NORMAL,,,,A,G,biopsie,58.0,474.0,wt,mutant,4.0,,
+1702,F,GBM,4.0,NC,,NORMAL,,,,,PERTE,NON PERTE,A,D,partielle,55.0,2554.0,wt,,,,
+1703,F,astrocytome,2.0,NC,,,,,DELETE,,,NON PERTE,A,bilatéral,partielle,59.0,710.0,wt,mutant,4.0,0.0,
+1704,F,GBM,4.0,NC,,,,,,,PERTE,,A,non précisé,partielle,56.0,246.0,mutant,mutant,,0.0,
+1705,M,GBM,3.0,,,,,,,,NON PERTE,,A,G,exérèse,23.0,145.0,NC,,,,100.0
+1706,M,GBM,4.0,NC,,,NORMAL,,,,NON PERTE,PERTE,A,G,partielle,60.0,158.0,wt,mutant,4.0,0.0,
+1707,M,GBM,4.0,,,NORMAL,NORMAL,,,,NON PERTE,,A,G,exérèse,37.0,2031.0,NC,,4.0,,90.0
+1708,M,GBM,4.0,NC,NON METHYLE,,NORMAL,NORMAL,NORMAL,,,,A,bilatéral,exérèse,45.0,243.0,wt,mutant,,0.0,
+1709,M,GBM,4.0,NC,,NORMAL,,,,,,PERTE,N,bilatéral,biopsie,23.0,177.0,wt,mutant,,0.0,90.0
+1710,M,GBM,4.0,NC,,AMPLIFIE,,NORMAL,,,NON PERTE,PERTE,A,non précisé,biopsie,58.0,1937.0,wt,wt,4.0,0.0,90.0
+1711,M,oligo,4.0,,,,NORMAL,,NORMAL,,,PERTE,A,D,biopsie,28.0,150.0,wt,,4.0,0.0,40.0
+1712,F,GBM,4.0,NC,METHYLE,,NORMAL,,,,NON PERTE,,A,D,partielle,56.0,318.0,wt,,,,
+1713,F,astrocytome,2.0,NORMAL,,NORMAL,NORMAL,NORMAL,DELETE,,PERTE,,A,G,biopsie,44.0,922.0,NC,,3.0,0.0,90.0
+1714,F,GBM,2.0,,,,,,,,,NON PERTE,A,G,partielle,24.0,272.0,mutant,mutant,3.0,,
+1715,F,oligo,4.0,NORMAL,NON METHYLE,,,,,,NON PERTE,,A,G,exérèse,46.0,3089.0,wt,mutant,,0.0,
+1716,F,oligo,3.0,,METHYLE,NORMAL,,,,,,PERTE,C,D,exérèse,35.0,315.0,mutant,mutant,4.0,,80.0
+1717,F,GBM,2.0,,,,NORMAL,NORMAL,,,PERTE,NON PERTE,A,D,partielle,57.0,28.0,NC,,4.0,,
+1718,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,,,NON PERTE,PERTE,A,G,biopsie,52.0,639.0,wt,,3.0,,80.0
+1719,F,gliome,4.0,,,,,,,,,NON PERTE,A,G,partielle,49.0,2319.0,wt,,4.0,0.0,90.0
+1720,M,GBM,2.0,,,,,NORMAL,NORMAL,,,PERTE,A,G,partielle,61.0,242.0,wt,mutant,3.0,,70.0
+1721,M,GBM,4.0,NC,,,,,,,,NON PERTE,A,G,partielle,46.0,438.0,mutant,wt,,,60.0
+1722,F,GBM,4.0,NORMAL,,,NORMAL,AMPLIFIE,NORMAL,,PERTE,,A,G,biopsie,65.0,1.0,NC,wt,,,90.0
+1723,F,oligo,2.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,PERTE,,A,G,partielle,69.0,9.0,mutant,wt,4.0,0.0,90.0
+1724,M,GBM,4.0,,,AMPLIFIE,,NORMAL,,,,,A,D,partielle,44.0,785.0,wt,mutant,4.0,,80.0
+1725,F,GBM,4.0,,NON METHYLE,NORMAL,,NORMAL,NORMAL,,,,A,G,partielle,50.0,1389.0,wt,,3.0,,80.0
+1726,F,oligo,3.0,NC,,NORMAL,,NORMAL,NORMAL,,NON PERTE,,A,G,partielle,55.0,187.0,mutant,mutant,3.0,,
+1727,F,GBM,2.0,,,,,NORMAL,,,,,A,G,biopsie,86.0,1255.0,wt,mutant,,0.0,80.0
+1728,F,GBM,4.0,NC,,NORMAL,NORMAL,,,,,,A,G,exérèse,32.0,455.0,NC,mutant,,0.0,
+1729,M,GBM,4.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,bilatéral,exérèse,41.0,1372.0,NC,,,,
+1730,M,gliome,4.0,NC,NON METHYLE,,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,G,partielle,67.0,490.0,mutant,,4.0,0.0,80.0
+1731,M,oligo,4.0,NORMAL,NON METHYLE,NORMAL,,,,,,,A,,partielle,51.0,1134.0,NC,mutant,,,80.0
+1732,F,oligo,4.0,NC,NON METHYLE,,,NORMAL,,Maintien,,,A,G,biopsie,65.0,1230.0,wt,wt,4.0,0.0,
+1733,M,GBM,3.0,NC,METHYLE,,NORMAL,NORMAL,,,,NON PERTE,A,bilatéral,biopsie,45.0,372.0,wt,wt,4.0,0.0,80.0
+1734,F,GBM,2.0,NC,NON METHYLE,,NORMAL,NORMAL,NORMAL,,,PERTE,A,D,exérèse,33.0,1475.0,NC,mutant,,0.0,80.0
+1735,F,GBM,4.0,NC,,,,NORMAL,,,NON PERTE,,A,G,partielle,53.0,378.0,wt,wt,,,60.0
+1736,M,GBM,4.0,NC,NON METHYLE,NORMAL,,,,,NON PERTE,,A,D,biopsie,83.0,415.0,NC,,4.0,0.0,80.0
+1737,M,oligo,3.0,NC,NON METHYLE,NORMAL,NORMAL,,,,,,A,G,biopsie,46.0,3800.0,wt,mutant,,,
+1738,M,GBM,4.0,NORMAL,,,,NORMAL,,,PERTE,NON PERTE,A,D,biopsie,51.0,2340.0,wt,wt,,0.0,
+1739,M,oligo,4.0,NC,,,NORMAL,,NORMAL,,NON PERTE,,A,D,exérèse,69.0,2187.0,NC,mutant,4.0,,
+1740,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,NON PERTE,NON PERTE,A,D,exérèse,38.0,476.0,mutant,mutant,3.0,,
+1741,M,GBM,4.0,NC,,,AMPLIFIE,,NORMAL,,,NON PERTE,A,G,exérèse,69.0,430.0,mutant,wt,4.0,,
+1742,F,GBM,3.0,NC,,,NORMAL,,NORMAL,,PERTE,NON PERTE,A,D,exérèse,27.0,1021.0,wt,,,,80.0
+1743,M,astrocytome,4.0,NORMAL,NON METHYLE,NORMAL,NORMAL,,NORMAL,,NON PERTE,NON PERTE,A,G,biopsie,50.0,112.0,wt,,4.0,,
+1744,M,GBM,2.0,,METHYLE,NORMAL,,NORMAL,,,,,A,G,partielle,68.0,4839.0,wt,,4.0,0.0,
+1745,M,GBM,4.0,NC,,NORMAL,,,DELETE,,,PERTE,A,non précisé,exérèse,68.0,156.0,wt,,4.0,0.0,
+1746,F,oligo,2.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,NON PERTE,PERTE,A,G,biopsie,59.0,1724.0,wt,,4.0,,90.0
+1747,M,GBM,3.0,NC,METHYLE,NORMAL,,,,,NON PERTE,PERTE,A,G,exérèse,56.0,486.0,wt,,3.0,,
+1748,M,GBM,4.0,NC,,,,NORMAL,NORMAL,,,,A,G,partielle,50.0,174.0,wt,,4.0,0.0,
+1749,M,GBM,3.0,NC,,,NORMAL,,NORMAL,,,,A,D,partielle,59.0,580.0,wt,mutant,3.0,0.0,90.0
+1750,M,GBM,4.0,NC,,,,,,,NON PERTE,,A,G,biopsie,29.0,452.0,mutant,,4.0,0.0,90.0
+1751,F,astrocytome,3.0,NC,,AMPLIFIE,,NORMAL,,,PERTE,,A,non précisé,biopsie,65.0,24.0,NC,,3.0,,40.0
+1752,M,GBM,3.0,NC,METHYLE,,,,NORMAL,,,,A,D,biopsie,72.0,1020.0,wt,mutant,,,
+1753,M,gliome,3.0,NORMAL,NON METHYLE,NORMAL,,,NORMAL,,,,A,G,aucune,49.0,850.0,wt,mutant,4.0,1.0,80.0
+1754,M,GBM,4.0,,,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,D,biopsie,55.0,664.0,wt,mutant,,,80.0
+1755,M,oligo,4.0,NC,METHYLE,,,,,,,PERTE,A,D,exérèse,36.0,527.0,NC,,4.0,,80.0
+1756,M,astrocytome,4.0,NORMAL,METHYLE,,,NORMAL,NORMAL,,,PERTE,A,G,exérèse,67.0,592.0,wt,,,,
+1757,M,gliome,4.0,NC,,AMPLIFIE,,NORMAL,,,NON PERTE,PERTE,B,D,biopsie,51.0,307.0,mutant,mutant,,,
+1758,M,GBM,3.0,NC,,,NORMAL,,DELETE,,NON PERTE,,A,G,exérèse,69.0,491.0,wt,mutant,4.0,0.0,60.0
+1759,M,GBM,3.0,NORMAL,,NORMAL,,,,,PERTE,,A,D,biopsie,31.0,946.0,wt,,,,80.0
+1760,F,GBM,4.0,NC,,,,,NORMAL,,,,A,D,exérèse,21.0,135.0,mutant,mutant,4.0,,
+1761,M,oligo,2.0,NC,NON METHYLE,,NORMAL,NORMAL,,,PERTE,,A,G,biopsie,44.0,1726.0,mutant,,4.0,,70.0
+1762,F,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,,,A,G,biopsie,47.0,420.0,wt,mutant,4.0,,
+1763,M,astrocytome,4.0,NC,,NORMAL,,,NORMAL,,NON PERTE,NON PERTE,A,D,exérèse,36.0,108.0,wt,wt,,,90.0
+1764,F,GBM,4.0,NC,,NORMAL,NORMAL,,,,,,A,G,partielle,48.0,422.0,mutant,,4.0,0.0,90.0
+1765,F,GBM,4.0,NORMAL,,AMPLIFIE,,,NORMAL,,,,A,D,exérèse,68.0,115.0,wt,,,0.0,
+1766,M,oligo,4.0,ALTERE,NON METHYLE,NORMAL,NORMAL,NORMAL,,,NON PERTE,,A,D,exérèse,41.0,56.0,wt,mutant,,0.0,90.0
+1767,M,GBM,4.0,NC,METHYLE,,NORMAL,NORMAL,DELETE,,,,A,G,biopsie,44.0,420.0,wt,,3.0,0.0,
+1768,M,oligo,4.0,NC,,,AMPLIFIE,,NORMAL,,,PERTE,A,G,partielle,72.0,353.0,wt,,3.0,,90.0
+1769,M,astrocytome,4.0,NORMAL,,,NORMAL,,NORMAL,,,,A,G,biopsie,30.0,72.0,wt,mutant,4.0,0.0,
+1770,M,astrocytome,4.0,NC,,NORMAL,,NORMAL,NORMAL,,PERTE,,A,D,partielle,62.0,293.0,wt,mutant,3.0,0.0,100.0
+1771,F,GBM,4.0,,,NORMAL,,NORMAL,NORMAL,,PERTE,GAIN,A,G,partielle,32.0,1407.0,wt,mutant,4.0,,
+1772,M,oligo,2.0,NORMAL,,,NORMAL,NORMAL,,,NON PERTE,NON PERTE,A,D,biopsie,42.0,541.0,mutant,,3.0,0.0,90.0
+1773,M,gliome,3.0,NC,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,G,biopsie,58.0,200.0,wt,wt,3.0,,
+1774,F,GBM,4.0,,METHYLE,,NORMAL,,DELETE,,,PERTE,A,G,biopsie,70.0,726.0,NC,mutant,,,
+1775,F,oligo,4.0,NC,METHYLE,,NORMAL,,,,,NON PERTE,A,D,biopsie,53.0,8939.0,NC,mutant,4.0,1.0,
+1776,M,astrocytome,4.0,NC,NON METHYLE,NORMAL,NORMAL,,,,,,A,D,exérèse,62.0,1378.0,NC,mutant,3.0,0.0,70.0
+1777,M,GBM,4.0,,,,,NORMAL,,,PERTE,,A,G,biopsie,77.0,396.0,wt,,4.0,0.0,
+1778,M,GBM,3.0,NC,,NORMAL,NORMAL,,,,NON PERTE,,A,G,exérèse,51.0,256.0,mutant,,,,80.0
+1779,M,oligo,4.0,NC,,,NORMAL,,,,PERTE,PERTE,A,médian,exérèse,72.0,116.0,NC,wt,4.0,0.0,80.0
+1780,F,GBM,4.0,,,NORMAL,NORMAL,,,,,GAIN,A,G,biopsie,64.0,240.0,wt,,4.0,,
+1781,M,oligo,4.0,NC,,NORMAL,AMPLIFIE,,,,,,A,D,partielle,44.0,1838.0,mutant,mutant,4.0,0.0,
+1782,M,oligo,4.0,NC,,,,NORMAL,DELETE,,PERTE,PERTE,A,G,biopsie,71.0,1142.0,wt,,4.0,0.0,90.0
+1783,F,GBM,3.0,ALTERE,,,,NORMAL,,,PERTE,,A,D,biopsie,48.0,463.0,wt,mutant,,1.0,80.0
+1784,F,oligo,3.0,NC,,,NORMAL,,NORMAL,,NON PERTE,,N,non précisé,partielle,62.0,516.0,mutant,,4.0,,
+1785,M,GBM,2.0,NC,,NORMAL,,NORMAL,,,NON PERTE,PERTE,A,G,partielle,78.0,994.0,wt,wt,,,80.0
+1786,F,GBM,3.0,NC,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,médian,biopsie,58.0,2598.0,wt,,,,
+1787,F,GBM,2.0,NC,,,,NORMAL,NORMAL,,,NON PERTE,B,D,biopsie,48.0,208.0,wt,,4.0,,90.0
+1788,F,gliome,4.0,NC,,NORMAL,,NORMAL,,,,,A,D,biopsie,47.0,527.0,mutant,wt,4.0,,80.0
+1789,M,oligo,3.0,,NON METHYLE,NORMAL,,,NORMAL,,PERTE,,A,D,exérèse,53.0,582.0,wt,mutant,3.0,,
+1790,M,GBM,4.0,NC,,,NORMAL,NORMAL,,,PERTE,GAIN,A,D,partielle,51.0,1632.0,mutant,mutant,3.0,,
+1791,M,oligo,3.0,NC,,,NORMAL,AMPLIFIE,,,,,A,D,exérèse,53.0,257.0,mutant,mutant,4.0,,
+1792,F,oligo,3.0,,METHYLE,NORMAL,NORMAL,,DELETE,,PERTE,NON PERTE,A,G,exérèse,51.0,476.0,wt,wt,,0.0,90.0
+1793,M,gliome,4.0,NORMAL,NON METHYLE,AMPLIFIE,,,,,NON PERTE,NON PERTE,A,G,exérèse,53.0,273.0,wt,wt,4.0,,
+1794,M,GBM,3.0,NC,,,,,NORMAL,,PERTE,,A,D,exérèse,48.0,459.0,NC,wt,4.0,0.0,
+1795,M,GBM,2.0,,,,,,NORMAL,,PERTE,,A,D,aucune,26.0,510.0,wt,mutant,4.0,0.0,80.0
+1796,F,GBM,4.0,NC,,,,NORMAL,NORMAL,,,,A,non précisé,biopsie,55.0,258.0,wt,,,,
+1797,F,GBM,4.0,NC,,AMPLIFIE,,,,,,,A,D,exérèse,80.0,368.0,wt,mutant,,,
+1798,M,GBM,3.0,NC,,,,NORMAL,NORMAL,,NON PERTE,,A,G,aucune,72.0,986.0,wt,mutant,4.0,0.0,
+1799,M,GBM,4.0,NC,,AMPLIFIE,,,NORMAL,,,NON PERTE,A,bilatéral,exérèse,25.0,1765.0,mutant,,3.0,,100.0
+1800,F,oligo,4.0,NC,METHYLE,,,,NORMAL,,NON PERTE,NON PERTE,A,non précisé,exérèse,69.0,740.0,wt,,,,80.0
+1801,F,GBM,3.0,NC,,NORMAL,NORMAL,,DELETE,,NON PERTE,,A,G,biopsie,38.0,451.0,wt,,4.0,0.0,80.0
+1802,F,gliome,4.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,G,biopsie,69.0,3112.0,mutant,,3.0,0.0,
+1803,M,oligo,4.0,NC,METHYLE,NORMAL,NORMAL,AMPLIFIE,NORMAL,,,,B,G,exérèse,53.0,613.0,NC,mutant,3.0,0.0,
+1804,F,gliome,3.0,NC,,NORMAL,,,NORMAL,,NON PERTE,PERTE,A,G,partielle,81.0,3349.0,wt,wt,4.0,0.0,
+1805,M,GBM,3.0,,,AMPLIFIE,NORMAL,,,,PERTE,,A,G,biopsie,57.0,869.0,wt,,4.0,,80.0
+1806,M,oligo,4.0,,,NORMAL,AMPLIFIE,NORMAL,NORMAL,,NON PERTE,PERTE,A,D,exérèse,65.0,191.0,wt,,4.0,0.0,
+1807,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,,,,,A,G,exérèse,61.0,4838.0,mutant,,,,60.0
+1808,M,astrocytome,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,PERTE,A,D,exérèse,66.0,1059.0,wt,,,0.0,
+1809,F,GBM,3.0,NC,,NORMAL,NORMAL,,,,,,A,G,exérèse,71.0,400.0,wt,,3.0,,90.0
+1810,F,GBM,4.0,NC,METHYLE,,NORMAL,NORMAL,,,,NON PERTE,A,D,exérèse,43.0,995.0,wt,mutant,4.0,,80.0
+1811,M,GBM,4.0,,METHYLE,NORMAL,,AMPLIFIE,DELETE,,,NON PERTE,A,D,exérèse,68.0,907.0,wt,mutant,,0.0,80.0
+1812,M,GBM,2.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,biopsie,31.0,4301.0,wt,mutant,4.0,,
+1813,F,gliome,3.0,,,,,,DELETE,,,NON PERTE,A,G,biopsie,32.0,566.0,mutant,wt,3.0,,80.0
+1814,F,GBM,3.0,NC,,NORMAL,,NORMAL,,,,,A,non précisé,exérèse,37.0,5584.0,mutant,wt,,0.0,70.0
+1815,M,astrocytome,4.0,,,,NORMAL,NORMAL,,,NON PERTE,PERTE,A,D,partielle,60.0,612.0,wt,wt,,,90.0
+1816,M,GBM,4.0,NC,METHYLE,NORMAL,,,NORMAL,,PERTE,,A,G,partielle,73.0,2799.0,wt,mutant,,,90.0
+1817,M,GBM,4.0,NC,,NORMAL,,,,,PERTE,,A,G,biopsie,36.0,2972.0,wt,wt,4.0,,
+1818,M,GBM,4.0,NC,,NORMAL,,NORMAL,NORMAL,,NON PERTE,NON PERTE,autre,D,biopsie,61.0,509.0,wt,,3.0,,
+1819,F,GBM,4.0,NC,,,,NORMAL,,Maintien,NON PERTE,,A,D,partielle,74.0,1372.0,mutant,,3.0,,
+1820,F,oligo,4.0,NORMAL,,AMPLIFIE,NORMAL,,,,,,A,D,exérèse,71.0,5988.0,wt,mutant,,1.0,
+1821,M,oligo,4.0,NC,METHYLE,NORMAL,,,,,NON PERTE,NON PERTE,A,G,biopsie,41.0,187.0,NC,mutant,3.0,0.0,
+1822,F,GBM,3.0,NC,,NORMAL,,,,,NON PERTE,,N,médian,partielle,30.0,471.0,NC,wt,3.0,0.0,
+1823,M,oligo,4.0,NC,,,,,,,,,A,G,partielle,58.0,390.0,wt,,,0.0,
+1824,F,GBM,3.0,,,NORMAL,,,,Maintien,NON PERTE,NON PERTE,A,non précisé,biopsie,57.0,577.0,mutant,,,0.0,90.0
+1825,F,GBM,3.0,NC,,AMPLIFIE,NORMAL,,DELETE,,,,A,D,partielle,45.0,298.0,wt,mutant,,,
+1826,M,GBM,4.0,ALTERE,,NORMAL,NORMAL,NORMAL,,,,PERTE,A,G,partielle,74.0,526.0,wt,,4.0,0.0,
+1827,M,GBM,2.0,NC,METHYLE,,NORMAL,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,D,partielle,62.0,577.0,NC,,,,
+1828,F,GBM,4.0,,,AMPLIFIE,,,DELETE,,,,A,D,biopsie,70.0,818.0,wt,mutant,,,
+1829,M,GBM,3.0,NC,METHYLE,AMPLIFIE,,NORMAL,NORMAL,,,PERTE,A,G,biopsie,47.0,1114.0,wt,,3.0,0.0,
+1830,F,GBM,4.0,,NON METHYLE,,NORMAL,NORMAL,NORMAL,,PERTE,PERTE,B,G,exérèse,55.0,3354.0,mutant,,,0.0,90.0
+1831,M,GBM,4.0,NC,METHYLE,,,,,,,,A,,biopsie,54.0,31.0,wt,mutant,3.0,0.0,70.0
+1832,F,GBM,3.0,,,NORMAL,NORMAL,,NORMAL,,NON PERTE,,A,G,biopsie,34.0,250.0,NC,,4.0,0.0,
+1833,M,GBM,4.0,NORMAL,,NORMAL,NORMAL,,,,,GAIN,A,G,biopsie,33.0,324.0,mutant,wt,,,
+1834,F,GBM,4.0,NC,,NORMAL,NORMAL,,,,NON PERTE,,A,G,partielle,77.0,942.0,NC,,3.0,,
+1835,M,astrocytome,4.0,NC,,,NORMAL,,NORMAL,,,NON PERTE,A,D,aucune,27.0,5178.0,wt,,4.0,,
+1836,M,oligo,2.0,NC,METHYLE,AMPLIFIE,NORMAL,,,,NON PERTE,,A,G,exérèse,70.0,9473.0,mutant,mutant,3.0,0.0,
+1837,M,GBM,2.0,NC,METHYLE,NORMAL,,,,,NON PERTE,PERTE,A,D,biopsie,73.0,2254.0,wt,wt,3.0,0.0,
+1838,M,gliome,4.0,NC,,,,NORMAL,DELETE,,,,A,D,partielle,49.0,865.0,NC,mutant,,0.0,
+1839,F,GBM,4.0,ALTERE,,AMPLIFIE,NORMAL,NORMAL,DELETE,,,,A,G,biopsie,77.0,651.0,wt,wt,3.0,,60.0
+1840,M,GBM,4.0,,METHYLE,AMPLIFIE,,NORMAL,,,NON PERTE,,A,G,partielle,72.0,701.0,wt,wt,,,80.0
+1841,M,GBM,3.0,NC,METHYLE,,,,,,,GAIN,A,G,biopsie,62.0,308.0,wt,,4.0,0.0,80.0
+1842,M,GBM,3.0,,,,AMPLIFIE,,NORMAL,,,,A,D,exérèse,46.0,837.0,wt,,3.0,,70.0
+1843,M,gliome,4.0,,NON METHYLE,,,NORMAL,,,,PERTE,A,bilatéral,biopsie,31.0,793.0,wt,,4.0,,
+1844,M,astrocytome,4.0,NORMAL,NON METHYLE,,,NORMAL,DELETE,,,,A,G,partielle,53.0,2567.0,wt,,,,
+1845,F,GBM,4.0,NC,,NORMAL,,,DELETE,,,NON PERTE,A,D,partielle,38.0,1350.0,NC,,3.0,,60.0
+1846,M,gliome,2.0,,,NORMAL,,,NORMAL,,,,B,G,biopsie,51.0,186.0,mutant,wt,3.0,,
+1847,M,GBM,4.0,,,NORMAL,,,DELETE,,NON PERTE,PERTE,A,D,partielle,75.0,146.0,NC,,3.0,0.0,80.0
+1848,F,gliome,3.0,NC,,,NORMAL,NORMAL,DELETE,,,,A,D,exérèse,52.0,360.0,wt,,3.0,,100.0
+1849,M,GBM,4.0,NC,,AMPLIFIE,,,DELETE,,,PERTE,A,D,biopsie,66.0,62.0,mutant,,3.0,0.0,
+1850,F,GBM,4.0,,METHYLE,NORMAL,NORMAL,NORMAL,,,,,A,D,biopsie,35.0,1122.0,mutant,,,,
+1851,M,oligo,4.0,,METHYLE,NORMAL,,NORMAL,NORMAL,,,,A,G,biopsie,47.0,1013.0,wt,wt,,,70.0
+1852,F,GBM,4.0,NC,,NORMAL,,,,,,,A,D,partielle,50.0,139.0,wt,mutant,3.0,0.0,80.0
+1853,F,GBM,4.0,NC,,NORMAL,NORMAL,,NORMAL,,NON PERTE,NON PERTE,A,D,biopsie,73.0,345.0,wt,wt,4.0,0.0,70.0
+1854,M,GBM,4.0,,,AMPLIFIE,,,,,,NON PERTE,A,D,exérèse,53.0,132.0,wt,wt,3.0,,80.0
+1855,M,GBM,4.0,NC,,AMPLIFIE,,NORMAL,NORMAL,,PERTE,,A,G,exérèse,60.0,52.0,wt,mutant,4.0,0.0,80.0
+1856,F,astrocytome,3.0,NC,,,NORMAL,,NORMAL,,NON PERTE,NON PERTE,A,D,partielle,73.0,503.0,mutant,wt,3.0,0.0,90.0
+1857,M,gliome,4.0,,,,,,,,PERTE,,A,G,exérèse,58.0,6251.0,wt,,3.0,,70.0
+1858,F,oligo,3.0,NORMAL,METHYLE,,,NORMAL,,,,,A,G,partielle,35.0,14.0,mutant,,4.0,0.0,
+1859,M,GBM,4.0,,,NORMAL,NORMAL,,,,NON PERTE,NON PERTE,A,G,exérèse,57.0,393.0,NC,mutant,3.0,0.0,
+1860,F,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,aucune,61.0,702.0,wt,,,0.0,60.0
+1861,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,,,A,D,exérèse,51.0,598.0,wt,mutant,4.0,0.0,
+1862,M,GBM,4.0,,,NORMAL,NORMAL,NORMAL,,,PERTE,PERTE,A,D,partielle,66.0,2040.0,mutant,wt,,0.0,90.0
+1863,M,oligo,3.0,,,NORMAL,,,,,NON PERTE,NON PERTE,A,G,biopsie,35.0,758.0,wt,mutant,,0.0,
+1864,F,GBM,3.0,NC,METHYLE,,NORMAL,,NORMAL,,,,A,D,biopsie,28.0,502.0,wt,wt,,1.0,80.0
+1865,F,GBM,2.0,ALTERE,METHYLE,NORMAL,,,NORMAL,,NON PERTE,NON PERTE,A,G,biopsie,48.0,4923.0,wt,,3.0,,90.0
+1866,M,oligo,4.0,NC,METHYLE,,,NORMAL,NORMAL,,PERTE,,A,D,exérèse,50.0,885.0,wt,,,0.0,80.0
+1867,M,GBM,3.0,NORMAL,,,,NORMAL,,,,NON PERTE,A,D,biopsie,53.0,794.0,wt,wt,4.0,0.0,
+1868,M,astrocytome,4.0,NC,,,NORMAL,AMPLIFIE,,,PERTE,,A,D,biopsie,48.0,3371.0,wt,mutant,4.0,,100.0
+1869,M,astrocytome,4.0,,,,NORMAL,,NORMAL,,PERTE,,B,G,partielle,35.0,590.0,NC,wt,,,
+1870,F,GBM,2.0,NC,METHYLE,AMPLIFIE,NORMAL,,,,PERTE,PERTE,A,G,partielle,58.0,315.0,wt,,,0.0,
+1871,M,oligo,4.0,NC,NON METHYLE,,NORMAL,,,,,,A,G,,54.0,106.0,wt,,,,
+1872,M,oligo,2.0,NC,NON METHYLE,NORMAL,NORMAL,,,,NON PERTE,PERTE,A,D,exérèse,51.0,222.0,wt,,3.0,0.0,90.0
+1873,F,gliome,4.0,NC,NON METHYLE,NORMAL,NORMAL,,,,,,A,G,partielle,43.0,349.0,wt,mutant,4.0,,
+1874,F,astrocytome,4.0,NORMAL,,,NORMAL,,DELETE,,PERTE,,A,bilatéral,biopsie,55.0,464.0,wt,wt,4.0,0.0,
+1875,M,oligo,4.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,DELETE,,,,A,,biopsie,62.0,734.0,wt,,4.0,0.0,80.0
+1876,M,oligo,1.0,NC,METHYLE,,,NORMAL,NORMAL,,,,A,G,partielle,18.0,1670.0,wt,,3.0,,
+1877,M,GBM,4.0,NC,,AMPLIFIE,,,DELETE,,NON PERTE,,N,G,partielle,76.0,633.0,NC,mutant,3.0,,80.0
+1878,F,GBM,4.0,NC,,,,NORMAL,NORMAL,Maintien,,GAIN,A,D,exérèse,49.0,349.0,wt,mutant,3.0,,
+1879,M,GBM,4.0,NORMAL,NON METHYLE,NORMAL,NORMAL,AMPLIFIE,,,PERTE,NON PERTE,A,D,biopsie,31.0,1124.0,mutant,,,,90.0
+1880,M,GBM,3.0,NC,,,NORMAL,NORMAL,,,,NON PERTE,A,bilatéral,biopsie,55.0,660.0,mutant,mutant,4.0,,
+1881,F,GBM,4.0,NC,,,NORMAL,NORMAL,,,,,A,G,biopsie,52.0,512.0,mutant,mutant,4.0,0.0,90.0
+1882,M,GBM,3.0,NC,,,,NORMAL,NORMAL,,PERTE,,A,D,biopsie,77.0,202.0,mutant,,3.0,,70.0
+1883,M,astrocytome,2.0,,,NORMAL,,NORMAL,NORMAL,,NON PERTE,,A,D,biopsie,79.0,219.0,wt,mutant,4.0,,
+1884,F,GBM,3.0,NC,,,,,NORMAL,,PERTE,NON PERTE,A,G,exérèse,62.0,96.0,wt,,3.0,,
+1885,M,GBM,3.0,NC,,NORMAL,,,,,NON PERTE,,A,G,biopsie,58.0,492.0,wt,mutant,4.0,,
+1886,F,GBM,4.0,NORMAL,,AMPLIFIE,NORMAL,NORMAL,,,,,A,D,partielle,30.0,562.0,mutant,,,0.0,
+1887,F,oligo,4.0,NC,METHYLE,NORMAL,,NORMAL,DELETE,,,NON PERTE,A,G,biopsie,68.0,359.0,wt,mutant,,,
+1888,F,GBM,4.0,NC,,,,,,,PERTE,,A,G,exérèse,32.0,126.0,mutant,mutant,,0.0,90.0
+1889,M,GBM,4.0,NC,,,,,NORMAL,,PERTE,PERTE,A,G,partielle,25.0,396.0,NC,mutant,3.0,0.0,80.0
+1890,F,GBM,3.0,NC,,,NORMAL,NORMAL,NORMAL,,PERTE,PERTE,A,G,biopsie,59.0,143.0,wt,,,,70.0
+1891,M,astrocytome,2.0,,,AMPLIFIE,,NORMAL,,,PERTE,,A,G,biopsie,85.0,1819.0,wt,,,0.0,
+1892,M,astrocytome,4.0,NC,,,NORMAL,NORMAL,,,PERTE,,A,D,biopsie,63.0,251.0,wt,,,,
+1893,F,GBM,2.0,NC,,NORMAL,NORMAL,NORMAL,,,NON PERTE,PERTE,A,G,partielle,53.0,367.0,NC,mutant,4.0,,80.0
+1894,M,GBM,4.0,NC,METHYLE,,NORMAL,AMPLIFIE,,,,PERTE,A,G,exérèse,61.0,227.0,wt,wt,,,
+1895,M,oligo,4.0,,NON METHYLE,NORMAL,NORMAL,NORMAL,,,,NON PERTE,A,G,partielle,52.0,1440.0,mutant,,4.0,0.0,70.0
+1896,M,gliome,2.0,,METHYLE,,,,NORMAL,,PERTE,,A,D,partielle,31.0,170.0,,wt,3.0,,
+1897,M,GBM,4.0,,,NORMAL,,,,,NON PERTE,NON PERTE,A,D,exérèse,82.0,637.0,mutant,mutant,3.0,,
+1898,M,astrocytome,3.0,NC,METHYLE,NORMAL,,,NORMAL,,,NON PERTE,A,bilatéral,partielle,69.0,411.0,wt,mutant,,0.0,90.0
+1899,M,GBM,2.0,,,NORMAL,NORMAL,NORMAL,,,NON PERTE,,A,D,biopsie,56.0,1391.0,wt,mutant,4.0,,
+1900,M,oligo,3.0,NC,NON METHYLE,NORMAL,,NORMAL,,,,NON PERTE,A,G,exérèse,53.0,5864.0,wt,mutant,3.0,0.0,80.0
+1901,M,GBM,3.0,NC,METHYLE,NORMAL,,NORMAL,DELETE,,,NON PERTE,A,D,partielle,30.0,548.0,mutant,mutant,4.0,,
+1902,F,astrocytome,4.0,NC,,,,NORMAL,,,,NON PERTE,A,D,exérèse,69.0,1561.0,wt,wt,,,100.0
+1903,M,oligo,4.0,NC,,NORMAL,,,NORMAL,,,,A,G,partielle,74.0,332.0,NC,wt,4.0,,70.0
+1904,M,GBM,3.0,NC,,NORMAL,,NORMAL,DELETE,,PERTE,NON PERTE,A,D,exérèse,74.0,757.0,wt,,4.0,,
+1905,F,GBM,4.0,ALTERE,,,,,NORMAL,,,,A,G,partielle,61.0,703.0,wt,mutant,,0.0,
+1906,F,gliome,4.0,NC,,NORMAL,,NORMAL,NORMAL,,NON PERTE,,A,D,aucune,68.0,403.0,wt,mutant,4.0,0.0,
+1907,M,oligo,4.0,NC,NON METHYLE,,NORMAL,,,,NON PERTE,,A,G,partielle,29.0,3699.0,NC,,3.0,0.0,100.0
+1908,M,GBM,4.0,,,NORMAL,,NORMAL,,,,NON PERTE,A,G,partielle,60.0,307.0,mutant,wt,4.0,0.0,
+1909,F,GBM,2.0,NC,METHYLE,NORMAL,,NORMAL,,,NON PERTE,NON PERTE,,G,biopsie,28.0,478.0,wt,,3.0,,70.0
+1910,M,GBM,4.0,NC,METHYLE,NORMAL,,,,,,,N,G,exérèse,75.0,3259.0,wt,,4.0,0.0,70.0
+1911,F,astrocytome,4.0,NC,,NORMAL,,NORMAL,DELETE,,NON PERTE,NON PERTE,A,G,partielle,41.0,410.0,wt,,,,90.0
+1912,M,GBM,4.0,ALTERE,,,NORMAL,,NORMAL,,,,A,D,exérèse,61.0,4060.0,mutant,,3.0,,100.0
+1913,F,oligo,4.0,NC,,NORMAL,,,,,,,A,D,partielle,26.0,4765.0,wt,wt,4.0,,
+1914,F,GBM,4.0,NC,,,,,,,,NON PERTE,A,bilatéral,biopsie,70.0,471.0,NC,mutant,,,90.0
+1915,M,gliome,4.0,NC,,,NORMAL,,,,,,A,G,biopsie,48.0,1146.0,mutant,mutant,,0.0,
+1916,M,GBM,2.0,,METHYLE,AMPLIFIE,,,NORMAL,,NON PERTE,PERTE,A,non précisé,partielle,62.0,303.0,mutant,mutant,,0.0,80.0
+1917,M,astrocytome,4.0,,NON METHYLE,NORMAL,,NORMAL,,,PERTE,,A,D,partielle,42.0,644.0,wt,,4.0,,90.0
+1918,F,GBM,4.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,,,NON PERTE,,A,G,biopsie,75.0,329.0,wt,wt,3.0,,80.0
+1919,F,astrocytome,4.0,NC,,NORMAL,NORMAL,,,,PERTE,NON PERTE,A,G,biopsie,41.0,183.0,wt,mutant,,,80.0
+1920,M,GBM,2.0,,,AMPLIFIE,NORMAL,,,,NON PERTE,PERTE,A,G,exérèse,57.0,997.0,wt,,4.0,,
+1921,M,GBM,3.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,NON PERTE,,A,D,exérèse,78.0,625.0,wt,,,,
+1922,F,oligo,4.0,NC,,AMPLIFIE,,NORMAL,,,,PERTE,A,D,exérèse,34.0,403.0,wt,,4.0,,
+1923,F,astrocytome,4.0,NC,,NORMAL,,,,,NON PERTE,NON PERTE,A,G,partielle,60.0,221.0,NC,wt,,0.0,
+1924,F,oligo,4.0,NC,NON METHYLE,AMPLIFIE,,,,,,,A,D,exérèse,64.0,495.0,mutant,wt,4.0,0.0,
+1925,F,astrocytome,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,PERTE,,A,D,exérèse,40.0,365.0,mutant,mutant,,,
+1926,F,GBM,2.0,NC,NON METHYLE,NORMAL,NORMAL,,DELETE,,,PERTE,A,G,partielle,31.0,119.0,wt,wt,3.0,0.0,
+1927,M,GBM,3.0,NC,,,NORMAL,NORMAL,,,NON PERTE,,A,D,biopsie,50.0,3102.0,NC,,,0.0,
+1928,M,oligo,4.0,NC,,NORMAL,NORMAL,,,,PERTE,,A,G,exérèse,85.0,1005.0,mutant,,3.0,,80.0
+1929,M,GBM,4.0,NC,,,,NORMAL,NORMAL,,,,A,D,exérèse,41.0,320.0,NC,wt,4.0,0.0,
+1930,M,GBM,2.0,NC,,NORMAL,,NORMAL,,,,,A,D,exérèse,40.0,426.0,wt,,3.0,0.0,
+1931,M,GBM,4.0,,,,,,NORMAL,,,,A,,partielle,44.0,343.0,NC,,,0.0,
+1932,F,gangliogliome,4.0,,,NORMAL,NORMAL,NORMAL,NORMAL,,,PERTE,A,G,partielle,42.0,2458.0,wt,,4.0,,60.0
+1933,M,GBM,4.0,NC,,NORMAL,,NORMAL,,,NON PERTE,,A,G,partielle,81.0,3569.0,wt,mutant,4.0,,70.0
+1934,M,GBM,4.0,ALTERE,NON METHYLE,NORMAL,,,DELETE,,,,A,G,exérèse,72.0,1015.0,wt,,3.0,0.0,
+1935,M,GBM,4.0,,,,,NORMAL,NORMAL,,,,A,D,partielle,8.0,407.0,NC,wt,4.0,,
+1936,M,GBM,3.0,,NON METHYLE,NORMAL,,NORMAL,,,,,A,G,partielle,76.0,838.0,wt,,4.0,0.0,
+1937,M,GBM,4.0,NC,,,NORMAL,,DELETE,,,,A,G,exérèse,56.0,349.0,wt,,4.0,,100.0
+1938,M,oligo,3.0,NC,,NORMAL,NORMAL,,,,,NON PERTE,A,G,partielle,48.0,604.0,wt,mutant,,0.0,90.0
+1939,M,oligo,4.0,,,,,,NORMAL,,,NON PERTE,A,G,exérèse,38.0,2708.0,wt,mutant,4.0,,
+1940,F,GBM,4.0,NC,,,,,,,,,A,D,biopsie,58.0,1034.0,wt,mutant,3.0,,
+1941,M,gliome,3.0,NC,,NORMAL,NORMAL,,DELETE,,PERTE,NON PERTE,A,D,biopsie,59.0,841.0,wt,,,0.0,80.0
+1942,M,GBM,4.0,NC,NON METHYLE,AMPLIFIE,NORMAL,NORMAL,,,PERTE,,A,D,partielle,63.0,766.0,wt,mutant,4.0,0.0,80.0
+1943,M,oligo,4.0,,,NORMAL,,NORMAL,NORMAL,,PERTE,,A,G,exérèse,40.0,607.0,NC,,3.0,0.0,90.0
+1944,M,gliome,4.0,,,,,,,,,,A,D,biopsie,58.0,769.0,mutant,wt,4.0,,
+1945,M,astrocytome pilocytique,2.0,NC,,AMPLIFIE,,NORMAL,DELETE,Maintien,,NON PERTE,A,G,biopsie,48.0,775.0,wt,,4.0,,70.0
+1946,F,GBM,4.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,,,,NON PERTE,A,G,partielle,61.0,229.0,NC,,3.0,,80.0
+1947,M,GBM,4.0,NC,,NORMAL,,NORMAL,,,,,N,G,biopsie,39.0,505.0,mutant,mutant,,0.0,90.0
+1948,F,oligo,4.0,NC,,,,,,,,,A,G,exérèse,51.0,897.0,wt,wt,4.0,0.0,
+1949,F,oligo,3.0,NC,,NORMAL,,,NORMAL,,PERTE,,A,bilatéral,biopsie,54.0,290.0,wt,mutant,,,50.0
+1950,M,GBM,3.0,NC,,,,,NORMAL,,,PERTE,A,D,biopsie,81.0,6.0,NC,mutant,4.0,0.0,
+1951,F,GBM,3.0,,NON METHYLE,,NORMAL,NORMAL,,,PERTE,,A,D,partielle,36.0,192.0,NC,wt,4.0,,60.0
+1952,M,oligo,4.0,NC,METHYLE,,,,DELETE,,NON PERTE,PERTE,A,D,biopsie,47.0,2388.0,wt,,3.0,0.0,
+1953,M,GBM,4.0,ALTERE,,,,,,,,,A,D,partielle,36.0,516.0,wt,wt,4.0,0.0,80.0
+1954,M,gliome,4.0,,NON METHYLE,,,,,,PERTE,PERTE,A,,partielle,62.0,464.0,mutant,,,,
+1955,M,GBM,3.0,NC,,NORMAL,,NORMAL,DELETE,,,NON PERTE,A,D,partielle,57.0,893.0,wt,mutant,4.0,,90.0
+1956,F,astrocytome gémistocytique (=A2),4.0,,NON METHYLE,,,,,Maintien,PERTE,NON PERTE,A,D,exérèse,33.0,654.0,wt,,4.0,,
+1957,M,GBM,2.0,NC,METHYLE,,NORMAL,,,,NON PERTE,,A,G,biopsie,65.0,855.0,wt,mutant,4.0,0.0,
+1958,M,oligo,2.0,,,,NORMAL,,DELETE,,NON PERTE,,A,D,exérèse,44.0,653.0,NC,,4.0,,
+1959,F,GBM,4.0,NC,,NORMAL,,,NORMAL,,,,A,G,exérèse,25.0,2156.0,wt,,,0.0,90.0
+1960,M,GBM,4.0,NC,,,,NORMAL,,,,NON PERTE,A,G,partielle,39.0,300.0,mutant,,4.0,,90.0
+1961,M,gliome,3.0,NC,NON METHYLE,,,NORMAL,DELETE,,,,A,non précisé,partielle,55.0,1143.0,mutant,,3.0,,
+1962,F,astrocytome pilocytique,4.0,,,,NORMAL,NORMAL,,Maintien,,,A,G,biopsie,66.0,187.0,NC,,4.0,0.0,80.0
+1963,M,GBM,4.0,NC,NON METHYLE,NORMAL,,,NORMAL,,NON PERTE,NON PERTE,A,G,partielle,40.0,1083.0,wt,mutant,,0.0,70.0
+1964,M,GBM,4.0,,,NORMAL,,,DELETE,,,PERTE,A,D,exérèse,66.0,110.0,wt,,,,
+1965,F,GBM,3.0,NC,,NORMAL,,,NORMAL,,,,A,D,partielle,39.0,251.0,NC,wt,,,90.0
+1966,M,astrocytome,3.0,NC,METHYLE,AMPLIFIE,NORMAL,,,,PERTE,NON PERTE,A,D,partielle,58.0,458.0,NC,,4.0,,
+1967,M,GBM,3.0,NORMAL,,NORMAL,NORMAL,,,,,,A,D,biopsie,79.0,194.0,wt,wt,4.0,0.0,60.0
+1968,F,GBM,3.0,NC,NON METHYLE,,NORMAL,,,,,,A,G,partielle,36.0,351.0,mutant,mutant,3.0,,
+1969,M,GBM,4.0,ALTERE,,,,,NORMAL,,,,A,G,exérèse,35.0,297.0,wt,mutant,4.0,,
+1970,M,GBM,3.0,ALTERE,,NORMAL,,NORMAL,,,,NON PERTE,A,D,biopsie,66.0,658.0,NC,,4.0,,
+1971,M,GBM,2.0,NC,,,NORMAL,,DELETE,,NON PERTE,NON PERTE,A,D,biopsie,50.0,403.0,wt,mutant,3.0,0.0,
+1972,F,oligo,3.0,NC,,,NORMAL,,NORMAL,,,PERTE,A,G,exérèse,69.0,485.0,NC,mutant,,,
+1973,M,astrocytome,4.0,NC,,,,,NORMAL,,,NON PERTE,A,D,partielle,78.0,1489.0,wt,mutant,4.0,,
+1974,M,GBM,4.0,,,,NORMAL,,NORMAL,,,PERTE,A,D,biopsie,69.0,1545.0,wt,mutant,,0.0,70.0
+1975,M,oligo,4.0,,,,,NORMAL,NORMAL,,,,A,D,biopsie,60.0,3291.0,wt,,4.0,0.0,90.0
+1976,F,GBM,3.0,NC,,,NORMAL,,NORMAL,,PERTE,PERTE,A,G,partielle,70.0,544.0,wt,mutant,4.0,0.0,80.0
+1977,F,GBM,4.0,NORMAL,,NORMAL,NORMAL,NORMAL,,,,,A,D,partielle,60.0,286.0,mutant,mutant,3.0,,80.0
+1978,M,oligo,4.0,NC,NON METHYLE,NORMAL,,,DELETE,,PERTE,,A,G,exérèse,46.0,287.0,wt,mutant,3.0,,
+1979,M,GBM,4.0,NC,,AMPLIFIE,,,NORMAL,,,,A,G,biopsie,68.0,332.0,wt,,,,70.0
+1980,F,GBM,2.0,NC,METHYLE,,NORMAL,,NORMAL,,PERTE,,N,G,partielle,33.0,161.0,wt,wt,,0.0,
+1981,M,gliome,4.0,NC,,NORMAL,,,,,,PERTE,A,D,biopsie,60.0,169.0,wt,mutant,4.0,,
+1982,M,GBM,4.0,NC,NON METHYLE,,,,,,,PERTE,A,G,partielle,47.0,398.0,wt,,3.0,0.0,80.0
+1983,F,GBM,2.0,,,NORMAL,NORMAL,,NORMAL,,NON PERTE,,A,D,partielle,69.0,796.0,wt,mutant,4.0,0.0,
+1984,F,oligo,4.0,,,NORMAL,,,NORMAL,,PERTE,,A,G,exérèse,43.0,1457.0,NC,,4.0,0.0,
+1985,M,GBM,3.0,NC,,,NORMAL,,,,,PERTE,A,G,partielle,72.0,3220.0,mutant,,4.0,1.0,
+1986,M,GBM,1.0,ALTERE,NON METHYLE,,NORMAL,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,G,exérèse,68.0,421.0,NC,mutant,,,100.0
+1987,M,GBM,4.0,NC,,NORMAL,,,,,NON PERTE,,A,D,exérèse,34.0,1046.0,NC,,,,60.0
+1988,M,oligo,4.0,,,NORMAL,NORMAL,,DELETE,,PERTE,PERTE,A,D,exérèse,70.0,1427.0,NC,mutant,4.0,,100.0
+1989,F,GBM,1.0,NC,METHYLE,,NORMAL,,,,PERTE,,A,D,partielle,33.0,1015.0,mutant,mutant,4.0,,
+1990,F,GBM,3.0,,,NORMAL,,,,,,,A,D,exérèse,62.0,792.0,wt,,4.0,0.0,80.0
+1991,M,GBM,4.0,NC,METHYLE,,,,NORMAL,,PERTE,,A,D,biopsie,41.0,306.0,wt,,,0.0,90.0
+1992,F,GBM,4.0,NC,METHYLE,NORMAL,NORMAL,,DELETE,,PERTE,NON PERTE,A,G,biopsie,58.0,742.0,wt,,3.0,,90.0
+1993,F,astrocytome,3.0,NORMAL,,NORMAL,,,DELETE,,NON PERTE,,A,G,exérèse,73.0,81.0,wt,mutant,,,
+1994,M,astrocytome,3.0,NC,,,,,NORMAL,,,,A,G,biopsie,32.0,462.0,mutant,mutant,3.0,,
+1995,M,oligo,3.0,NC,METHYLE,,,,,,PERTE,,A,G,partielle,27.0,3516.0,NC,mutant,4.0,,80.0
+1996,F,astrocytome,4.0,NC,,NORMAL,NORMAL,,,,,,B,non précisé,biopsie,54.0,810.0,wt,wt,4.0,,
+1997,F,GBM,4.0,NC,NON METHYLE,,NORMAL,,NORMAL,,PERTE,NON PERTE,A,G,partielle,56.0,25.0,wt,mutant,4.0,0.0,80.0
+1998,M,GBM,4.0,,,NORMAL,NORMAL,,,,,,A,D,biopsie,60.0,2182.0,NC,wt,,,80.0
+1999,F,gliome,4.0,NC,,,,NORMAL,NORMAL,,,,A,,biopsie,49.0,277.0,wt,mutant,,0.0,
+2000,M,gliome,4.0,NORMAL,NON METHYLE,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,G,exérèse,57.0,205.0,wt,,4.0,0.0,80.0
+2001,F,GBM,2.0,NC,,,NORMAL,AMPLIFIE,,,,,A,D,biopsie,69.0,872.0,wt,wt,,0.0,
+2002,M,oligo,4.0,NC,,NORMAL,NORMAL,NORMAL,DELETE,,,NON PERTE,A,D,partielle,64.0,2983.0,mutant,mutant,3.0,,80.0
+2003,M,GBM,4.0,NC,NON METHYLE,AMPLIFIE,NORMAL,NORMAL,DELETE,,,NON PERTE,A,G,partielle,43.0,2102.0,wt,,4.0,,
+2004,M,GBM,4.0,ALTERE,NON METHYLE,NORMAL,,NORMAL,DELETE,,NON PERTE,,A,G,partielle,31.0,787.0,mutant,mutant,,,
+2005,F,GBM,4.0,,NON METHYLE,,NORMAL,,NORMAL,,NON PERTE,,B,G,biopsie,60.0,746.0,mutant,wt,4.0,0.0,
+2006,F,GBM,3.0,NC,,,,,,,NON PERTE,PERTE,A,G,biopsie,77.0,1054.0,mutant,mutant,,,70.0
+2007,M,oligo,4.0,NC,,NORMAL,,NORMAL,NORMAL,,PERTE,,A,G,partielle,68.0,132.0,wt,,4.0,0.0,
+2008,F,GBM,3.0,NC,,,,NORMAL,,,,PERTE,A,G,biopsie,51.0,705.0,wt,mutant,3.0,0.0,80.0
+2009,M,GBM,4.0,NORMAL,NON METHYLE,,,,NORMAL,,PERTE,NON PERTE,A,G,partielle,58.0,183.0,wt,wt,4.0,0.0,80.0
+2010,M,GBM,4.0,NC,NON METHYLE,,NORMAL,,,,,PERTE,A,D,exérèse,44.0,286.0,NC,,4.0,,100.0
+2011,M,gliome,4.0,NORMAL,,AMPLIFIE,NORMAL,NORMAL,NORMAL,,,NON PERTE,A,D,partielle,79.0,4671.0,mutant,wt,,0.0,
+2012,F,GBM,4.0,,,AMPLIFIE,,NORMAL,,Maintien,,NON PERTE,A,D,biopsie,60.0,403.0,wt,,,0.0,
+2013,M,oligo,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,,,,,A,G,partielle,44.0,930.0,wt,,,0.0,
+2014,M,GBM,4.0,,NON METHYLE,NORMAL,,,,,,NON PERTE,A,bilatéral,partielle,46.0,3028.0,wt,wt,,,
+2015,M,GBM,2.0,,NON METHYLE,,NORMAL,,,,,NON PERTE,A,bilatéral,biopsie,30.0,2715.0,mutant,,,,
+2016,F,GBM,3.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,PERTE,NON PERTE,A,D,exérèse,49.0,2176.0,NC,mutant,3.0,,70.0
+2017,F,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,D,exérèse,41.0,713.0,wt,mutant,,1.0,
+2018,M,gliome,3.0,,,NORMAL,NORMAL,NORMAL,,,PERTE,NON PERTE,A,,biopsie,65.0,284.0,mutant,,3.0,0.0,70.0
+2019,M,GBM,4.0,NORMAL,NON METHYLE,AMPLIFIE,,,DELETE,,,NON PERTE,A,G,biopsie,56.0,1172.0,NC,mutant,4.0,,
+2020,F,astrocytome pilocytique,4.0,NC,,AMPLIFIE,NORMAL,,DELETE,,,PERTE,A,G,partielle,69.0,883.0,wt,wt,4.0,,
+2021,F,oligo,4.0,NC,NON METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,PERTE,NON PERTE,A,D,partielle,45.0,593.0,wt,,4.0,,50.0
+2022,F,gliome,4.0,NC,METHYLE,NORMAL,NORMAL,,,,,PERTE,A,G,biopsie,48.0,147.0,NC,mutant,,0.0,80.0
+2023,F,oligo,4.0,NC,,,NORMAL,NORMAL,NORMAL,,NON PERTE,PERTE,A,D,partielle,55.0,816.0,NC,,,,90.0
+2024,M,oligo,4.0,NC,,,NORMAL,NORMAL,,,,PERTE,A,D,biopsie,66.0,1130.0,wt,,3.0,,80.0
+2025,F,GBM,3.0,NC,,,NORMAL,NORMAL,,,NON PERTE,,A,G,biopsie,27.0,224.0,wt,,3.0,0.0,
+2026,M,oligo,3.0,NC,,NORMAL,NORMAL,NORMAL,,,PERTE,,A,D,biopsie,24.0,3311.0,wt,wt,,,90.0
+2027,M,gliome,4.0,NC,,,,NORMAL,,,,NON PERTE,A,D,partielle,26.0,333.0,wt,,4.0,,
+2028,F,gliome,3.0,,,AMPLIFIE,NORMAL,,NORMAL,,PERTE,PERTE,A,G,partielle,49.0,1250.0,wt,,4.0,,80.0
+2029,M,GBM,2.0,NC,NON METHYLE,,,,NORMAL,,,,A,G,exérèse,66.0,916.0,NC,,4.0,0.0,90.0
+2030,M,GBM,4.0,NC,,AMPLIFIE,,,NORMAL,,,NON PERTE,A,G,biopsie,71.0,679.0,wt,,3.0,,60.0
+2031,M,oligo,3.0,NC,,,,NORMAL,,,PERTE,,A,G,exérèse,55.0,1252.0,wt,wt,,,
+2032,M,GBM,1.0,NC,,,NORMAL,NORMAL,NORMAL,,,,A,G,exérèse,53.0,1161.0,wt,mutant,,,
+2033,M,gliome,4.0,NC,NON METHYLE,AMPLIFIE,NORMAL,,,,,,A,D,biopsie,55.0,143.0,mutant,,,0.0,
+2034,F,GBM,2.0,,,,,NORMAL,NORMAL,,NON PERTE,PERTE,A,G,exérèse,47.0,1296.0,wt,mutant,,,50.0
+2035,F,GBM,3.0,NC,,NORMAL,,,,,,,A,G,exérèse,71.0,295.0,wt,,4.0,,60.0
+2036,M,GBM,4.0,NORMAL,,,,,,,PERTE,NON PERTE,A,non précisé,biopsie,27.0,153.0,wt,mutant,4.0,0.0,80.0
+2037,M,GBM,3.0,,,,NORMAL,,,,,,A,G,partielle,77.0,677.0,NC,,4.0,,
+2038,M,GBM,4.0,NORMAL,,NORMAL,NORMAL,NORMAL,DELETE,,,,A,D,partielle,26.0,122.0,wt,mutant,3.0,0.0,
+2039,M,oligo,3.0,,,,,,NORMAL,,,PERTE,A,G,partielle,56.0,498.0,wt,mutant,3.0,,
+2040,M,GBM,3.0,,,NORMAL,NORMAL,,NORMAL,,PERTE,,A,D,partielle,39.0,527.0,wt,,,,90.0
+2041,F,astrocytome,4.0,,,NORMAL,NORMAL,,NORMAL,,,,A,G,,56.0,111.0,mutant,mutant,4.0,,
+2042,M,GBM,4.0,NC,NON METHYLE,NORMAL,,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,G,biopsie,61.0,472.0,NC,,3.0,0.0,80.0
+2043,F,astrocytome,4.0,NC,,,,,NORMAL,,NON PERTE,PERTE,A,G,exérèse,50.0,2492.0,NC,wt,4.0,0.0,80.0
+2044,M,GBM,2.0,NC,NON METHYLE,,,,,,,,A,non précisé,exérèse,67.0,1695.0,mutant,,4.0,0.0,80.0
+2045,F,astrocytome,3.0,NC,,NORMAL,NORMAL,,NORMAL,,PERTE,NON PERTE,A,G,exérèse,62.0,945.0,wt,mutant,4.0,,
+2046,F,gliome,3.0,NORMAL,NON METHYLE,,,NORMAL,,,,,A,G,partielle,54.0,5704.0,wt,mutant,4.0,,90.0
+2047,M,GBM,4.0,NC,,AMPLIFIE,NORMAL,NORMAL,NORMAL,,NON PERTE,NON PERTE,A,D,biopsie,63.0,1060.0,wt,mutant,3.0,,
+2048,F,GBM,4.0,NC,,NORMAL,NORMAL,,NORMAL,,,PERTE,A,D,partielle,43.0,389.0,wt,,,0.0,
+2049,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,,,,,A,non précisé,aucune,51.0,513.0,mutant,,3.0,0.0,80.0
+2050,F,GBM,3.0,,METHYLE,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,G,biopsie,43.0,517.0,wt,,4.0,0.0,90.0
+2051,M,GBM,4.0,NC,,,NORMAL,,,,,,N,D,biopsie,52.0,96.0,mutant,,,0.0,90.0
+2052,M,GBM,3.0,,METHYLE,,,NORMAL,,,NON PERTE,,A,D,partielle,48.0,455.0,wt,wt,4.0,0.0,
+2053,F,gliome,3.0,NORMAL,NON METHYLE,,NORMAL,,,,,,A,D,exérèse,53.0,359.0,wt,mutant,,0.0,60.0
+2054,M,GBM,2.0,NC,,NORMAL,,NORMAL,NORMAL,,PERTE,,A,D,biopsie,73.0,754.0,mutant,mutant,,0.0,70.0
+2055,F,gliome,4.0,NC,,,,,DELETE,,NON PERTE,,A,D,exérèse,61.0,347.0,wt,wt,,,
+2056,M,GBM,4.0,NC,METHYLE,,NORMAL,NORMAL,,,,,A,D,partielle,28.0,604.0,wt,,,,
+2057,M,oligo,2.0,NC,,NORMAL,,,NORMAL,,,NON PERTE,A,D,partielle,62.0,867.0,wt,mutant,4.0,0.0,
+2058,M,astrocytome,3.0,NC,,AMPLIFIE,,,,,,,A,D,partielle,65.0,1029.0,wt,,4.0,0.0,
+2059,M,GBM,4.0,,,,,,NORMAL,,NON PERTE,GAIN,A,D,exérèse,61.0,1053.0,mutant,,,,70.0
+2060,F,GBM,4.0,NC,,NORMAL,,,,,,PERTE,A,D,biopsie,36.0,5022.0,wt,,4.0,0.0,
+2061,F,gliome,4.0,NC,,,,NORMAL,DELETE,,PERTE,PERTE,A,D,exérèse,35.0,571.0,NC,mutant,3.0,,
+2062,F,astrocytome,2.0,,,NORMAL,NORMAL,NORMAL,,,,PERTE,A,G,biopsie,50.0,508.0,NC,mutant,,,80.0
+2063,M,GBM,3.0,NC,METHYLE,NORMAL,NORMAL,NORMAL,,,,,A,bilatéral,biopsie,39.0,601.0,wt,mutant,,,80.0
+2064,M,oligo,3.0,,METHYLE,,,NORMAL,,,NON PERTE,,A,G,partielle,68.0,320.0,NC,mutant,4.0,,
+2065,M,GBM,3.0,NC,,NORMAL,,NORMAL,,,,,A,D,partielle,70.0,403.0,mutant,,3.0,,
+2066,F,GBM,2.0,NC,,,NORMAL,,NORMAL,,PERTE,,A,D,exérèse,50.0,256.0,wt,mutant,4.0,0.0,80.0
+2067,M,GBM,4.0,,,,,,DELETE,,NON PERTE,PERTE,A,D,biopsie,45.0,361.0,wt,wt,,,80.0
+2068,F,GBM,4.0,NC,NON METHYLE,NORMAL,,,NORMAL,,NON PERTE,NON PERTE,A,D,biopsie,48.0,512.0,wt,mutant,,,100.0
+2069,M,oligo,3.0,NC,,,,,,,PERTE,,A,D,exérèse,79.0,1363.0,wt,mutant,4.0,,80.0
+2070,F,GBM,2.0,NC,,,,,,,PERTE,GAIN,N,G,partielle,54.0,440.0,wt,wt,4.0,,80.0
+2071,F,GBM,2.0,NC,NON METHYLE,,,NORMAL,,,PERTE,,A,D,partielle,49.0,345.0,wt,mutant,4.0,,
+2072,M,oligo,2.0,NC,,NORMAL,,AMPLIFIE,,,,NON PERTE,A,D,biopsie,41.0,1051.0,wt,,4.0,,
+2073,F,GBM,4.0,NC,,,NORMAL,,NORMAL,,PERTE,,A,G,biopsie,33.0,1290.0,mutant,mutant,3.0,1.0,
+2074,M,GBM,2.0,NORMAL,,NORMAL,,NORMAL,DELETE,,PERTE,,A,G,aucune,35.0,514.0,mutant,mutant,3.0,0.0,90.0
+2075,F,oligo,1.0,NC,,AMPLIFIE,NORMAL,,NORMAL,,PERTE,PERTE,N,G,biopsie,52.0,363.0,NC,mutant,,,
+2076,M,GBM,3.0,NC,,,NORMAL,NORMAL,,,,,A,D,biopsie,69.0,197.0,NC,mutant,,,
+2077,M,oligo,2.0,,,,,NORMAL,,,,GAIN,A,D,exérèse,73.0,492.0,wt,mutant,3.0,,
+2078,M,GBM,4.0,NC,,,NORMAL,NORMAL,NORMAL,,,,A,G,exérèse,34.0,136.0,wt,mutant,4.0,0.0,80.0
+2079,M,GBM,4.0,NC,,,NORMAL,NORMAL,,,,,A,G,exérèse,55.0,552.0,NC,,,,50.0
+2080,M,GBM,4.0,NC,,,NORMAL,,,,PERTE,,A,D,biopsie,47.0,441.0,wt,mutant,,,
+2081,F,GBM,2.0,,,AMPLIFIE,,NORMAL,NORMAL,,PERTE,,A,G,biopsie,66.0,461.0,NC,mutant,,,80.0
+2082,M,GBM,4.0,NC,,,NORMAL,NORMAL,DELETE,,,NON PERTE,A,D,partielle,39.0,1395.0,wt,mutant,,,90.0
+2083,M,oligo,4.0,NC,,,,,NORMAL,,NON PERTE,,A,G,partielle,71.0,516.0,NC,,,0.0,
+2084,M,GBM,4.0,NC,,NORMAL,NORMAL,NORMAL,NORMAL,,,,A,D,biopsie,59.0,286.0,wt,,4.0,0.0,70.0
+2085,F,oligo,2.0,NORMAL,,,,NORMAL,DELETE,,PERTE,,A,G,biopsie,68.0,540.0,wt,,3.0,0.0,
