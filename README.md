@@ -1,7 +1,8 @@
 # ODSCLondon2018_MissingData
 Missing Data Workshop ODSC London
 
-Clone this repository on your laptops by opening a terminal/command line and typing 
+Clone this repository on your laptops by opening a terminal/command line and typing:
+
 ```git clone https://github.com/patricieni/ODSCLondon2018_MissingData.git```
 
 You will now have the same repository on your local machines. Next, we look at what to install to be able to run this notebook. 
