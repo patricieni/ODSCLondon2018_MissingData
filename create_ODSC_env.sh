@@ -10,3 +10,4 @@ conda install -c conda-forge r-rknn -y
 conda install -c r rpy2 -y
 conda install -c conda-forge missingno -y
 conda install -c conda-forge r-vim -y
+python -m ipykernel install --user --name ODSC --display-name "Python (ODSC)"
